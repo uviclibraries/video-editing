@@ -6,4 +6,4 @@ parent: Workshop Activities Mac
 ---
 # Green Screen
 
-[NEXT STEP: Cropping and Slo-mo](imovie-cropping-slo-mo-screen.html){: .btn .btn-blue }
+[NEXT STEP: Cropping and Slo-mo](imovie-cropping-slo-mo.html){: .btn .btn-blue }

@@ -6,4 +6,5 @@ parent: Workshop Activities Windows
 ---
 # Detaching Audio and Adding Music
 
-[NEXT STEP: OpenShot Screen Recording](openshot-screen-recording.html){: .btn .btn-blue }
+[Bonus Activity: Screen Recording](screen-recording.html){: .btn .btn-blue }<br>
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }

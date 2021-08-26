@@ -48,5 +48,5 @@ Now select “**Movie**” (labelled #3).
 - [ccMixter](http://bit.ly/34hdOMq){:target="_blank"} - CC-licensed music for film, video and games 
 - [CCTrax](http://bit.ly/2DbPjV8){:target="_blank"} - CC-licensed music grouped by genre
 
-[Bonus Activity: iMovie Screen Recording](screen-recording.html){: .btn .btn-blue }<br>
+[Bonus Activity: Screen Recording](screen-recording.html){: .btn .btn-blue }<br>
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }

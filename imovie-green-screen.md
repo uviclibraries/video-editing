@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3-Imovie Green Screen
+title: 3-iMovie Green Screen
 nav_order: 4
 parent: Workshop Activities Mac
 ---

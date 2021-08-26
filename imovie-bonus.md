@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 7-Imovie Bonus Activity
+title: 7-iMovie Bonus Activity
 nav_order: 8
 parent: Workshop Activities Mac
 ---

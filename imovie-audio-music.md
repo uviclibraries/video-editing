@@ -48,4 +48,4 @@ Now select “**Movie**” (labelled #3).
 - [ccMixter](http://bit.ly/34hdOMq){:target="_blank"} - CC-licensed music for film, video and games 
 - [CCTrax](http://bit.ly/2DbPjV8){:target="_blank"} - CC-licensed music grouped by genre
 
-[NEXT STEP: Screen Recording](imovie-screen-recording.html){: .btn .btn-blue }
+[NEXT STEP: iMovie Screen Recording](imovie-screen-recording.html){: .btn .btn-blue }

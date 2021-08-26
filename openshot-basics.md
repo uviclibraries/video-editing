@@ -6,4 +6,4 @@ parent: Workshop Activities Windows
 ---
 # Basics
 
-[NEXT STEP: Green Screen](openshot-green-screen.html){: .btn .btn-blue }
+[NEXT STEP: OpenShot Green Screen](openshot-green-screen.html){: .btn .btn-blue }

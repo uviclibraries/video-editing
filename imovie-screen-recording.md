@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6-Imovie Screen Recording
+title: 6-iMovie Screen Recording
 nav_order: 7
 parent: Workshop Activities Mac
 ---

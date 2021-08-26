@@ -25,14 +25,35 @@ This workshop is not an endorsement of Taguette; there are many options for qual
 - Passanges coded with different tags have the same colour in Taguette. 
 - Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
 
-## Learning objectives - UPDATE FOR THE NEW TOOL
+## Learning objectives for iMovie
+Participants will be able to do the following by the end of this orientation: 
 
-At the end of this workshop, you will be able to:
+1. Create a New Project in iMovie.
+2. Import video into iMovie from an SD card.
+3. Trim & Split video clips.
+4. Insert transitions between clips.
+5. Create Title and Credits.
+6. Mute or adjust audio volume in video clips.
+7. Video Export and publishing options.
+**Advanced learning outcomes for participants who want to do more:**
+8. Import audio.
+9. Make a slow-motion video clip.
+10. Crop a video clip.
+11. How to use a green screen video.
 
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. Use Taguette on either their personal computer or on a cloud-based server
-3. Will have coded at least two texts of their choosing (interviews, speeches, lectures, announcements, etc.) using techniques covered in the workshop
-4. Will have research materials with codes and have exported them
-5. Created a basic analysis of coded data in Excel
- 
+## Learning objectives for OpenShot
+Participants will be able to do the following by the end of this orientation: 
+1. Create a New Project in OpenShot Video Editor
+2. Import video into OpenShot Video from an SD card.
+3. Trim & Split video clips.
+4. Insert transitions between clips.
+5. Create Title and Credits.
+6. Mute or adjust audio volume in video clips.
+7. Video Export and publishing options.
+**Advanced learning outcomes for participants who want to do more:**
+8. Import audio.
+9. Make a slow-motion video clip.
+10. Crop a video clip.
+11. How to use a green screen video.
+
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }

@@ -6,7 +6,7 @@ nav_order: 2
 ## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with IMovie and/or OpenShot in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
-**10 minutes.**<br>
+**Approximately 10 minutes to complete.**<br>
 ### iMovie
 - [iMovie feature overview](https://www.apple.com/ca/imovie/){:target="_blank"} (2 min)
 - [Video project walkthrough](https://www.youtube.com/watch?v=pWXpaFFx8f0){:target="_blank"} (6 min)

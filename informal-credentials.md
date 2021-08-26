@@ -3,7 +3,8 @@ layout: default
 title: Earn a Workshop Badge
 nav_order: 9
 ---
-UPDATE WITH WORKSHOP BADGE URL FROM BADGR.COM: <img src="https://api.badgr.io/public/badges/VniblBxHTduaHgNkPtAVfQ/image" style="float:right;width:180px;"> 
+<img src="https://api.badgr.io/public/badges/ZLoWG_DrRuy2keGOiW8WSw/image" style="float:right;width:180px;"> 
+<img src="https://api.badgr.io/public/badges/VXh4mwN5TEuUYZZXHY16-Q/image" style="float:right;width:180px;"> 
 
 # Informal Credentials or Digital Badges
 
@@ -13,12 +14,9 @@ DSC electronic badges are [cryptographically signed](https://badgecheck.io/){:ta
 
 DSC badges are awarded at the request of workshop participants after a DSC staff member has verified that they have successfully completed one or more of the workshop hands-on workshop activities. You can see a list of all the badges offered by the DSC on our [Badgr page](https://badgr.com/public/issuers/HI5nEIsFQKiFDSGJWrYNxQ/badges){:target="_blank"}.
 
-### UPDATE: Earn an Informal Credential or Badge for Taguette
+### Earn an Informal Credential or Badge for Video Editing 
 
-If you’d like to earn a DSC badge for this workshop, please email the following spreadsheets to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
-1. Statistical Functions
-2. Macros
-3.  Digital Dashboards
+If you’d like to earn a DSC badge for this workshop, please complete two of the projects and then email pictures of both projects to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}. Note: you can use your phone to email the pictures or do screenshots
 
 ### Learn how you can share your DSC Badge
 To learn more about DSC badges and how you can share your them on LinkedIn profile, personal website, or resume, check our [DSC Badges webpage](https://onlineacademiccommunity.uvic.ca/dsc/badges/){:target="_blank"}.

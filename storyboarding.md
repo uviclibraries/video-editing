@@ -1,3 +1,9 @@
+---
+layout: default
+title: 2-Storyboarding Activity
+nav_order: 2
+parent: Bonus Activities
+---
 # Bonus Activity:Storybording using Storyboarder software
 In this exercise, you will create a simple storyboard. If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 

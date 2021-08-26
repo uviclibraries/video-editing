@@ -3,27 +3,15 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-<img src="WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;height:180px;"> 
-
 # Video-Editing with iMovie and OpenShot
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 10 min 
+- Introductory presentation: 12 min
+- Hands-on activities: 60-90 min
 
 ## Why iMovie and OpenShot? 
 
-[TOOL NAME](https://TOOL-URL-HERE.org/) Desribe the tool and how it can be used. This is an example of the description for Taguette:
-
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
-
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
-
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
-
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
+iMovie and OpenShot are useful tools that enable users to easily edit and modify video footage. Both softwares are completely free and have numerous features that create wonderful effects. iMovie is created by Apple which supports Mac and IOS users whereas OpenShot is available for Windows, Linux and Mac. This workshop will allow users to learn key features of these softwares and create and edit video projects. 
 
 ## Learning objectives for iMovie
 Participants will be able to do the following by the end of this orientation: 
@@ -34,8 +22,8 @@ Participants will be able to do the following by the end of this orientation:
 4. Insert transitions between clips.
 5. Create Title and Credits.
 6. Mute or adjust audio volume in video clips.
-7. Video Export and publishing options.
-**Advanced learning outcomes for participants who want to do more:**
+7. Video Export and publishing options.<br>
+**Advanced learning outcomes for participants who want to do more:**<br>
 8. Import audio.
 9. Make a slow-motion video clip.
 10. Crop a video clip.
@@ -49,8 +37,8 @@ Participants will be able to do the following by the end of this orientation:
 4. Insert transitions between clips.
 5. Create Title and Credits.
 6. Mute or adjust audio volume in video clips.
-7. Video Export and publishing options.
-**Advanced learning outcomes for participants who want to do more:**
+7. Video Export and publishing options.<br>
+**Advanced learning outcomes for participants who want to do more:**<br>
 8. Import audio.
 9. Make a slow-motion video clip.
 10. Crop a video clip.

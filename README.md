@@ -1,4 +1,4 @@
-# WORKSHOP Name goes here...
+# Video Editing
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://richmccue.github.io/video-editing/

@@ -2,7 +2,7 @@
 layout: default
 title: Activities Introduction
 nav_order: 2
-parent: Workshop Activities
+parent: Workshop Activities Mac
 ---
 # Hands-On Activities Introduction
 

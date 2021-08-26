@@ -43,6 +43,7 @@ Note: Storyboard also gives you the option to draw on paper and import these ima
 
 Some useful links to help you:
 - [Storyboarder FAQ](https://wonderunit.com/storyboarder/faq/){:target="_blank"}
-- [How to modify a scene in Shot Generator: https://www.youtube.com/watch?v=dojzTtvr9xk 
-Automatic Shot Generator: https://www.youtube.com/watch?v=_0hI-FBqwB0
+- [How to modify a scene in Shot Generator](https://www.youtube.com/watch?v=dojzTtvr9xk){:target="_blank"}
+- [Automatic Shot Generator](https://www.youtube.com/watch?v=_0hI-FBqwB0){:target="_blank"}
+
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }

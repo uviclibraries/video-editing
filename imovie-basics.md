@@ -20,13 +20,13 @@ In this exercise, you will create and edit a movie using iMovie. If you have any
 - Click on the “**Desktop**” on the left navigation pane and then select “**goats.mp4**” 
 - Finally, click on the blue “**Import Selected**” or “**Import All**” button on the bottom right of the dialog box.
 ![Demonstration of Step 3](images/imovie-basics-05.gif)
-4. Drag the video clip you just imported into the timeline at the bottom of the iMovie screen. <img src="images/imovie-basics-06.png" style="float:right;width:250px" alt="video timeline"> 
+4. <img src="images/imovie-basics-06.png" style="float:right;width:250px" alt="video timeline"> Drag the video clip you just imported into the timeline at the bottom of the iMovie screen. 
 ![Demonstration of Step 4](images/imovie-basics-07.gif)
 5. First, play the 90-second video by pressing the play button below the video. (Note: pressing the spacebar will start and stop the video which is very handy while editing)
 <img src="images/imovie-basics-09.png" style="float:right;width:250px" alt="mouse pointer"> 
 6. Trim 20 or 30 seconds off the end of the video by selecting the video in the timeline and then moving the mouse pointer over the end of the video clip and then drag the handle to the left. The same can be done with the beginning of the video if you’d like.
 ![Demonstration of Step 6](images/imovie-basics-08.gif)
-7. Next, let’s split the video at approximately the 15-second mark from the beginning. <img src="images/imovie-basics-10.png" style="float:right;width:250px" alt="split clip button and menu">  To do this, select the video in the timeline, then right mouse click at about the 15-second mark, and finally select “**Split Clip**”
+7. <img src="images/imovie-basics-10.png" style="float:right;width:250px" alt="split clip button and menu"> Next, let’s split the video at approximately the 15-second mark from the beginning. To do this, select the video in the timeline, then right mouse click at about the 15-second mark, and finally select “**Split Clip**”
 ![Demonstration of Step 7](images/imovie-basics-11.gif)
 8. The trimmed and split video should now look like the photo below and to the right.
 ![Image of video clip split](images/imovie-basics-12.png)

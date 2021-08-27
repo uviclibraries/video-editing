@@ -4,7 +4,7 @@ title: 3-iMovie Green Screen
 nav_order: 4
 parent: Workshop Activities Mac
 ---
-<img src="images/imovie-green-01.png" style="float:right;width:180px;height:180px;" alt="iMovie logo with green screen"> 
+<img src="images/imovie-green-01.png" style="float:right;width:180px;height:200px;" alt="iMovie logo with green screen"> 
 # Green Screen
 In this exercise, you will create and edit a movie in iMovie, including using green screen video and importing audio to overlay your clip. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 

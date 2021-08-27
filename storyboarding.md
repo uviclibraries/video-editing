@@ -4,7 +4,7 @@ title: 2-Storyboarding Activity
 nav_order: 2
 parent: Bonus Activities
 ---
-<img src="images/storyboarder-01.png" style="float:right;width:220px" alt="storyboarder logo">
+<img src="images/storyboarder-01.png" style="float:right;width:250px" alt="storyboarder logo">
 # Bonus Activity:Storyboarding using Storyboarder software
 In this exercise, you will create a simple storyboard. If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 
@@ -16,7 +16,7 @@ In this exercise, you will create a simple storyboard. If you have any questions
 - Next will be options for Aspect Ratio. For this example, we will be using 16:9 
 - Give your project a name, choose where it will be saved, and then click Create
 ![Demonstration of Step 1](images/storyboarder-02.gif)
-2. <img src="images/storyboarder-03.png" style="float:right;width:200px" alt="pen and pencil tools"> Across the top of the screen are various pen and pencil tools, as well as an eraser. You can click on any of these and then choose a color using the swatches to the right of the pens. <img src="images/storyboarder-04.png" style="float:right;width:200px" alt="colour swatches"> To access the full range of colours, click on the largest swatch. Below the largest swatch are the Size and Opacity tools. Click and drag them to the left and right to increase and decrease them. <img src="images/storyboarder-05.png" style="float:right;width:180px" alt="size and opacity">
+2. <img src="images/storyboarder-03.png" style="float:right;width:200px" alt="pen and pencil tools"> Across the top of the screen are various pen and pencil tools, as well as an eraser. You can click on any of these and then choose a color using the swatches to the right of the pens. To access the full range of colours, click on the largest swatch. Below the largest swatch are the Size and Opacity tools.<img src="images/storyboarder-04.png" style="float:right;width:200px" alt="colour swatches"> Click and drag them to the left and right to increase and decrease them. <img src="images/storyboarder-05.png" style="float:right;width:180px" alt="size and opacity">
 ![Demonstration of Step 2](images/storyboarder-06.gif)
 3. You can draw on the first blank board to represent the setup of your first video scene. Remember that storyboards do not need to be detailed or artistic -- the point is to remember and/or communicate how you want each shot to be set up on the day of filming. You can include as many scenes or as few as you think you will need for your project. 
 - Click on the **grey plus sign** next to the board thumbnail at the bottom left of the screen to add a new board. The new board will have faint outlines of your previous board to show you the previous scene using a function called Onion Skin. You can toggle this function on and off when needed by clicking the Onion Skin button in the top right or tapping the letter O key on your keyboard. 

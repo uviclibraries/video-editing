@@ -46,7 +46,6 @@ In this exercise, you will create and edit a movie in iMovie, including using sp
 - This audio clip is quite a bit longer than your video clip. To fix this: 
         - Select the audio clip, scroll to the far right to find the end of the audio clip.
         - <img src="images/imovie-slow-16.png" style="float:right;width:200px" alt="settings slider"> Grab the handle at the end of the audio clip and drag it to the left until your video and audio clips are the same length (pro tip: scale your timeline by moving the slider in the middle right of your screen. <img src="images/imovie-slow-17.png" style="float:right;width:250px" alt="audio track volume bar">
-
 - If you want to make the helicopter audio louder or softer, simply select the green audio track, and then grab the horizontal line in the middle and move it up or down. 50% volume seems pretty good.
 ![Demonstration of Step 6](images/imovie-slow-18.gif)
 7. Congratulations, you're done! Feel free to add a title & credits to your video if you want. Your video should look something [like this](https://goo.gl/gkqx8b){:target="_blank"} 

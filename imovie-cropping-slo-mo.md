@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4-iMovie Cropping and Slo-mo
+title: 4-iMovie Cropping & Slo-mo
 nav_order: 5
 parent: Workshop Activities Mac
 ---

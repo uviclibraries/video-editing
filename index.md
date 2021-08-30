@@ -11,7 +11,7 @@ nav_order: 1
 
 ## Why iMovie and OpenShot? 
 
-iMovie and OpenShot are useful tools that enable users to easily edit and modify video footage. Both softwares are completely free and have numerous features that create wonderful effects. iMovie is created by Apple which supports Mac and IOS users whereas OpenShot is available for Windows, Linux and Mac. This workshop will allow users to learn key features of these softwares and create and edit video projects. 
+iMovie and OpenShot are powerful tools that enable you to easily edit and modify video footage. Both software packages are free to use on their respective platforms and have numerous features that create wonderful effects. iMovie is created by Apple which supports Mac and IOS users whereas OpenShot is available for Windows, Linux and Mac. This workshop will walk you through the key features of these video editors and will help you create and edit three video projects. 
 
 ## Learning objectives
 Participants will be able to do the following by the end of this workshop: 

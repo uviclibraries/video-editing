@@ -13,35 +13,20 @@ nav_order: 1
 
 iMovie and OpenShot are useful tools that enable users to easily edit and modify video footage. Both softwares are completely free and have numerous features that create wonderful effects. iMovie is created by Apple which supports Mac and IOS users whereas OpenShot is available for Windows, Linux and Mac. This workshop will allow users to learn key features of these softwares and create and edit video projects. 
 
-## Learning objectives for iMovie
-Participants will be able to do the following by the end of this orientation: 
+## Learning objectives
+Participants will be able to do the following by the end of this workshop: 
 
-1. Create a New Project in iMovie.
-2. Import video into iMovie from an SD card.
-3. Trim & Split video clips.
-4. Insert transitions between clips.
-5. Create Title and Credits.
-6. Mute or adjust audio volume in video clips.
+1. Create a New Project
+2. Import video into the video editor from an SD card
+3. Trim & Split video clips
+4. Insert transitions between clips
+5. Create Title and Credits
+6. Mute or adjust audio volume in video clips
 7. Video Export and publishing options.<br>
 **Advanced learning outcomes for participants who want to do more:**<br>
-8. Import audio.
-9. Make a slow-motion video clip.
-10. Crop a video clip.
-11. How to use a green screen video.
-
-## Learning objectives for OpenShot
-Participants will be able to do the following by the end of this orientation: 
-1. Create a New Project in OpenShot Video Editor
-2. Import video into OpenShot Video from an SD card.
-3. Trim & Split video clips.
-4. Insert transitions between clips.
-5. Create Title and Credits.
-6. Mute or adjust audio volume in video clips.
-7. Video Export and publishing options.<br>
-**Advanced learning outcomes for participants who want to do more:**<br>
-8. Import audio.
-9. Make a slow-motion video clip.
-10. Crop a video clip.
-11. How to use a green screen video.
+8. Import audio
+9. Make a slow-motion video clip
+10. Crop a video clip
+11. Create a green screen video
 
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }

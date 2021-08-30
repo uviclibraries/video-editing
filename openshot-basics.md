@@ -4,6 +4,7 @@ title: 2-OpenShot Basics
 nav_order: 3
 parent: Workshop Activities Windows
 ---
+<img src="images/openshot-basics-01.png" style="float:right;width:180px;height:180px;" alt="OpenShot logo"> 
 # Basics
 In this exercise, you will create and edit a movie using OpenShot Video Editor. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
@@ -15,19 +16,20 @@ Pre-class Activity Preparation (if you have not already, please download OpenSho
 2. Open OpenShot Video Editor by clicking on the OpenShot Video Editor (see the icon that looks like a globe at the top of this page).
 - Control/Right click on **New Project** icon 
 - Then select “**Project Files**” from the pull down 
-
+![Demonstration of Step 2](images/openshot-basics-02.gif)
 3. Next click on the “**+**” button at the top of the OpenShot Video Editor screen. 
 - Select “**Desktop**” on the left navigation pane and then select “**goats.mp4**” 
 - Finally, click on the file and select  “**open**” on the bottom right of the dialog box.
-
+![Demonstration of Step 3](images/openshot-basics-03.gif)
 4. Drag the video clip you just imported into the timeline at the bottom of the OpenShot Video Editor screen.
-
+![Demonstration of Step 4](images/openshot-basics-04.gif)
 5. First, play the 90-second video by pressing the play button below the video. (Note: pressing the spacebar will start and stop the video which is very handy while editing)
 
 6. Trim 20 or 30 seconds off the end of the video by selecting the video in the timeline and then moving the mouse pointer over the end of the video clip and then drag the handle to the left. The same can be done at the beginning of the video if you’d like.
-
-7. Next, let’s split the video at approximately the 15-second mark from the beginning. To do this, select the video in the timeline, then control/right mouse click at about the 15-second mark, and finally, select “**Slice**” and “**Keep both Sides**”. 
-
+![Demonstration of Step 6](images/openshot-basics-05.gif)
+7. Next, let’s split the video at approximately the 15-second mark from the beginning. To do this, select the video in the timeline, then control/right mouse click at about the 15-second mark, and finally, select “**Slice**” and “**Keep both Sides**”.<br>
+![Image of Split Clip menu](images/openshot-basics-06.png)
+![Demonstration of Step ](images/openshot-basics-05.gif)
 8. The trimmed and split video should now look like the photo below.
 
 9. Now make a transition between the split videos:

@@ -61,5 +61,6 @@ In this exercise, you will create and edit a movie in OpenShot Video Editor, inc
 - It will take a few minutes for OpenShot Video Editor to export your video.
 
 10. Congratulations, you’ve created and edited a more advanced video in OpenShot Video Editor! Your video should look something [like this](https://goo.gl/yBjs7k){:target="_blank"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AmOVm-GxP1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [NEXT STEP: OpenShot Cropping and Slow-Mo](openshot-cropping-slo-mo.html){: .btn .btn-blue }

@@ -47,5 +47,6 @@ In this exercise, you will create and edit a movie in OpenShot Video Editor, inc
 - If you want to make the audio louder or softer, simply right click on the clip, select “**Volume**” and then “**Entire Clip**”, Finally select the percentage you want “**Level 50%**” volume seems pretty good.
 ![Demonstration of Step 6](images/openshot-slow-07.gif)
 7. Congratulations, you're done! Feel free to add a title & credits to your video if you want. Your video should look something [like this](https://goo.gl/gkqx8b){:target="_blank"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YE3F7FDTaRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [NEXT STEP: OpenShot Detaching Audio and Adding Music](openshot-audio-music.html){: .btn .btn-blue }

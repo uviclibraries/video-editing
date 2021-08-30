@@ -5,7 +5,7 @@ nav_order: 2
 parent: Bonus Activities
 ---
 <img src="images/storyboarder-01.png" style="float:right;width:250px" alt="storyboarder logo">
-# Bonus Activity:Storyboarding using Storyboarder software
+# Bonus Activity: Storyboarding using Storyboarder software
 In this exercise, you will create a simple storyboard. If you have any questions or get stuck as you work through this, please ask your instructor for assistance. Have fun!
 
 1. Download and install the free Storyboarder software:

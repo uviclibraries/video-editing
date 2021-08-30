@@ -27,8 +27,7 @@ Pre-class Activity Preparation (if you have not already, please download OpenSho
 
 6. Trim 20 or 30 seconds off the end of the video by selecting the video in the timeline and then moving the mouse pointer over the end of the video clip and then drag the handle to the left. The same can be done at the beginning of the video if you’d like.
 ![Demonstration of Step 6](images/openshot-basics-05.gif)
-7. Next, let’s split the video at approximately the 15-second mark from the beginning. To do this, select the video in the timeline, then control/right mouse click at about the 15-second mark, and finally, select “**Slice**” and “**Keep both Sides**”.<br>
-![Image of Split Clip menu](images/openshot-basics-06.png)
+7. <img src="images/openshot-basics-06.png" style="float:right;width:250px" alt="Split Clip Menu"> Next, let’s split the video at approximately the 15-second mark from the beginning. To do this, select the video in the timeline, then control/right mouse click at about the 15-second mark, and finally, select “**Slice**” and “**Keep both Sides**”.<br>
 ![Demonstration of Step 7:Slicing ](images/openshot-basics-07.gif)
 8. The trimmed and split video should now look like the photo below.
 ![Image of Split and trimmed video footage](images/openshot-basics-08.png)

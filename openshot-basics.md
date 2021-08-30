@@ -29,9 +29,9 @@ Pre-class Activity Preparation (if you have not already, please download OpenSho
 ![Demonstration of Step 6](images/openshot-basics-05.gif)
 7. Next, let’s split the video at approximately the 15-second mark from the beginning. To do this, select the video in the timeline, then control/right mouse click at about the 15-second mark, and finally, select “**Slice**” and “**Keep both Sides**”.<br>
 ![Image of Split Clip menu](images/openshot-basics-06.png)
-![Demonstration of Step ](images/openshot-basics-05.gif)
+![Demonstration of Step 7:Slicing ](images/openshot-basics-07.gif)
 8. The trimmed and split video should now look like the photo below.
-
+![Image of Split and trimmed video footage](images/openshot-basics-08.png)
 9. Now make a transition between the split videos:
 - **Right mouse click** on the first video clip in the timeline, and from the pop-up menu select **Fade** and then **End of Clip** and then **Fade Out (Slow)**.
 - **Right mouse click** on the second video clip in the timeline, and from the pop-up menu select **Fade** and then **Start of Clip** and then **Fade In (Slow)**.
@@ -41,14 +41,14 @@ Pre-class Activity Preparation (if you have not already, please download OpenSho
 - Edit and the title text, and then press the **Save** button.
 - Drag and drop the title you just created from the “project files” box in the top left of your screen to the left side of your timeline at the bottom of the screen. 
 - To edit the title text, **right mouse click** on the Title in the “Project Files” area in the top left of your screen, and then select **Edit Title** from the popup menu. Edit text as desired.
-
+![Demonstration of Step 10: Adding Titles](images/openshot-basics-09.gif)
 11. Now add credits for your video by dragging and dropping a credit style “**title**” from under the “**Titles**” tab to the end of the video. Edit this same way you edited the title in step #10.
 
 12. Next, let’s mute or reduce the volume of the audio:
 - Select a video clip in the timeline.
 - Control/Right Click to select “**Volume**” 
 - Under the pop-up menu click “**Entire Clip**”. A percentage of audio volume will be listed in the pop-up menu. Select the volume percentage that you desire.
-
+![Demonstration of Step 12: Audio Settings](images/openshot-basics-10.gif)
 13. Once you’re happy with your edited video you’ll need to export it in order to upload it to YouTube, or share it via Google Photos or some other sharing service:
 - Press the **Save Project** button in the very top left (third icon from the left) of the OpenShot Video Editor window.  Give your movie a descriptive name. Select the folder where you want to put your video and press the **Save** button.
 - Once the video is saved you can select the **export** button

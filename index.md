@@ -22,7 +22,7 @@ Participants will be able to do the following by the end of this workshop:
 4. Insert transitions between clips
 5. Create Title and Credits
 6. Mute or adjust audio volume in video clips
-7. Video Export and publishing options.<br>
+7. Video Export and publishing options<br>
 **Advanced learning outcomes for participants who want to do more:**<br>
 8. Import audio
 9. Make a slow-motion video clip

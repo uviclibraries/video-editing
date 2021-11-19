@@ -2,7 +2,7 @@
 layout: default
 title: 3-OpenShot Green Screen
 nav_order: 4
-parent: Workshop Activities Windows
+parent: Workshop Activities Old
 ---
 <img src="images/openshot-green-01.png" style="float:right;width:180px;height:180px;" alt="OpenShot logo"> 
 # Green Screen

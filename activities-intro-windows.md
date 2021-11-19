@@ -11,4 +11,4 @@ parent: Workshop Activities Windows
 - Resize Your Laptop Screen for Workshop Handouts (2 min)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[NEXT STEP: OpenShot Basics](openshot-basics.html){: .btn .btn-blue }
+[NEXT STEP: MS Video Editor Basics](ve-basics.html){: .btn .btn-blue }

@@ -3,15 +3,15 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-# Video Editing with iMovie and OpenShot
+# Video Editing with iMovie and Microsoft Video Editor
 
 - Pre-workshop activities: 10 min 
 - Introductory presentation: 12 min
 - Hands-on activities: 60-90 min
 
-## Why iMovie and OpenShot? 
+## Why iMovie and Video Editor? 
 
-iMovie and OpenShot are powerful tools that enable you to easily edit and modify video footage. Both software packages are free to use on their respective platforms and have numerous features that create wonderful effects. iMovie is created by Apple which supports Mac and IOS users whereas OpenShot is available for Windows, Linux and Mac. This workshop will walk you through the key features of these video editors and will help you create and edit three video projects. 
+iMovie and Video Editor are powerful tools that enable you to easily edit and modify video footage. Both software packages are free to use on their respective platforms and have numerous features that create wonderful effects. iMovie is created by Apple which supports Mac and IOS users whereas Microsoft Video Editor is automatically included in Windows 10. This workshop will walk you through the key features of these video editors and will help you create and edit three video projects. 
 
 ## Learning objectives
 Participants will be able to do the following by the end of this workshop: 

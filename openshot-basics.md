@@ -2,7 +2,7 @@
 layout: default
 title: 2-OpenShot Basics
 nav_order: 3
-parent: Workshop Activities Windows
+parent: Workshop Activities Old
 ---
 <img src="images/openshot-basics-01.png" style="float:right;width:180px;height:180px;" alt="OpenShot logo"> 
 # Basics

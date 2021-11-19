@@ -2,7 +2,7 @@
 layout: default
 title: 4-OpenShot Cropping and Slo-mo
 nav_order: 5
-parent: Workshop Activities Windows
+parent: Workshop Activities Old
 ---
 <img src="images/openshot-slow-01.png" style="float:right;width:180px;height:180px;" alt="OpenShot logo"> 
 # Cropping and Slow-mo

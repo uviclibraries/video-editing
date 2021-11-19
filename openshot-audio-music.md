@@ -2,7 +2,7 @@
 layout: default
 title: 5-OpenShot Detaching Audio and Adding Music
 nav_order: 6
-parent: Workshop Activities Windows
+parent: Workshop Activities Old
 ---
 <img src="images/openshot-audio-01.png" style="float:right;width:180px;height:180px;" alt="OpenShot logo"> 
 # Detaching Audio and Adding Music

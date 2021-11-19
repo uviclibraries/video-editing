@@ -3,7 +3,7 @@ layout: default
 title: Introduction 
 nav_order: 1
 ---
-# Video Editing with iMovie and OpenShot
+# Video Editing with iMovie and OpenShot TEST
 
 - Pre-workshop activities: 10 min 
 - Introductory presentation: 12 min

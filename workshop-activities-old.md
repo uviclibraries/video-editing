@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Workshop Activities Windows
-nav_order: 3
+title: Workshop Activities Old
+nav_order: 4
 has_children: true
 has_toc: true
 ---
-# Workshop Activities for Windows
+# Old Workshop Activities for Windows

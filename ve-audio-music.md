@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3 - NOPE Detaching Audio and Adding Music
+title: 3-NOPE Detaching Audio and Adding Music
 nav_order: 4
 parent: Workshop Activities Windows
 ---

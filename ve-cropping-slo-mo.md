@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2 - NOPE Cropping and Slo-mo
+title: 2-NOPE Cropping and Slo-mo
 nav_order: 3
 parent: Workshop Activities Windows
 ---

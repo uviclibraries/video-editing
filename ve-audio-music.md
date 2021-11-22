@@ -7,7 +7,7 @@ parent: Workshop Activities Windows
 
 <img src="images/ms-videoeditor/ve-basics/logo.png" style="float:right;width:180px;" alt="logo">
 # Adding Audio and Free Music
-In this exercise, you will add, remove, and have persistent audio in an OpenShot Video Editor project. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
+In this exercise, you will add, remove, and have persistent audio in a Microsoft Video Editor project. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
 1.  If you don’t have a video that you want to edit, let’s start by downloading the following video, and saving it to your desktop: http://bit.ly/dsc-goat-video It may take 1 or 2 minutes to download.
 2.  If the video starts playing you will have to right mouse click on the video & select “Save Video As...” and save it to the Desktop folder on your computer.

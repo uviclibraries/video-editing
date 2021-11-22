@@ -5,7 +5,7 @@ nav_order: 4
 parent: Workshop Activities Windows
 ---
 
-<img src="images/ms-videoeditor/ve-audio/logo.png" style="float:right;width:180px;" alt="logo">
+<img src="images/ms-videoeditor/ve-basics/logo.png" style="float:right;width:180px;" alt="logo">
 # Adding Audio and Free Music
 In this exercise, you will add, remove, and have persistent audio in an OpenShot Video Editor project. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 

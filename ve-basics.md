@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 2-Video Editor Basics
-nav_order: 3
+title: 1 - Video Editor Basics
+nav_order: 2
 parent: Workshop Activities Windows
 ---
 
@@ -53,4 +53,4 @@ Pre-class Activity Preparation:
      -   Click “**Export**”, select where the file will be saved and give it a memorable name. Click “**Export**” again.
 15.  Congratulations, you’ve created and edited a video in Microsoft Video Editor! If you want to post your video to YouTube, just upload the file to your YouTube account.
 
-# button
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }

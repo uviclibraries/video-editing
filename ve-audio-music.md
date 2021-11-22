@@ -9,7 +9,7 @@ parent: Workshop Activities Windows
 # Adding Audio and Free Music
 In this exercise, you will add, remove, and have persistent audio in a Microsoft Video Editor project. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
-1.  If you don’t have a video that you want to edit, let’s start by downloading the following video, and saving it to your desktop: http://bit.ly/dsc-goat-video It may take 1 or 2 minutes to download.
+1.  If you don’t have a video that you want to edit, let’s start by downloading the following video, and saving it to your desktop: [http://bit.ly/dsc-goat-video](http://bit.ly/dsc-goat-video){:target="_blank"} It may take 1 or 2 minutes to download.
 2.  If the video starts playing you will have to right mouse click on the video & select “Save Video As...” and save it to the Desktop folder on your computer.
 
     <img src="images/ms-videoeditor/ve-audio/new-project.png" style="float:right;width:180px;" alt="logo">
@@ -29,11 +29,11 @@ In this exercise, you will add, remove, and have persistent audio in a Microsoft
     <img src="images/ms-videoeditor/ve-audio/add-background-music.gif" style="width:720px;" alt="logo">
 
 8.  OPTIONAL: Find a music clip from one of the websites below that fits your tone and sound effects that enhance your sense of location, and save the mp3 music or sound effect to your hard drive (so that you can import it into your video project). There are many Creative Commons or royalty-free music websites that aggregate and distribute music that is shared with no or low copyright limitations including:
-    -   Free Sound - A collaborative database of CC-licensed sound. Freesound focusses on sound and sound effects, not music - http://bit.ly/33deeCq 
-    -   Archive.org - Non-profit digital library with collections of digitized free movies, music, images, websites and more - http://bit.ly/2DeGY2M  
-    -   Free Music Archive - CC-licensed music grouped by genre - http://bit.ly/2OgSUsS 
-    -   ccMixter - CC-licensed music for film, video and games - http://bit.ly/34hdOMq 
-    -   CCTrax - CC-licensed music grouped by genre - http://bit.ly/2DbPjV8
+    -   Free Sound - A collaborative database of CC-licensed sound. Freesound focusses on sound and sound effects, not music - [http://bit.ly/33deeCq ](http://bit.ly/33deeCq ){:target="_blank"}
+    -   Archive.org - Non-profit digital library with collections of digitized free movies, music, images, websites and more - [http://bit.ly/2DeGY2M  ](http://bit.ly/2DeGY2M  ){:target="_blank"}
+    -   Free Music Archive - CC-licensed music grouped by genre - [http://bit.ly/2OgSUsS ](http://bit.ly/2OgSUsS ){:target="_blank"}
+    -   ccMixter - CC-licensed music for film, video and games - [http://bit.ly/34hdOMq ](http://bit.ly/34hdOMq ){:target="_blank"}
+    -   CCTrax - CC-licensed music grouped by genre - [http://bit.ly/2DbPjV8](http://bit.ly/2DbPjV8){:target="_blank"}
 9.  Once you’re happy with your edited video you’ll need to export it in order to upload it to YouTube, or share it via Google Photos or some other sharing service:
 
     <img src="images/ms-videoeditor/ve-audio/finish.gif" style="width:720px;" alt="logo">

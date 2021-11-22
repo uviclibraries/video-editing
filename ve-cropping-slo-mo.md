@@ -33,4 +33,4 @@ In this exercise, you will create and edit a movie in OpenShot Video Editor, inc
     -   **Select** the **Zoom in Right** button on the right, and then **press** the **Done** button (see video below). 
 8.  Congratulations, you're done! Feel free to add a title & credits to your video if you want. Your video should look something like this: [https://goo.gl/gkqx8b](https://goo.gl/gkqx8b){:target="_blank"}
 
-[NEXT STEP: Adding Audio and Music](ve-audio-music.html){: .btn .btn-blue }
+[NEXT STEP: Adding Audio and Free Music](ve-audio-music.html){: .btn .btn-blue }

@@ -16,6 +16,9 @@ Pre-class Activity Preparation:
 
 1.  If you don’t have a video that you want to edit, let’s start by downloading the following video, and saving it to your desktop: http://bit.ly/dsc-goat-video It may take 1 or 2 minutes to download.
 2.  If the video starts playing you will have to right mouse click on the video & select “**Save Video As...**” and save it to the **Desktop** folder on your computer.
+
+    <img src="images/ms-videoeditor/ve-basics/logo.png" style="float:right;width:180px;" alt="logo">
+
 3.  Open Microsoft Video Editor if you have not already done so.
     -   Click on the **New Project** icon.
     -   When prompted, give your video project a name (“**test video**” would be just fine).

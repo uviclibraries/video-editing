@@ -53,4 +53,4 @@ Pre-class Activity Preparation:
      -   Click “**Export**”, select where the file will be saved and give it a memorable name. Click “**Export**” again.
 15.  Congratulations, you’ve created and edited a video in Microsoft Video Editor! If you want to post your video to YouTube, just upload the file to your YouTube account.
 
-[NEXT STEP: Slo-Motion Video and Cropping](ve-cropping-slo-mo.html){: .btn .btn-blue }
+[NEXT STEP: Slow Motion and Cropping](ve-cropping-slo-mo.html){: .btn .btn-blue }

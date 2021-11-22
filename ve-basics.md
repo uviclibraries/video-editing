@@ -14,7 +14,7 @@ Pre-class Activity Preparation:
 -   Make sure the Microsoft Video Editor is installed on your computer by pressing the **Windows logo** button on your keyboard and then typing “**video**” (see the image on the right).
 -   Open Microsoft Video Editor by clicking on the “**Video Editor**” icon.
 
-1.  If you don’t have a video that you want to edit, let’s start by downloading the following video, and saving it to your desktop: [http://bit.ly/dsc-goat-video](http://bit.ly/dsc-goat-video)http://bit.ly/2DbPjV8 It may take 1 or 2 minutes to download.
+1.  If you don’t have a video that you want to edit, let’s start by downloading the following video, and saving it to your desktop: [http://bit.ly/dsc-goat-video](http://bit.ly/dsc-goat-video){:target="_blank"} It may take 1 or 2 minutes to download.
 
     <img src="images/ms-videoeditor/ve-audio/new-project.png" style="float:right;width:180px;" alt="new video project button">
 

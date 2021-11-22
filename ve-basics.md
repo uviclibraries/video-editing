@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2 - Video Editor Basics
+title: 2-Video Editor Basics
 nav_order: 3
 parent: Workshop Activities Windows
 ---

@@ -5,6 +5,7 @@ nav_order: 2
 parent: Workshop Activities Windows
 ---
 
+<img src="images/ms-videoeditor/ve-basics/logo.png" style="float:right;width:180px;" alt="logo">
 # The Basics
 In this exercise, you will create and edit a movie using OpenShot Video Editor. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 

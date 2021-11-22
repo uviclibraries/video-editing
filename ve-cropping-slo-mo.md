@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-NOPE Cropping and Slo-mo
+title: 2 - Slo-motion Video and Cropping
 nav_order: 3
 parent: Workshop Activities Windows
 ---
@@ -33,4 +33,4 @@ In this exercise, you will create and edit a movie in OpenShot Video Editor, inc
     -   **Select** the **Zoom in Right** button on the right, and then **press** the **Done** button (see video below). 
 8.  Congratulations, you're done! Feel free to add a title & credits to your video if you want. Your video should look something like this: [https://goo.gl/gkqx8b](https://goo.gl/gkqx8b){:target="_blank"}
 
-# button
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }

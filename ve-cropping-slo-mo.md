@@ -5,7 +5,7 @@ nav_order: 3
 parent: Workshop Activities Windows
 ---
 
-# Slow Motion
+# Slow Motion and Cropping
 In this exercise, you will create and edit a movie in OpenShot Video Editor, including using splitting and duplicating a video clip, making a slow-motion video clip, cropping a video clip, and importing audio to overlay your clip. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
 1.  Let’s start by downloading the Mountain biking video and save it to your computer: [https://bit.ly/3vrLJj0](https://bit.ly/3vrLJj0){:target="_blank"}. If the video starts playing you will have to right mouse click on the video & select “**Save Video As...**” and save it to the **Desktop** folder on your computer
@@ -33,4 +33,4 @@ In this exercise, you will create and edit a movie in OpenShot Video Editor, inc
     -   **Select** the **Zoom in Right** button on the right, and then **press** the **Done** button (see video below). 
 8.  Congratulations, you're done! Feel free to add a title & credits to your video if you want. Your video should look something like this: [https://goo.gl/gkqx8b](https://goo.gl/gkqx8b){:target="_blank"}
 
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+[NEXT STEP: Adding Audio and Music](ve-audio-music.html){: .btn .btn-blue }

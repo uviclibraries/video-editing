@@ -42,4 +42,4 @@ Let’s create a short little screencast with Screencastify. You will need a Goo
 
 Great Job!<br>
 
-[NEXT STEP: Bonus Activity: Storyboarding](storyboarding.html){: .btn .btn-blue }
+[NEXT STEP: Interactive Videos with H5P](h5p.html){: .btn .btn-blue }

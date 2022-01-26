@@ -14,9 +14,7 @@ Before you start making your own interactive video, please watch this excellent 
 
 2. Enable the H5P plugin on your WordPress blog:
 - In your blog administration control panel click on the Plugins button, on the left navigation bar, and then scroll down and find the H5P plugin, and press the Activate button.
-- When asked if you’d like to join the H5p network, say “yes”.
-
-
+![Activate H5P plugin](images/h5p-02.gif)
 
 3. Navigate to the H5P plugin setting page & enable the Interactive video tool if necessary and add new H5P content:
 Mouse over the H5P Content button on the left navigation bar and then select the Add New.

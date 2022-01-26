@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 2-Storyboarding Activity
-nav_order: 2
+title: 3-Storyboarding Activity
+nav_order: 3
 parent: Bonus Activities
 ---
 <img src="images/storyboarder-01.png" style="float:right;width:250px" alt="storyboarder logo">

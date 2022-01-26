@@ -18,18 +18,16 @@ Before you start making your own interactive video, please watch this excellent 
 
 3. Navigate to the H5P plugin setting page & enable the Interactive video tool if necessary and add new H5P content:
 Mouse over the H5P Content button on the left navigation bar and then select the Add New.
-If this is your first time using H5P, click on the blue I consent, give me the Hub! button to enable the H5P features you will need to make your interactive video.
-
-
-If this is your first time using H5P on your blog, you’ll need to click on the Get button beside the top item (Interactive video).
-
-
+- If this is your first time using H5P, click on the blue I consent, give me the Hub! button to enable the H5P features you will need to make your interactive video.
+![Activate H5P Hub consent](images/h5p-02.png)
+- If this is your first time using H5P on your blog, you’ll need to click on the Get button beside the top item (Interactive video).
+![Get H5P Interactive video plugin](images/h5p-03.gif)
 
 4. Add a new video to and prepare to add interactive elements to it:
-Click on the Interactive button near the middle of the screen.
-Click on the light grey plus button under the “Add a video” text.
-Copy and paste a YouTube URL into the text box and click the Insert button.
-Click on the text box below the Title label, and type in the title for your video.
+- Click on the Interactive button near the middle of the screen.
+- Click on the light grey plus button under the “Add a video” text.
+- Copy and paste a YouTube URL into the text box and click the Insert button.
+- Click on the text box below the Title label, and type in the title for your video.
 
 
 

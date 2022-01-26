@@ -34,26 +34,25 @@ Before you start making your own interactive video, please watch this excellent 
 5. Add an information text box to a video:
 - Click on Step 2 **Add interactions** tab.
 - On the toolbar above the video click on the **T** button.
-- In the dialogue box that appears, click on the Pause video checkbox.
-- Next type the text you want to appear in the dialogue box in the Text field near the bottom.
-- Click the Poster radio button just below the Pause video checkbox.
-- Click the blue Done button near the top right corner.
+- In the dialogue box that appears, click on the **Pause video** checkbox.
+- Next type the text you want to appear in the dialogue box in the **Text** field near the bottom.
+- Click the **Poster** radio button just below the Pause video checkbox.
+- Click the blue **Done** button near the top right corner.
 - You can now move the text box around the video window and resize the text box to fit your needs.
-![Add an interaction to your H5P Video ](images/h5p-06.gif)
+![Add an interaction to your H5P Video](images/h5p-06.gif)
 
 6. Add a multiple-choice question to your video
-On the toolbar above the video click on the multiple-choice button (the button with 3 round circles and 3 lines beside them).
-In the dialogue box that appears, click on the Pause video checkbox.
-Click the Poster radio button just below the Pause video checkbox.
-Next type the title you want for your multiple-choice question in the Title text box.
-Next type in the question in the Question text Text field.
-Next type in the correct answer in the first Alternatives field.
-Type in other answers below, clicking the Add answer button as necessary.
-When you’ve finished adding alternative answers, click the blue Done button near the top right corner of the web page.
-You can now move the multiple-choice box around the video window and resize the text box to fit your needs.
-Finally, click the blue Create button in the very top right corner of the web page. Your interactive video is now ready to be embedded in a blog post or web page!
-
-
+- On the toolbar above the video click on the multiple-choice button (the button with 3 round circles and 3 lines beside them).
+- In the dialogue box that appears, click on the Pause video checkbox.
+- Click the Poster radio button just below the Pause video checkbox.
+- Next type the title you want for your multiple-choice question in the Title text box.
+- Next type in the question in the Question text Text field.
+- Next type in the correct answer in the first Alternatives field.
+- Type in other answers below, clicking the Add answer button as necessary.
+- When you’ve finished adding alternative answers, click the blue Done button near the top right corner of the web page.
+- You can now move the multiple-choice box around the video window and resize the text box to fit your needs.
+- Finally, click the blue Create button in the very top right corner of the web page. Your interactive video is now ready to be embedded in a blog post or web page!
+![Add an interaction to your H5P Video](images/h5p-07.gif)
 
 7. Add your interactive video to a blog post:
 Click on the Posts button on the left navigation bar.

@@ -39,7 +39,7 @@ Before you start making your own interactive video, please watch this excellent 
 - Click the **Poster** radio button just below the Pause video checkbox.
 - Click the blue **Done** button near the top right corner.
 - You can now move the text box around the video window and resize the text box to fit your needs.
-![Add an interaction to your H5P Video](images/h5p-06.gif)
+![Add an interaction to your H5P Video](images/h5p-05.gif)
 
 6. Add a multiple-choice question to your video
 - On the toolbar above the video click on the **multiple-choice** button (the button with 3 round circles and 3 lines beside them).
@@ -52,7 +52,7 @@ Before you start making your own interactive video, please watch this excellent 
 - When you’ve finished adding alternative answers, click the blue **Done** button near the top right corner of the web page.
 - You can now move the multiple-choice box around the video window and resize the text box to fit your needs.
 - Finally, click the blue **Create** button in the very top right corner of the web page. Your interactive video is now ready to be embedded in a blog post or web page!
-![Add an interaction to your H5P Video](images/h5p-07.gif)
+![Add an interaction to your H5P Video](images/h5p-06.gif)
 
 7. Add your interactive video to a blog post:
 - Click on the **Posts** button on the left navigation bar.
@@ -62,10 +62,12 @@ Before you start making your own interactive video, please watch this excellent 
 - A dialogue box will appear. Press the Insert button beside the H5P interactive element you just created.
 - Some code was just inserted into your blog post that will look something like this: **[h5p id=”1”]** do not delete this code or your interactive element will disappear from your post.
 - Click on the **Publish** or **Update** button on the right of your window, and then check your new interactive element on your blog post!
-![Add an interactive video to a blog post](images/h5p-08.gif)
+![Add an interactive video to a blog post](images/h5p-07.gif)
 
 8. Congratulations, you’ve created an interactive video and incorporated it into your blog. 
 
 Great Job!<br>
 
 [NEXT STEP: Bonus Activity: Storyboarding](storyboarding.html){: .btn .btn-blue }
+
+![H5P poster of tools](images/h5p-08.png)

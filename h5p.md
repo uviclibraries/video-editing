@@ -18,9 +18,9 @@ Before you start making your own interactive video, please watch this excellent 
 
 3. Navigate to the H5P plugin setting page & enable the Interactive video tool if necessary and add new H5P content:
 - Mouse over the **H5P Content** button on the left navigation bar and then select the **Add New**.
-- If this is your first time using H5P, click on the blue **I consent, give me the Hub!** button to enable the H5P features you will need to make your interactive video.
+- If this is your first time using H5P, click on the blue **I consent, give me the Hub!** button to enable the H5P features you will need to make your interactive video.</br>
 ![Activate H5P Hub consent](images/h5p-02.png)
-- If this is your first time using H5P on your blog, you’ll need to click on the **Get** button beside the top item (Interactive video).
+- If this is your first time using H5P on your blog, you’ll need to click on the **Get** button beside the top item (Interactive video).</br>
 ![Get H5P Interactive video plugin](images/h5p-03.gif)
 
 4. Add a new video to and prepare to add interactive elements to it:
@@ -28,7 +28,7 @@ Before you start making your own interactive video, please watch this excellent 
 - Click on the **light grey plus** button under the “**Add a video**” text.
 - Copy and paste a YouTube URL into the text box and click the **Insert** button. **-OR-**
 - Click on the **Upload video file** button and upload your video to your blog.
-- Click on the **text box** below the Title label, and type in the title for your video.
+- Click on the **text box** below the Title label, and type in the title for your video.</br>
 ![Enable the H5P Video tool](images/h5p-04.gif)
 
 5. Add an information text box to a video:
@@ -38,7 +38,7 @@ Before you start making your own interactive video, please watch this excellent 
 - Next type the text you want to appear in the dialogue box in the **Text** field near the bottom.
 - Click the **Poster** radio button just below the Pause video checkbox.
 - Click the blue **Done** button near the top right corner.
-- You can now move the text box around the video window and resize the text box to fit your needs.
+- You can now move the text box around the video window and resize the text box to fit your needs.</br>
 ![Add an interaction to your H5P Video](images/h5p-05.gif)
 
 6. Add a multiple-choice question to your video
@@ -51,7 +51,7 @@ Before you start making your own interactive video, please watch this excellent 
 - Type in other answers below, clicking the **Add answer** button as necessary.
 - When you’ve finished adding alternative answers, click the blue **Done** button near the top right corner of the web page.
 - You can now move the multiple-choice box around the video window and resize the text box to fit your needs.
-- Finally, click the blue **Create** button in the very top right corner of the web page. Your interactive video is now ready to be embedded in a blog post or web page!
+- Finally, click the blue **Create** button in the very top right corner of the web page. Your interactive video is now ready to be embedded in a blog post or web page!</br>
 ![Add an interaction to your H5P Video](images/h5p-06.gif)
 
 7. Add your interactive video to a blog post:
@@ -61,7 +61,7 @@ Before you start making your own interactive video, please watch this excellent 
 - Click on the **Add H5P** button just above the body of the blog post.
 - A dialogue box will appear. Press the Insert button beside the H5P interactive element you just created.
 - Some code was just inserted into your blog post that will look something like this: **[h5p id=”1”]** do not delete this code or your interactive element will disappear from your post.
-- Click on the **Publish** or **Update** button on the right of your window, and then check your new interactive element on your blog post!
+- Click on the **Publish** or **Update** button on the right of your window, and then check your new interactive element on your blog post!</br>
 ![Add an interactive video to a blog post](images/h5p-07.gif)
 
 8. Congratulations, you’ve created an interactive video and incorporated it into your blog. 

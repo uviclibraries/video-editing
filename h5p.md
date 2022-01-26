@@ -55,24 +55,16 @@ Before you start making your own interactive video, please watch this excellent 
 ![Add an interaction to your H5P Video](images/h5p-07.gif)
 
 7. Add your interactive video to a blog post:
-Click on the Posts button on the left navigation bar.
-Click on the Add New button near the top left of the browser window.
-Type in a Title and some text in the body of the blog post and then press enter on your keyboard once.
-Click on the Add H5P button just above the body of the blog post.
-A dialogue box will appear. Press the Insert button beside the H5P interactive element you just created.
-Some code was just inserted into your blog post that will look something like this: [h5p id=”1”] do not delete this code or your interactive element will disappear from your post.
-Click on the Publish or Update button on the right of your window, and then check your new interactive element on your blog post!
+- Click on the **Posts** button on the left navigation bar.
+- Click on the **Add New** button near the top left of the browser window.
+- Type in a **Title** and **some text** in the body of the blog post and then press **enter** on your keyboard once.
+- Click on the **Add H5P** button just above the body of the blog post.
+- A dialogue box will appear. Press the Insert button beside the H5P interactive element you just created.
+- Some code was just inserted into your blog post that will look something like this: **[h5p id=”1”]** do not delete this code or your interactive element will disappear from your post.
+- Click on the **Publish** or **Update** button on the right of your window, and then check your new interactive element on your blog post!
+![Add an interactive video to a blog post](images/h5p-08.gif)
 
-
-8. Congratulations, you’ve created an interactive video and incorporated it into your blog. Great job!
-
-1. Install the Screencastify Plugin into Google Chrome or Microsoft Edge (if you would like to watch a video for how to install the plugin, watch [this video](http://bit.ly/2mtNP3E){:target="_blank"}
-- Open the Google Chrome or Microsoft Edge web browser on your computer.   
-- <img src="images/screencastify-02.png" style="float:right;width:200px" alt="Add to Chrome button">  Install the Screencastify Plugin in Google Chrome by navigating to [this page](https://chrome.google.com/webstore/detail/screencastify-screen-vide/mmeijimgabbpbgpdklnllpncmdofkcpn?hl=en){:target="_blank"} and clicking on the Add to Chrome (if you are using the Edge browser you will need to click on the blue button to enable external app stores).
-- Click on the little salmon coloured Screencastify icon on the top right of your chrome browser.
-- <img src="images/screencastify-03.png" style="float:right;width:200px" alt="Google sign in picture">  On the web page that is displayed, click on the Sign in with Google button, and enter your Google credentials.
-- Give Screencastify access to your computer’s camera and microphone along with drawing and annotation tools by pressing the **Next** button, and then pressing the **Allow** button on the dialogue button that appears.
-- Good job! You are now ready to record your first screencast.
+8. Congratulations, you’ve created an interactive video and incorporated it into your blog. 
 
 Great Job!<br>
 

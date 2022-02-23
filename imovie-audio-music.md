@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 6-Adding Music
+title: 4-Adding Music
 nav_order: 6
 parent: Workshop Activities Mac
 ---

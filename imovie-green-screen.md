@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4-Green Screen
+title: 2-Green Screen
 nav_order: 4
 parent: Workshop Activities Mac
 ---

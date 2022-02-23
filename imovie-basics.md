@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2-iMovie Basics
+title: 3-iMovie Basics
 nav_order: 3
 parent: Workshop Activities Mac
 ---

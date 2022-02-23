@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5-iMovie Detaching Audio & Adding Music
+title: 6-Adding Music
 nav_order: 6
 parent: Workshop Activities Mac
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5-Cropping & Slo-mo
+title: 3-Cropping & Slo-mo
 nav_order: 5
 parent: Workshop Activities Mac
 ---

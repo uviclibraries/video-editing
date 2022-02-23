@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2 - Slow Motion and Cropping
+title: 2 - Slow Motion & Cropping
 nav_order: 3
 parent: Workshop Activities Windows
 ---

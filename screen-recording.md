@@ -42,4 +42,6 @@ Let’s create a short little screencast with Screencastify. You will need a Goo
 
 Great Job!<br>
 
-[NEXT STEP: Interactive Videos with H5P](h5p.html){: .btn .btn-blue }
+[NEXT STEP: Interactive Videos with H5P](h5p.html){: .btn .btn-blue }<br>
+-OR-<br>
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }

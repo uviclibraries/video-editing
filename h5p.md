@@ -67,7 +67,8 @@ Before you start making your own interactive video, please watch this excellent 
 8. Congratulations, you’ve created an interactive video and incorporated it into your blog. 
 
 Great Job!<br>
+![H5P poster of tools](images/h5p-08.png)<br>
 
-[NEXT STEP: Bonus Activity: Storyboarding](storyboarding.html){: .btn .btn-blue }
-
-![H5P poster of tools](images/h5p-08.png)
+[NEXT STEP: Bonus Activity: Storyboarding](storyboarding.html){: .btn .btn-blue }<br>
+-OR-<br>
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }

@@ -51,4 +51,4 @@ In this exercise, you will create and edit a movie in iMovie, including using sp
 7. Congratulations, you're done! Feel free to add a title & credits to your video if you want. Your video should look something [like this](https://goo.gl/gkqx8b){:target="_blank"} 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YE3F7FDTaRY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[NEXT STEP: iMovie Detaching Audio and Adding Music](imovie-audio-music.html){: .btn .btn-blue }
+[NEXT STEP: iMovie Green Screen](imovie-green-screen.html){: .btn .btn-blue }

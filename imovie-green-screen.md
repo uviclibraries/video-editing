@@ -55,5 +55,6 @@ In this exercise, you will create and edit a movie in iMovie, including using gr
 10. Congratulations, you’ve created and edited a more advanced video in iMovie! Your video should look something [like this](https://goo.gl/yBjs7k){:target="_blank"} 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AmOVm-GxP1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Bonus Activity: Screen Recording](screen-recording.html){: .btn .btn-blue }<br>
+[NEXT STEP: Screen Recording](screen-recording.html){: .btn .btn-blue }<br>
+-OR-<br>
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }

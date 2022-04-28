@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 4-Adding Music
-nav_order: 6
+title: 3-Adding Music
+nav_order: 5
 parent: Workshop Activities Mac
 ---
 <img src="images/imovie-audio-01.png" style="float:right;width:180px" alt="iMovie logo"> 
@@ -49,5 +49,4 @@ Now select “**Movie**” (labelled #3).
 - [ccMixter](http://bit.ly/34hdOMq){:target="_blank"} - CC-licensed music for film, video and games 
 - [CCTrax](http://bit.ly/2DbPjV8){:target="_blank"} - CC-licensed music grouped by genre
 
-[Bonus Activity: Screen Recording](screen-recording.html){: .btn .btn-blue }<br>
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+[NEXT STEP: iMovie Green Screen](imovie-green-screen.html){: .btn .btn-blue }

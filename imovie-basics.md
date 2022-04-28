@@ -52,4 +52,5 @@ In this exercise, you will create and edit a movie using iMovie. If you have any
 
 14. Congratulations, you’ve created and edited a video in iMovie! If you want to post your video to YouTube, just upload the file to your YouTube account.
 
+[NEXT STEP: iMovie Cropping and Slo-mo](imovie-cropping-slo-mo.html){: .btn .btn-blue }
 [NEXT STEP: iMovie Green Screen](imovie-green-screen.html){: .btn .btn-blue }

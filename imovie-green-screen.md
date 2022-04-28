@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 2-Green Screen
-nav_order: 4
+title: 4-Green Screen
+nav_order: 6
 parent: Workshop Activities Mac
 ---
 <img src="images/imovie-green-01.png" style="float:right;width:180px;height:200px;" alt="iMovie logo with green screen"> 
@@ -55,4 +55,5 @@ In this exercise, you will create and edit a movie in iMovie, including using gr
 10. Congratulations, you’ve created and edited a more advanced video in iMovie! Your video should look something [like this](https://goo.gl/yBjs7k){:target="_blank"} 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AmOVm-GxP1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[NEXT STEP: iMovie Cropping and Slo-mo](imovie-cropping-slo-mo.html){: .btn .btn-blue }
+[Bonus Activity: Screen Recording](screen-recording.html){: .btn .btn-blue }<br>
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }

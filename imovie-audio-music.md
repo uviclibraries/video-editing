@@ -51,5 +51,3 @@ Now select “**Movie**” (labelled #3).
 
 
 [NEXT STEP: iMovie Cropping and Slo-mo](imovie-cropping-slo-mo.html){: .btn .btn-blue }
-
-[NEXT STEP: iMovie Green Screen](imovie-green-screen.html){: .btn .btn-blue }

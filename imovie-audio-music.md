@@ -49,4 +49,7 @@ Now select “**Movie**” (labelled #3).
 - [ccMixter](http://bit.ly/34hdOMq){:target="_blank"} - CC-licensed music for film, video and games 
 - [CCTrax](http://bit.ly/2DbPjV8){:target="_blank"} - CC-licensed music grouped by genre
 
+
+[NEXT STEP: iMovie Cropping and Slo-mo](imovie-cropping-slo-mo.html){: .btn .btn-blue }
+
 [NEXT STEP: iMovie Green Screen](imovie-green-screen.html){: .btn .btn-blue }

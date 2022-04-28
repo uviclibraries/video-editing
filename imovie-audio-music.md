@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 3-Adding Music
-nav_order: 5
+title: 2-Adding Music
+nav_order: 4
 parent: Workshop Activities Mac
 ---
 <img src="images/imovie-audio-01.png" style="float:right;width:180px" alt="iMovie logo"> 

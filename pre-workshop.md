@@ -6,12 +6,12 @@ nav_order: 2
 ## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with iMovie or Microsoft Video Editor in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
-**Approximately 10 minutes to complete.**<br>
+**Approximately 10 minutes to complete the core videos, and a total of 20 minutes for the core and optional videos.**<br>
 
-- [iMovie Video project walkthrough](https://www.youtube.com/watch?v=pWXpaFFx8f0?t=8){:target="_blank"} (6 min)
+- [**iMovie** Video project walkthrough](https://www.youtube.com/watch?v=pWXpaFFx8f0?t=8){:target="_blank"} (6 min)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pWXpaFFx8f0?t=8" title="Video project walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- [Microsoft Video Editor walkthrough](https://www.youtube.com/watch?v=HZTeaQP9Wjw){:target="_blank"} (5 min)
+- [**Microsoft Video Editor** walkthrough](https://www.youtube.com/watch?v=HZTeaQP9Wjw){:target="_blank"} (5 min)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HZTeaQP9Wjw" title="Mobile Video Recording Tips for Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [Video Recording Framing and Composition for Beginners](https://www.youtube.com/watch?v=nKM3jkEOpuE){:target="_blank"} (5 min)

@@ -7,7 +7,7 @@ nav_order: 2
 This workshop is primarily hands-on practice with iMovie or Microsoft Video Editor in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
 
 **Approximately 10 minutes to complete.**<br>
-### iMovie
+
 - [iMovie Video project walkthrough](https://www.youtube.com/watch?v=pWXpaFFx8f0?t=8){:target="_blank"} (6 min)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pWXpaFFx8f0?t=8" title="Video project walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

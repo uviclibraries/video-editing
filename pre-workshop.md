@@ -11,6 +11,9 @@ This workshop is primarily hands-on practice with iMovie or Microsoft Video Edit
 - [iMovie Video project walkthrough](https://www.youtube.com/watch?v=pWXpaFFx8f0?t=8){:target="_blank"} (6 min)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pWXpaFFx8f0?t=8" title="Video project walkthrough" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+- [Microsoft Video Editor walkthrough](https://www.youtube.com/watch?v=HZTeaQP9Wjw){:target="_blank"} (5 min)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HZTeaQP9Wjw" title="Mobile Video Recording Tips for Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - [Video Recording Framing and Composition for Beginners](https://www.youtube.com/watch?v=nKM3jkEOpuE){:target="_blank"} (5 min)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nKM3jkEOpuE" title="Mobile Video Recording Tips for Beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

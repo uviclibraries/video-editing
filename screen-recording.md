@@ -27,7 +27,8 @@ Let’s create a short little screencast with Screencastify. You will need a Goo
 - Do your demonstration, talking through what you are doing, and then press the Stop Sharing button at the bottom of the screen when you are done.
 
 3. Download your video to a file on your hard drive: <img src="images/screencastify-06.png" style="float:right;width:250px" alt="export mp4 and download button"> 
-- Click the **Download** button on the right side of the browser window, and then select the **Export as MP4** button. NOTE: If you’d like to embed a shorter video in documentation like this you can export as an animated GIF.
+- Click the **Open in Editor** button on the right side of the browser window. A new browser tab should open in 5-10 seconds.<img src="images/screencastify-06b.png" style="float:right;width:250px" alt="export button">
+- Click on the blue **Export** button on the top right of the browser window.
 - In the dialogue box that pops up, give the file an appropriate name (take care not to delete the .mp4 file extension), **navigate to your Desktop folder**, and then press the **Save** button. It can take a few minutes for Screencastify to create the MP4 file for you to download to your computer.
 
 4. At this point, if you can either edit your video - see the video editing workshop materials if you’d like to learn how to edit your screencast video. Or if you are happy with your video as it is, you can upload your MP4 video file to YouTube or to your OpenEd.ca WordPress website (the same way you would upload an image to your OpenEd Website). Here are instructions on how to upload your video to YouTube:

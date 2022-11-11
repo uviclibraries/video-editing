@@ -3,6 +3,7 @@ layout: default
 title: 5-OpenShot Detaching Audio and Adding Music
 nav_order: 6
 parent: Workshop Activities Old
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/openshot-audio-01.png" style="float:right;width:180px;height:180px;" alt="OpenShot logo"> 
 # Detaching Audio and Adding Music
@@ -15,13 +16,33 @@ In this exercise, you will add, remove, and have persistent audio in an OpenShot
 - Next click on the “**+**” button at the top of the OpenShot Video Editor screen. 
 - Select **Desktop** on the left navigation pane and then select **goats.mp4** 
 - Finally, click on the file and select **Open** on the bottom right of the dialog box.
-![Demonstration of Step 2](images/openshot-audio-02.gif)
+
+<button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+      <img src="images/openshot-audio-02.gif">
+      </div>
+
 3. Drag the video clip you just imported into the timeline at the bottom of the OpenShot Video Editor screen.
-![Demonstration of Step 3](images/openshot-audio-03.gif)
+
+<button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+      <img src="images/openshot-audio-03.gif">
+      </div>
+
 4. The audio in the clip can be modified by right-clicking on the clip and selecting **Volume** and then **Entire Clip**, Finally select the percentage level you want. 
-![Demonstration of Step 4](images/openshot-audio-04.gif)
-5. You can also separate the audio from the file by clicking on the clip by right-clicking on the video clip and then selecting **Separate audio** and then from the pop-up select **Single Clip (all channels)**. This will separate the audio and place it below the video. This allows the audio to be modified, or even completely removed. 
-![Demonstration of Step 5](images/openshot-audio-05.gif)
+
+<button onclick="toggle('gif3')">Show / Hide Animation </button>
+<div id="gif3">
+      <img src="images/openshot-audio-04.gif">
+      </div>
+
+5. You can also separate the audio from the file by clicking on the clip by right-clicking on the video clip and then selecting **Separate audio** and then from the pop-up select **Single Clip (all channels)**. This will separate the audio and place it below the video. This allows the audio to be modified, or even completely removed.
+
+<button onclick="toggle('gif4')">Show / Hide Animation </button>
+<div id="gif4">
+      <img src="images/openshot-audio-05.gif">
+      </div>
+
 6. If only the audio from a clip is wanted, you can detach the audio and delete the video by moving the audio timeline down one level and pressing the delete button on your keyboard. This will disable the video and turn it into an audio-only clip.
 
 7. Removing audio is useful if the audio is overpowered by background noise, or if you’re hoping to add your own audio or music overtop of your video or images. 
@@ -42,6 +63,19 @@ In this exercise, you will add, remove, and have persistent audio in an OpenShot
 - [Free Music Archive](http://bit.ly/2OgSUsS){:target="_blank"} - CC-licensed music grouped by genre 
 - [ccMixter](http://bit.ly/34hdOMq){:target="_blank"} - CC-licensed music for film, video and games 
 - [CCTrax](http://bit.ly/2DbPjV8){:target="_blank"} - CC-licensed music grouped by genre
+
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [Bonus Activity: Screen Recording](screen-recording.html){: .btn .btn-blue }<br>
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }

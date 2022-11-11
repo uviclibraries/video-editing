@@ -3,6 +3,7 @@ layout: default
 title: 2 - Slow Motion & Cropping
 nav_order: 3
 parent: Workshop Activities Windows
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 <img src="images/ms-videoeditor/ve-slomo/logo.png" style="float:right;width:180px;" alt="logo">
@@ -26,7 +27,13 @@ In this exercise, you will create and edit a movie in Microsoft Video Editor, in
     -   Finally, click on the file and select  “**Open**” on the bottom right of the dialogue box.
 5.  **Drag** the bike video you just imported from the **Project Library** to the **Timeline** at the bottom of the Video Editor window:
 
-    <img src="images/ms-videoeditor/ve-slomo/add-bike.gif" style="width:720px;" alt="logo">
+<button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+     <img src="images/ms-videoeditor/ve-slomo/add-bike.gif" style="width:720px;" alt="logo">
+      </div>
+
+
+
 
 6.  Now you’ll make a slow-motion video clip with the “**bike**” video:
     -   Let’s isolate a short clip to slow down. Start by clicking on the **Split button**.
@@ -41,15 +48,37 @@ In this exercise, you will create and edit a movie in Microsoft Video Editor, in
     -   To slow down the clip you just selected, press the **Speed** button above the timeline (see video below).
     -   Then **drag** the slider to **0.25** (see video below)
 
-        <img src="images/ms-videoeditor/ve-slomo/edit-speed.gif" style="width:720px;" alt="logo">
+<button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+       <img src="images/ms-videoeditor/ve-slomo/edit-speed.gif" style="width:720px;" alt="logo">
+      </div>
 
+      
 7.  Crop or zoom in on a video clip:
     -   **Click** on the **middle of the 3 video clips** in the timeline.
     -   To zoom in and to the right on this clip, press the **Motion** button above the timeline (see video below).
     -   **Select** the **Zoom in Right** button on the right, and then **press** the **Done** button (see video below). 
 
-    <img src="images/ms-videoeditor/ve-slomo/zoom.gif" style="width:720px;" alt="logo">
+<button onclick="toggle('gif3')">Show / Hide Animation </button>
+<div id="gif3">
+       <img src="images/ms-videoeditor/ve-slomo/zoom.gif" style="width:720px;" alt="logo">
+      </div>
+
+    
 
 8.  Congratulations, you're done! Feel free to add a title & credits to your video if you want. Your video should look something like this: [https://goo.gl/gkqx8b](https://goo.gl/gkqx8b){:target="_blank"}
+
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Adding Audio and Free Music](ve-audio-music.html){: .btn .btn-blue }

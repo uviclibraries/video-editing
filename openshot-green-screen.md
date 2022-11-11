@@ -3,6 +3,7 @@ layout: default
 title: 3-OpenShot Green Screen
 nav_order: 4
 parent: Workshop Activities Old
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/openshot-green-01.png" style="float:right;width:180px;height:180px;" alt="OpenShot logo"> 
 # Green Screen
@@ -16,16 +17,31 @@ In this exercise, you will create and edit a movie in OpenShot Video Editor, inc
 
 2. Open OpenShot Video Editor by clicking on the OpenShot Video Editor.
 - If the Project Files are not visible on the left side or your screen, Control/Right click on **New Project** icon, then select **Project Files** from the pop-up menu. 
-![Demonstration of Step 2](images/openshot-green-02.gif)
+
+<button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+      <img src="images/openshot-green-02.gif">
+      </div>
+
 3. Next click on the “**+**” button at the top of the OpenShot Video Editor screen. 
 - Click on the **Desktop** on the left navigation pane and then hold down the **Shift** key and select the **chickens.mp4** file, **tropical-fish.mp4** file, and the **ocean-waves.mp3** file. 
 - Finally, click on the file and select **Open** on the bottom right of the dialog box.
-![Demonstration of Step 3](images/openshot-green-03.gif)
+
+<button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+      <img src="images/openshot-green-03.gif">
+      </div>
+
 4. Add the video clips and audio clip to the timeline (see pic below for example):
 - Drag the **chickens.mp4** video to the top timeline on your screen.
 - Drag the **tropical-fish.mp4** video clip to the timeline below the chickens green screen video (see gif below).
 - Lastly, drag the **ocean-waves.mp3** audio to the bottom timeline.
-![Demonstration of Step 4](images/openshot-green-04.gif)
+
+<button onclick="toggle('gif3')">Show / Hide Animation </button>
+<div id="gif3">
+      <img src="images/openshot-green-04.gif">
+      </div>
+
 5. Let’s make the green screen magic happen!
 - First, select the green screen clip in the timeline with the chicken.
 - Next, **right-click** on the **New Project** icon, and then if not already selected, click on **Effects** so that it has a checkmark beside it.
@@ -33,25 +49,45 @@ In this exercise, you will create and edit a movie in OpenShot Video Editor, inc
 - Do a filter search by typing in **Chroma Key** in the effects search bar
 - Next, drag and drop the **Chroma Key** effect on to the chicken.mp4 green screen video clip.
 - **Right-mouse click** the green “C” icon in the green screen clip section and then select **Properties**
-![Demonstration of adding in effects and chroma key](images/openshot-green-05.gif)
+
+<button onclick="toggle('gif4')">Show / Hide Animation </button>
+<div id="gif4">
+      <img src="images/openshot-green-05.gif">
+      </div>
+
 - Double click on the **Key Colour** property
 - Where it says HTML enter the following **#5DB435** (note if you use your own green screen video you will have to know the HTML or you can select **Pick Screen Colour** and move your mouse to click on the green screen (background) if you are using a Windows or Linux (does not work on Mac, therefore have to use HTML code))
 - Next move your clip reader cursor to the start of the clip (time: 0), then modify the **Fuzz** property by double-clicking the value box to change it. 
 - Write “**112**” as the “Fuzz” value (see gif below). 
 - Your chickens should now be standing on the coral under the ocean now when you preview the video!
-![Demonstration of fixing background screen](images/openshot-green-06.gif)
+
+<button onclick="toggle('gif5')">Show / Hide Animation </button>
+<div id="gif5">
+      <img src="images/openshot-green-06.gif">
+      </div>
+
 6. Trim and modify audio levels in video and audio clips:
 - Let’s trim the audio clip by selecting the audio clip and then grabbing the edge on the right of the clip and dragging it to be even with the video clips.
 - There is no audio in the green screen video clip, so we don’t have to worry about it.
 - There is audio in the tropical fish video, so we will remove that audio by right-clicking the tropical fish video clip and selecting **Volume** and then **Entire Clip**. Finally, to remove the audio set audio **level 0%**. 
 - If you want to make the background ocean waves audio louder or softer, simply select the audio track, and then repeat step 6c according to the volume percentage level you want. 20% sounds pretty good.
 - You could also fade in the audio clip the same way you fade video clips.
-![Demonstration of modifying audio](images/openshot-green-07.gif)
+
+<button onclick="toggle('gif6')">Show / Hide Animation </button>
+<div id="gif6">
+      <img src="images/openshot-green-07.gif">
+      </div>
+
 7. <img src="images/openshot-green-08.png" style="float:right;width:250px;" alt="Title example"> Let’s add a title to the video by selecting the **Titles** tab in the ribbon of your computer screen (or by clicking Command + T on a Mac, or ctrl + T on Windows), and saving the title to your project files.
 - Select all 3 media clips and drag them to the right to make room for your title.
 - Drag and drop your new title to the left of your media clips. 
 - Select your media clips and move them so they align with your title.
-![Demonstration of adding titles](images/openshot-green-09.gif)
+
+<button onclick="toggle('gif7')">Show / Hide Animation </button>
+<div id="gif7">
+      <img src="images/openshot-green-09.gif">
+      </div>
+
 8. Now add credits for your video by dragging and dropping a credit style “**title**” from under the **Titles** tab to the end of the video. Edit this same way you edited the title in step #7.
 
 9. Once you’re happy with your edited video you’ll need to export it in order to upload it to YouTube, or share it via Google Photos or some other sharing service:
@@ -62,5 +98,18 @@ In this exercise, you will create and edit a movie in OpenShot Video Editor, inc
 
 10. Congratulations, you’ve created and edited a more advanced video in OpenShot Video Editor! Your video should look something [like this](https://goo.gl/yBjs7k){:target="_blank"}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AmOVm-GxP1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: OpenShot Cropping and Slow-Mo](openshot-cropping-slo-mo.html){: .btn .btn-blue }

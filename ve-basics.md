@@ -3,6 +3,7 @@ layout: default
 title: 1 - Video Editor Basics
 nav_order: 2
 parent: Workshop Activities Windows
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 <img src="images/ms-videoeditor/ve-basics/logo.png" style="float:right;width:180px;" alt="logo">
@@ -35,7 +36,13 @@ Pre-class Activity Preparation:
 5.  Drag your mp4 from the Project Library pane down to the Storyboard pane. It should take up a slot. Selecting this slot enables you to click the **Play** icon or scrub through your video in the top right pane, similar to how one would navigate Youtube videos.
 
     <img src="images/ms-videoeditor/ve-basics/better-add.PNG" style="width:720px;" alt="project with clip added">
-    <img src="images/ms-videoeditor/ve-basics/ve-create.gif" style="width:720px;" alt="create project animated">
+
+    <button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+       <img src="images/ms-videoeditor/ve-basics/ve-create.gif" style="width:720px;" alt="create project animated">
+      </div>
+
+   
 
 6.  First, play the 90-second video by pressing the play button below the video. (Note: pressing the spacebar will start and stop the video which is very handy while editing)
 7.  Trim 20 or 30 seconds off the end of the video by selecting the video in the storyboard pane and then clicking the “**Trim**” option. It will present you with two sliders, and you position them around what you want to keep. Make sure the leftmost slider is positioned at the start of the video, and position the rightmost slider at roughly the 1-minute mark. Then click “**Done**” in the bottom right.
@@ -45,7 +52,13 @@ Pre-class Activity Preparation:
 8.  Next, let’s split the video at approximately the 15-second mark from the beginning. To do this, select the video in the storyboard pane and then select the “**Split**” option. On the new screen, drag the handle to roughly the 15-second location and click “**Done**” in the bottom right. Now you have two clips!
 
     <img src="images/ms-videoeditor/ve-basics/split.PNG" style="width:720px;" alt="split clip">
-    <img src="images/ms-videoeditor/ve-basics/ve-trim-split.gif" style="width:720px;" alt="trim and split animated">
+
+     <button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+          <img src="images/ms-videoeditor/ve-basics/ve-trim-split.gif" style="width:720px;" alt="trim and split animated">
+      </div>
+
+ 
 
 9.  The trimmed and split video should now look like the photo below.
 
@@ -58,7 +71,14 @@ Pre-class Activity Preparation:
      -   Challenge: Change the colour of the card to purple.
 
      <img src="images/ms-videoeditor/ve-basics/edit-card.png" style="width:720px;" alt="editing a card">
-     <img src="images/ms-videoeditor/ve-basics/ve-card.gif" style="width:720px;" alt="create card animated">
+
+      <button onclick="toggle('gif3')">Show / Hide Animation </button>
+<div id="gif3">
+           <img src="images/ms-videoeditor/ve-basics/ve-card.gif" style="width:720px;" alt="create card animated">
+      </div>
+
+
+    
 
 11.  Let’s add a title to the video:
      -   Select the first clip from the storyboard pane and then click the “**Text**” option.
@@ -69,7 +89,13 @@ Pre-class Activity Preparation:
      -   Click “**Done**” in the bottom right when you are satisfied with the style of your title.
 
      <img src="images/ms-videoeditor/ve-basics/feeding-time.PNG" style="width:720px;" alt="adding title">
-     <img src="images/ms-videoeditor/ve-basics/ve-titles.gif" style="width:720px;" alt="create titles animated">
+
+     <button onclick="toggle('gif4')">Show / Hide Animation </button>
+<div id="gif4">
+           <img src="images/ms-videoeditor/ve-basics/ve-titles.gif" style="width:720px;" alt="create titles animated">
+      </div>
+
+     
 
 12.  Now let’s add credits for your video. Video Editor only lets you add credits in the form of the text that you previously added for the titles:
      -   Select the final clip from your storyboard pane and split it into several pieces as previously shown in step 8.
@@ -77,7 +103,13 @@ Pre-class Activity Preparation:
      -   Change the text so that it is in the center and type a reasonable amount of your credits. Click “**Done**”.
 
      <img src="images/ms-videoeditor/ve-basics/credits1.PNG" style="width:720px;" alt="credits">
-     <img src="images/ms-videoeditor/ve-basics/ve-credits.gif" style="width:720px;" alt="create credits animated">
+
+      <button onclick="toggle('gif5')">Show / Hide Animation </button>
+<div id="gif5">
+           <img src="images/ms-videoeditor/ve-basics/ve-credits.gif" style="width:720px;" alt="create credits animated">
+      </div>
+
+     
 
 13.  Next, let’s reduce the volume of the audio during the credits:
      -   Select a video clip from your credits in the storyboard pane.
@@ -85,7 +117,13 @@ Pre-class Activity Preparation:
      -   Drag the slider to adjust that clip’s volume. Do this for all your credits clips.
 
      <img src="images/ms-videoeditor/ve-basics/volume.png" style="width:720px;" alt="volume">
-     <img src="images/ms-videoeditor/ve-basics/ve-volume.gif" style="width:720px;" alt="adjust volume animated">
+
+       <button onclick="toggle('gif6')">Show / Hide Animation </button>
+<div id="gif6">
+           <img src="images/ms-videoeditor/ve-basics/ve-volume.gif" style="width:720px;" alt="adjust volume animated">
+      </div>
+
+    
 
 14.  Once you’re happy with your edited video you’ll need to export it in order to upload it to YouTube, or share it via Google Photos or some other sharing service:
      -   Press the “**Finish video**” button in the top right.
@@ -93,8 +131,27 @@ Pre-class Activity Preparation:
      -   Click “**Export**”, select where the file will be saved and give it a memorable name. Click “**Export**” again.
 
      <img src="images/ms-videoeditor/ve-basics/finish.PNG" style="width:720px;" alt="finish project">
-     <img src="images/ms-videoeditor/ve-basics/ve-finish.gif" style="width:720px;" alt="finish project animated">
+
+     <button onclick="toggle('gif7')">Show / Hide Animation </button>
+<div id="gif7">
+           <img src="images/ms-videoeditor/ve-basics/ve-finish.gif" style="width:720px;" alt="finish project animated">
+      </div>
+
+     
 
 15.  Congratulations, you’ve created and edited a video in Microsoft Video Editor! If you want to post your video to YouTube, just upload the file to your YouTube account.
+
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Slow Motion and Cropping](ve-cropping-slo-mo.html){: .btn .btn-blue }

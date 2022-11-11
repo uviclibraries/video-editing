@@ -3,6 +3,7 @@ layout: default
 title: 3-Storyboarding Activity
 nav_order: 3
 parent: Bonus Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/storyboarder-01.png" style="float:right;width:250px" alt="storyboarder logo">
 # Bonus Activity: Storyboarding using Storyboarder
@@ -15,29 +16,70 @@ In this exercise, you will create a simple storyboard. If you have any questions
 - From the two project options, choose Create a blank
 - Next will be options for Aspect Ratio. For this example, we will be using 16:9 
 - Give your project a name, choose where it will be saved, and then click Create
-![Demonstration of Step 1](images/storyboarder-02.gif)
+
+<button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+      <img src="images/storyboarder-02.gif">
+      </div>
+
 2. <img src="images/storyboarder-03.png" style="float:right;width:200px" alt="pen and pencil tools"> Across the top of the screen are various pen and pencil tools, as well as an eraser. You can click on any of these and then choose a color using the swatches to the right of the pens. To access the full range of colours, click on the largest swatch.<img src="images/storyboarder-04.png" style="float:right;width:200px" alt="colour swatches">  Below the largest swatch are the Size and Opacity tools. Click and drag them to the left and right to increase and decrease them. <img src="images/storyboarder-05.png" style="float:right;width:180px" alt="size and opacity">
-![Demonstration of Step 2](images/storyboarder-06.gif)
+
+<button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+      <img src="images/storyboarder-06.gif">
+      </div>
+
+
 3. <img src="images/storyboarder-07.png" style="float:right;width:250px" alt="grey plus sign"> You can draw on the first blank board to represent the setup of your first video scene. Remember that storyboards do not need to be detailed or artistic -- the point is to remember and/or communicate how you want each shot to be set up on the day of filming. You can include as many scenes or as few as you think you will need for your project. 
 - <img src="images/storyboarder-08.png" style="float:right;width:250px" alt="onion skin function"> Click on the **grey plus sign** next to the board thumbnail at the bottom left of the screen to add a new board. The new board will have faint outlines of your previous board to show you the previous scene using a function called Onion Skin. You can toggle this function on and off when needed by clicking the Onion Skin button in the top right or tapping the letter O key on your keyboard.<br>
-![Demonstration of Onion Skin](images/storyboarder-09.gif)
+
+<button onclick="toggle('gif3')">Show / Hide Animation </button>
+<div id="gif3">
+      <img src="images/storyboarder-09.gif">
+      </div>
+
 - <img src="images/storyboarder-10.png" style="float:right;width:300px" alt="timeline"> Keep adding a few boards to your story. If you need to change the order, right click on the board and then click “**reorder right**” or “**reorder left**”. If you switch to the “**timeline**” view at the bottom of the screen, you can click and drag the boards. An arrow will appear. Drag over until the arrow is pointing where you want the board to move and then release the mouse. 
-![Demonstration of reordering](images/storyboarder-11.gif)
+
+<button onclick="toggle('gif4')">Show / Hide Animation </button>
+<div id="gif4">
+      <img src="images/storyboarder-11.gif">
+      </div>
+
 - You can turn on the grid lines using the buttons in the top right to help line things up. <img src="images/storyboarder-12.png" style="float:right;width:200px" alt="grid icon">
 - On the right, there are fields for each board you can fill out with Notes and Dialog and Action instructions
 - You can choose how long each shot will be under Duration if that is necessary for creating a timeline for your project. The default is 2 seconds per board.
 <img src="images/storyboarder-13.png" style="float:right;width:200px" alt="select audio file button">
 - There is a space for uploading audio. This can be anything from the music you want for your project or you can talk through the scenes or read aloud the dialog that the actors will be speaking to get a sense of what will be happening. <img src="images/storyboarder-14.png" style="float:right;width:200px" alt="select audio button"> To upload audio, click the Select Audio File button and navigate to where your audio file is saved, then click Open. (If your audio clip is longer than the frame you assigned it to, it will play over the audio assigned to other frames.)<br>
-![Demonstration of grid, duration and adding audio](images/storyboarder-15.gif)
+
+<button onclick="toggle('gif5')">Show / Hide Animation </button>
+<div id="gif5">
+      <img src="images/storyboarder-15.gif">
+      </div>
+
 4. The Shot Generator can be accessed by clicking on it to open it. This has a couple of functions. One of them is to set up advanced camera settings, but the other is handy if you don’t want to draw but still want to set up storyboards. This is especially useful if you want to get body positions across and are not confident in your drawing skills. To do that, follow these steps with Shot Generator open:
 - Click on **Character** in the top menu. This will place a generic character into the scene. To customize what sort of character this is, go over to the left sidebar menu and click on the **two-person tab**. You can click on the various models to switch between them. To further customize this model, you can click on the **tab with lines** on it to change rotation, height, weight, etc. 
-![Demonstration shot generator character](images/storyboarder-16.gif)
+
+<button onclick="toggle('gif6')">Show / Hide Animation </button>
+<div id="gif6">
+      <img src="images/storyboarder-16.gif">
+      </div>
+
 - To change the character Pose, click on the **tab with the figure outstretched**. You can search for various poses and click on them to move your character into these poses and adjust them manually by dragging the dots at the joints on the character. To rotate your character, go back into the first tab and change the Rotation. 
-![Demonstration of rotating character](images/storyboarder-17.gif)
+
+<button onclick="toggle('gif7')">Show / Hide Animation </button>
+<div id="gif7">
+      <img src="images/storyboarder-17.gif">
+      </div>
+
 - To add another Character, follow the same steps again. <img src="images/storyboarder-18.png" style="float:right;width:100px" alt="object icon"> You can move the character’s position on the board by dragging it around. 
 - <img src="images/storyboarder-19.png" style="float:right;width:200px" alt="viewing frame"> To add Objects to the board, click on **Object** at the top. This will default to adding a box. You can change the object by going to the sidebar menu and clicking on the two-person tab and clicking on a different object.
 - Use the overhead view frame in the top left corner to drag objects and characters and the camera around so that everything is set in relation to each other the way you want them to be for that scene. 
-![Demonstration of viewing angles](images/storyboarder-20.gif)
+
+<button onclick="toggle('gif8')">Show / Hide Animation </button>
+<div id="gif8">
+      <img src="images/storyboarder-20.gif">
+      </div>
+
 - Once satisfied with the board, click on **Insert as New Board** <img src="images/storyboarder-21.png" style="float:right;width:60px" alt="insert new board icon"> in the top right and the board will be added to your timeline. From there, you can draw over the top of it, add audio, dialogue, etc. Alternatively, if you click on **Save to Board**, it will add the characters and objects to whichever board you already had that is currently active.<img src="images/storyboarder-22.png" style="float:right;width:60px" alt="save to board icon">
 - To get out of Shot Generator, click on the **Red dot/X** in the corner to close the window. 
 
@@ -51,5 +93,18 @@ Some useful links to help you:
 - [Storyboarder FAQ](https://wonderunit.com/storyboarder/faq/){:target="_blank"}
 - [How to modify a scene in Shot Generator](https://www.youtube.com/watch?v=dojzTtvr9xk){:target="_blank"}
 - [Automatic Shot Generator](https://www.youtube.com/watch?v=_0hI-FBqwB0){:target="_blank"}
+
+
+<script>  
+
+    function toggle(input) {
+        var x = document.getElementById(input);
+        if (x.style.display === "none") {
+            x.style.display = "block";
+        } else {
+            x.style.display = "none";
+        }
+    }
+</script>
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }

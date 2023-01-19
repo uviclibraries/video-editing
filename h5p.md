@@ -52,18 +52,17 @@ Before you start making your own interactive video, please watch this excellent 
 - When you’ve finished adding alternative answers, click the blue **Done** button near the top right corner of the web page.
 - You can now move the multiple-choice box around the video window and resize the text box to fit your needs.
 - Click the blue **Create** button in the very top right corner of the web page. 
-- Finally, copy the "Short Code" on the top right of your screen that should look something like this:<br> 
+- Finally, **copy the "Short Code"** on the top right of your screen that should look something like this:<br> 
    <code>[h5p id="1"]</code>
-- You will paste the short code you just into a new blog post line or block in order to embed it in your blog post. Your interactive video is now ready to be embedded in a blog post or web page!<br>
+- You will paste the short code you just into a new blog post line or block in order to embed it in your blog post in the next step. Your interactive video is now ready to be embedded in a blog post or web page!<br>
 ![Add an interaction to your H5P Video](images/h5p-06.gif)
 
 7. Add your interactive video to a blog post:
 - Click on the **Posts** button on the left navigation bar.
 - Click on the **Add New** button near the top left of the browser window.
 - Type in a **Title** and **some text** in the body of the blog post and then press **enter** on your keyboard once.
-- On a new line (or in a new blok) past the short code from the last step on to the new line. The short code should loke something like this: <code>[h5p id="1"]</code>
-- Click on the **Publish** or **Update** button on the right of your window, and then check your new interactive element on your blog post!</br>
-![Add an interactive video to a blog post](images/h5p-07.gif)
+- On a new line (or in a new blok) past the short code from the last step on to the new line. The short code should loke something like this: <br><code>[h5p id="1"]</code>
+- Click on the **Publish** or **Update** button on the right of your window, and then check your new interactive element on your blog post! **NOTE**: The H5P video will not preview like a regular YouTube video in edit mode, but will display properly when you view the public version of the web page.
 
 8. Congratulations, you’ve created an interactive video and incorporated it into your blog. 
 

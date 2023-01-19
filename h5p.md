@@ -61,9 +61,7 @@ Before you start making your own interactive video, please watch this excellent 
 - Click on the **Posts** button on the left navigation bar.
 - Click on the **Add New** button near the top left of the browser window.
 - Type in a **Title** and **some text** in the body of the blog post and then press **enter** on your keyboard once.
-- Click on the **Add H5P** button just above the body of the blog post.
-- A dialogue box will appear. Press the Insert button beside the H5P interactive element you just created.
-- Some code was just inserted into your blog post that will look something like this: **[h5p id="1"]** do not delete this code or your interactive element will disappear from your post.
+- On a new line (or in a new blok) past the short code from the last step on to the new line. The short code should loke something like this: <code>[h5p id="1"]</code>
 - Click on the **Publish** or **Update** button on the right of your window, and then check your new interactive element on your blog post!</br>
 ![Add an interactive video to a blog post](images/h5p-07.gif)
 

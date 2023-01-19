@@ -13,14 +13,14 @@ Before you start making your own interactive video, please watch this excellent 
 1. If you haven’t done so already, install the H5P plugin in your WordPress blog, or if you have a UVic student, please create an [OpenEd.ca blog](https://opened.ca/get-started/){:target="_blank"} for this exercise if you don’t already have one.
 
 2. Enable the H5P plugin on your WordPress blog:
-- In your blog administration control panel click on the **Plugins** button, on the left navigation bar, and then scroll down and find the H5P plugin, and press the **Activate button**.
+- In your blog administration control panel click on the **Plugins** button, on the left navigation bar, and then scroll down and find the H5P plugin, and press the **Activate button**.<br>
 ![Activate H5P plugin](images/h5p-01.gif)
 
 3. Navigate to the H5P plugin setting page & enable the Interactive video tool if necessary and add new H5P content:
 - Mouse over the **H5P Content** button on the left navigation bar and then select the **Add New**.
-- If this is your first time using H5P, click on the blue **I consent, give me the Hub!** button to enable the H5P features you will need to make your interactive video.</br>
+- If this is your first time using H5P, click on the blue **I consent, give me the Hub!** button to enable the H5P features you will need to make your interactive video.<br>
 ![Activate H5P Hub consent](images/h5p-02.png)
-- If this is your first time using H5P on your blog, you’ll need to click on the **Get** button beside the top item (Interactive video).</br>
+- If this is your first time using H5P on your blog, you’ll need to click on the **Get** button beside the top item (Interactive video).<br>
 ![Get H5P Interactive video plugin](images/h5p-03.gif)
 
 4. Add a new video to and prepare to add interactive elements to it:
@@ -28,7 +28,7 @@ Before you start making your own interactive video, please watch this excellent 
 - Click on the **light grey plus** button under the “**Add a video**” text.
 - Copy and paste a YouTube URL into the text box and click the **Insert** button. **-OR-**
 - Click on the **Upload video file** button and upload your video to your blog.
-- Click on the **text box** below the Title label, and type in the title for your video.</br>
+- Click on the **text box** below the Title label, and type in the title for your video.<br>
 ![Enable the H5P Video tool](images/h5p-04.gif)
 
 5. Add an information text box to a video:
@@ -38,7 +38,7 @@ Before you start making your own interactive video, please watch this excellent 
 - Next type the text you want to appear in the dialogue box in the **Text** field near the bottom.
 - Click the **Poster** radio button just below the Pause video checkbox.
 - Click the blue **Done** button near the top right corner.
-- You can now move the text box around the video window and resize the text box to fit your needs.</br>
+- You can now move the text box around the video window and resize the text box to fit your needs.<br>
 ![Add an interaction to your H5P Video](images/h5p-05.gif)
 
 6. Add a multiple-choice question to your video
@@ -54,7 +54,7 @@ Before you start making your own interactive video, please watch this excellent 
 - Click the blue **Create** button in the very top right corner of the web page. 
 - Finally, copy the "Short Code" on the top right of your screen that should look something like this:<\br> 
    <code>[h5p id="1"]</code>
-- You will paste the short code you just into a new blog post line or block in order to embed it in your blog post. Your interactive video is now ready to be embedded in a blog post or web page!</br>
+- You will paste the short code you just into a new blog post line or block in order to embed it in your blog post. Your interactive video is now ready to be embedded in a blog post or web page!<br>
 ![Add an interaction to your H5P Video](images/h5p-06.gif)
 
 7. Add your interactive video to a blog post:

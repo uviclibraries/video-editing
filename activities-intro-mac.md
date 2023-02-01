@@ -12,7 +12,7 @@ Please review the following links:
     - OR read the [Introductory Slides](http://bit.ly/dsc-imovie-openshot){:target="_blank"}
 - Video: [Resize Your Laptop Screen for Workshop Handouts (2 min)](https://www.youtube.com/watch?v=Igk5hZUfzN0){:target="_blank"}
 
-
+<iframe src="https://drive.google.com/file/d/1womGen8PLkVEFMfL3fgtOa9jtCqq69z4/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
 [NEXT STEP: iMovie Basics](imovie-basics.html){: .btn .btn-blue }

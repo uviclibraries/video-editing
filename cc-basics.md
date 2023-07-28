@@ -17,11 +17,9 @@ Pre-class Activity Preparation:
 
 1.  If you don’t have a video that you want to edit, let’s start by downloading the following video, and saving it to your desktop: [http://bit.ly/dsc-goat-video](http://bit.ly/dsc-goat-video){:target="_blank"} It may take 1 or 2 minutes to download.
 
-    <img src="images/ms-videoeditor/ve-audio/new-project.png" style="float:right;width:180px;" alt="new video project button">
-
 2.  If the video starts playing you will have to right mouse click on the video & select “**Save Video As...**” and save it to the **Desktop** folder on your computer.
 
-    <img src="images/ms-videoeditor/ve-basics/create-a-new-video.png" style="float:right;width:180px;" alt="Create a New Video button">
+    <img src="images/ms-videoeditor/cc-basics/create-a-new-video.png" style="float:right;width:180px;" alt="Create a New Video button">
 
 3.  Open Microsoft ClipChamp if you have not already done so.
     -   Sign in with your Microsoft credentials (if you have a Microsoft account) -OR- with a Google account -OR- You can use your email address to login.

@@ -19,20 +19,15 @@ Pre-class Activity Preparation:
 
 2.  If the video starts playing you will have to right mouse click on the video & select “**Save Video As...**” and save it to the **Desktop** folder on your computer.
 
-    <img src="images/ms-videoeditor/cc-basics/create-a-new-video.png" style="float:right;width:280px;" alt="Create a New Video button">
-
 3.  Open Microsoft ClipChamp if you have not already done so.
     -   Sign in with your Microsoft credentials (if you have a Microsoft account) -OR- with a Google account -OR- You can use your email address to login.
     -   When asked, "What sort of videos bring you to Clipchamp?" select, **Education** for now (you can change this later if you'd like).
     -   When asked what level of education you are at, select **College or University**.
     -   Click on the **Create a New Video** button.
-    -   When prompted, give your video project a name (“**test video**” would be just fine).
-    -   Click “**OK**”
+    <img src="images/ms-videoeditor/cc-basics/create-a-new-video.png" style="float:right;width:280px;" alt="Create a New Video button">
 
-    <img src="images/ms-videoeditor/ve-basics/add.png" style="float:right;width:180px;" alt="add to project">
-
-5.  In the “**Project Library**” pane, click the “**+ Add**” button and select “**From this PC**”
-    -   Select “**Pictures**” on the left navigation pane and then select “**goats.mp4**”
+5.  Add the goat video to your video project by:
+    -   Click on the **Import Media** on the top left of the navigation pane and then select “**goats.mp4**” from where ever you saved it (maybe your Desktop or Dowloads folder?).
     -   Finally, click on the file and select  “**Open**” on the bottom right of the dialog box.
 6.  Drag your mp4 from the Project Library pane down to the Storyboard pane. It should take up a slot. Selecting this slot enables you to click the **Play** icon or scrub through your video in the top right pane, similar to how one would navigate Youtube videos.
 

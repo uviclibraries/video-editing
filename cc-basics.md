@@ -23,17 +23,20 @@ Pre-class Activity Preparation:
 
     <img src="images/ms-videoeditor/ve-basics/name.PNG" style="float:right;width:180px;" alt="name project">
 
-3.  Open Microsoft Video Editor if you have not already done so.
+3.  Open Microsoft ClipChamp if you have not already done so.
+    -   Sign in with your Microsoft credentials (if you have a Microsoft account) -OR- with a Google account -OR- You can use your email address to login.
+    -   When asked, "What sort of videos bring you to Clipchamp?" select, **Education** for now (you can change this later if you'd like).
+    -   When asked what level of education you are at, select **College or University**.
     -   Click on the **New Project** icon.
     -   When prompted, give your video project a name (“**test video**” would be just fine).
     -   Click “**OK**”
 
     <img src="images/ms-videoeditor/ve-basics/add.png" style="float:right;width:180px;" alt="add to project">
 
-4.  In the “**Project Library**” pane, click the “**+ Add**” button and select “**From this PC**”
+5.  In the “**Project Library**” pane, click the “**+ Add**” button and select “**From this PC**”
     -   Select “**Pictures**” on the left navigation pane and then select “**goats.mp4**”
     -   Finally, click on the file and select  “**Open**” on the bottom right of the dialog box.
-5.  Drag your mp4 from the Project Library pane down to the Storyboard pane. It should take up a slot. Selecting this slot enables you to click the **Play** icon or scrub through your video in the top right pane, similar to how one would navigate Youtube videos.
+6.  Drag your mp4 from the Project Library pane down to the Storyboard pane. It should take up a slot. Selecting this slot enables you to click the **Play** icon or scrub through your video in the top right pane, similar to how one would navigate Youtube videos.
 
     <img src="images/ms-videoeditor/ve-basics/better-add.PNG" style="width:720px;" alt="project with clip added">
 

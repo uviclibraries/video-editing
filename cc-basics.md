@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 1 - Video Editor Basics
-nav_order: 2
+nav_order: 5
 parent: Workshop Activities Windows
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---

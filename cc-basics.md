@@ -19,13 +19,13 @@ Pre-class Activity Preparation:
 
 2.  If the video starts playing you will have to right mouse click on the video & select “**Save Video As...**” and save it to the **Desktop** folder on your computer.
 
-    <img src="images/ms-videoeditor/cc-basics/create-a-new-video.png" style="float:right;width:180px;" alt="Create a New Video button">
+    <img src="images/ms-videoeditor/cc-basics/create-a-new-video.png" style="float:right;width:280px;" alt="Create a New Video button">
 
 3.  Open Microsoft ClipChamp if you have not already done so.
     -   Sign in with your Microsoft credentials (if you have a Microsoft account) -OR- with a Google account -OR- You can use your email address to login.
     -   When asked, "What sort of videos bring you to Clipchamp?" select, **Education** for now (you can change this later if you'd like).
     -   When asked what level of education you are at, select **College or University**.
-    -   Click on the **New Project** icon.
+    -   Click on the **Create a New Video** button.
     -   When prompted, give your video project a name (“**test video**” would be just fine).
     -   Click “**OK**”
 

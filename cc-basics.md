@@ -6,7 +6,7 @@ parent: Workshop Activities Windows
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-<img src="images/ms-videoeditor/cc-basics/logo.png" style="float:right;width:180px;" alt="logo">
+<img src="images/ms-videoeditor/cc-basics/logo.png" style="float:right;width:180px;" alt="ClipChamp logo">
 # The Basics
 In this exercise, you will create and edit a movie using Microsoft ClipChamp. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 

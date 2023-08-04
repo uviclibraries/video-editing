@@ -42,8 +42,7 @@ Pre-class Activity Preparation:
     <img src="images/ms-videoeditor/cc-basics/split.png" style="width:720px;" alt="split clip">
 
 9.  The trimmed and split video should now look like the photo below.
-
-    <img src="images/ms-videoeditor/ve-basics/better-split.PNG" style="width:720px;" alt="project with split clips">
+    <img src="images/ms-videoeditor/cc-basics/split-done" style="width:720px;" alt="project with split clips">
 
 10.  **Optional** - Add a card between the two clips:
      -   Select the clip that we want to have a title card before (in this case, the second clip).

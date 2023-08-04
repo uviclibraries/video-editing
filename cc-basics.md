@@ -26,10 +26,10 @@ Pre-class Activity Preparation:
     -   Click on the **Create a New Video** button.
     <img src="images/ms-videoeditor/cc-basics/create-a-new-video.png" style="float:right;width:280px;border:1px solid black;" alt="Create a New Video button">
 
-5.  Add the goat video to your video project by:
-    -   Click on the **Import Media** on the top left of the navigation pane and then select “**goats.mp4**” from where ever you saved it (maybe your Desktop or Dowloads folder?).
+4.  Add the goat video to your video project by:
+    -   Click on the purple **Import Media** on the top left of the navigation pane and then select “**goats.mp4**” from where ever you saved it (probably in your Desktop or Downloads folder).
     -   Finally, click on the file and select  “**Open**” on the bottom right of the dialog box.
-6.  Drag your mp4 from the Project Library pane down to the Storyboard pane. It should take up a slot. Selecting this slot enables you to click the **Play** icon or scrub through your video in the top right pane, similar to how one would navigate Youtube videos.
+5.  Drag your mp4 from the Project Library pane down to the Storyboard pane. It should take up a slot. Selecting this slot enables you to click the **Play** icon or scrub through your video in the top right pane, similar to how one would navigate Youtube videos.
 
     <img src="images/ms-videoeditor/ve-basics/better-add.PNG" style="width:720px;" alt="project with clip added">
 

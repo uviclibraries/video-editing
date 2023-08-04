@@ -29,18 +29,12 @@ Pre-class Activity Preparation:
 4.  Add the goat video to your video project by:
     -   Click on the purple **Import Media** on the top left of the navigation pane and then select “**goats.mp4**” from where ever you saved it (probably in your Desktop or Downloads folder).
     -   Finally, click on the file and select  “**Open**” on the bottom right of the dialog box.
+
 5.  Drag your mp4 from the Project Library pane down to the Storyboard pane. It should take up a slot. Selecting this slot enables you to click the **Play** icon or scrub through your video in the top right pane, similar to how one would navigate Youtube videos.
-
-    <img src="images/ms-videoeditor/ve-basics/better-add.PNG" style="width:720px;" alt="project with clip added">
-
-    <button onclick="toggle('gif1')">Show / Hide Animation </button>
-<div id="gif1">
-       <img src="images/ms-videoeditor/ve-basics/ve-create.gif" style="width:720px;" alt="create project animated">
-      </div>
-
-   
-
+    <img src="images/ms-videoeditor/cc-basics/drag-to-time-line.png" style="width:720px;" alt="drag video into the time line">
+    
 6.  First, play the 90-second video by pressing the play button below the video. (Note: pressing the spacebar will start and stop the video which is very handy while editing)
+
 7.  Trim 20 or 30 seconds off the end of the video by selecting the video in the storyboard pane and then clicking the “**Trim**” option. It will present you with two sliders, and you position them around what you want to keep. Make sure the leftmost slider is positioned at the start of the video, and position the rightmost slider at roughly the 1-minute mark. Then click “**Done**” in the bottom right.
 
     <img src="images/ms-videoeditor/ve-basics/trim.PNG" style="width:720px;" alt="trim clip">

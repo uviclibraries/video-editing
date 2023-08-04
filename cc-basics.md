@@ -35,31 +35,22 @@ Pre-class Activity Preparation:
     
 6.  First, play the 90-second video by pressing the play button below the video. (Note: pressing the spacebar will start and stop the video which is very handy while editing)
 
-7.  Trim 20 or 30 seconds off the end of the video by selecting the light green **handle** on the far right of the video in the storyboard pane and then dragging it a bit to the left. Make sure the leftmost handle is positioned at the start of the video, and position the rightmost slider at roughly the 1-minute mark.
+7.  Trim 20 or 30 seconds off the end of the video by selecting the light green **handle** on the far right of the video in the storyboard pane and then dragging it a bit to the left. Make sure the leftmost handle is positioned at the start of the video, and position the rightmost slider at roughly the 1-minute mark.<br>
     <img src="images/ms-videoeditor/cc-basics/crop-video.png" style="width:720px;" alt="trim clip">
 
 8.  Next, let’s split the video at approximately the 15-second mark from the beginning. To do this, select the video in the storyboard pane roughly the 15-second location and click and then select the “**Split**” button. Now you have two clips!
     <img src="images/ms-videoeditor/cc-basics/split.png" style="width:720px;" alt="split clip">
 
 9.  The trimmed and split video should now look like the photo below.
-    <img src="images/ms-videoeditor/cc-basics/split-done" style="width:720px;" alt="project with split clips">
+    <img src="images/ms-videoeditor/cc-basics/split-done.png" style="width:720px;" alt="project with split clips">
 
 10.  **Optional** - Add a card between the two clips:
      -   Select the clip that we want to have a title card before (in this case, the second clip).
      -   Select the “**Add title card**” option to add a default blue title card which displays the text “Title”.
      -   To change the default text, right-click the card and mouse over “**Edit**”. Select “**Text**”, click into the text box in the top right, and change the text to something more appropriate like “Raisins”. Feel free to also choose a fun font from the menu on the right.
      -   Challenge: Change the colour of the card to purple.
-
      <img src="images/ms-videoeditor/ve-basics/edit-card.png" style="width:720px;" alt="editing a card">
-
-      <button onclick="toggle('gif3')">Show / Hide Animation </button>
-<div id="gif3">
-           <img src="images/ms-videoeditor/ve-basics/ve-card.gif" style="width:720px;" alt="create card animated">
-      </div>
-
-
-    
-
+     
 11.  Let’s add a title to the video:
      -   Select the first clip from the storyboard pane and then click the “**Text**” option.
      -   In the top-right text box, replace “Title” with your chosen title, such as “Feeding Time”.

@@ -30,25 +30,16 @@ Pre-class Activity Preparation:
     -   Click on the purple **Import Media** on the top left of the navigation pane and then select “**goats.mp4**” from where ever you saved it (probably in your Desktop or Downloads folder).
     -   Finally, click on the file and select  “**Open**” on the bottom right of the dialog box.
 
-5.  Drag your mp4 from the Project Library pane down to the Storyboard pane. It should take up a slot. Selecting this slot enables you to click the **Play** icon or scrub through your video in the top right pane, similar to how one would navigate Youtube videos.
+5.  Drag your mp4 from the Project Library pane down to the Storyboard pane. Putting the video clip on the timeline enables you to click the **Play** icon or scrub through your video in the top right pane by grabbing the white "cursor" and dragging it back and forth, similar to how one would navigate Youtube videos.
     <img src="images/ms-videoeditor/cc-basics/drag-to-time-line.png" style="width:720px;" alt="drag video into the time line">
     
 6.  First, play the 90-second video by pressing the play button below the video. (Note: pressing the spacebar will start and stop the video which is very handy while editing)
 
-7.  Trim 20 or 30 seconds off the end of the video by selecting the video in the storyboard pane and then clicking the “**Trim**” option. It will present you with two sliders, and you position them around what you want to keep. Make sure the leftmost slider is positioned at the start of the video, and position the rightmost slider at roughly the 1-minute mark. Then click “**Done**” in the bottom right.
+7.  Trim 20 or 30 seconds off the end of the video by selecting the light green **handle** on the far right of the video in the storyboard pane and then dragging it a bit to the left. Make sure the leftmost handle is positioned at the start of the video, and position the rightmost slider at roughly the 1-minute mark.
+    <img src="images/ms-videoeditor/cc-basics/crop-video.png" style="width:720px;" alt="trim clip">
 
-    <img src="images/ms-videoeditor/ve-basics/trim.PNG" style="width:720px;" alt="trim clip">
-
-8.  Next, let’s split the video at approximately the 15-second mark from the beginning. To do this, select the video in the storyboard pane and then select the “**Split**” option. On the new screen, drag the handle to roughly the 15-second location and click “**Done**” in the bottom right. Now you have two clips!
-
-    <img src="images/ms-videoeditor/ve-basics/split.PNG" style="width:720px;" alt="split clip">
-
-     <button onclick="toggle('gif2')">Show / Hide Animation </button>
-<div id="gif2">
-          <img src="images/ms-videoeditor/ve-basics/ve-trim-split.gif" style="width:720px;" alt="trim and split animated">
-      </div>
-
- 
+8.  Next, let’s split the video at approximately the 15-second mark from the beginning. To do this, select the video in the storyboard pane roughly the 15-second location and click and then select the “**Split**” button. Now you have two clips!
+    <img src="images/ms-videoeditor/cc-basics/split.png" style="width:720px;" alt="split clip">
 
 9.  The trimmed and split video should now look like the photo below.
 

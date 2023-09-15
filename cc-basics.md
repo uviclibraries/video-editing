@@ -59,8 +59,7 @@ Pre-class Activity Preparation:
      -   To change the location of the text, click on the texbox on the screen and move it to the desired location on your video. 
      -   Select a fun font for your title from the menu on the right.
      -   The handles on the bottom show where the title will be displayed in your clip. Make sure that the leftmost handle is at the start of the clip and move the rightmost handle to roughly the 5 second location.     
-<img src="images/feeding-time.png">
-     
+    <img src="images/feeding-time.png">
 12. Now let’s add credits for your video.
      -   Select the final clip from your storyboard pane and split it into several pieces as previously shown in step 8.
      -   For each piece, add some “**Text**” as shown in step 11.

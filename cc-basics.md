@@ -57,6 +57,7 @@ Pre-class Activity Preparation:
      -   To change the location of the text, click on the texbox on the screen and move it to the desired location on your video. 
      -   Select a fun font for your title from the menu on the right.
      -   The handles on the bottom show where the title will be displayed in your clip. Make sure that the leftmost handle is at the start of the clip and move the rightmost handle to roughly the 5 second location. 
+     
       <img src="images/feeding-time-text" style="width:720px;" alt="feeding time text">
      
      <button onclick="toggle('gif4')">Show / Hide Animation </button>

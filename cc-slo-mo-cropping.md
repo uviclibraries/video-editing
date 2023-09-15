@@ -37,13 +37,13 @@ In this exercise, you will create and edit a movie in Clipchamp, including using
     -   Next, **Click** on the **middle of the 3 video clips** in the timeline.
     -   To slow down the clip you just selected, press the **Speed** button on the right side. 
     -   Then **drag** the slider to **0.25**
-        <img src="images/speed-slo.png" style="width:400px;" alt="speed">
+        <img src="images/speed-slo.png" style="width:300px;" alt="speed">
         
 7.  Crop or zoom in on a video clip:
     -   **Click** on the **middle of the 3 video clips** in the timeline.
-    -   To zoom in and to the right on this clip, press the **Motion** button above the timeline (see video below).
-    -   **Select** the **Zoom in Right** button on the right, and then **press** the **Done** button (see video below).
-
+    -   To Crop, press the **crop symbol** button towards the right.
+    -   Adjust the view of the video by moving the corners in.
+  <img src="images/crop.png" style="width:300px;" alt="Crop">
 
 8.  Congratulations, you're done! Feel free to add a title & credits to your video if you want. Your video should look something like this: [https://goo.gl/gkqx8b](https://goo.gl/gkqx8b){:target="_blank"}
 

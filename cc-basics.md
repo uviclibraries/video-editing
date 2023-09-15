@@ -72,6 +72,7 @@ Pre-class Activity Preparation:
      -   Note: if it does not give you the add text option, find the Text option also in the left pannel to insert and the right pannel to edit text. <img src="images/text-edit.png">
 
      <img src="images/ms-videoeditor/ve-basics/credits1.PNG" style="width:720px;" alt="credits">
+     
       <button onclick="toggle('gif5')">Show / Hide Animation </button>
 <div id="gif5">
            <img src="images/ms-videoeditor/ve-basics/ve-credits.gif" style="width:720px;" alt="create credits animated">

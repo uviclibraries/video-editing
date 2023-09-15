@@ -27,20 +27,13 @@ In this exercise, you will create and edit a movie in Clipchamp, including using
     -   Finally, click on the file and select  “**Open**” on the bottom right of the dialogue box.
 5.  **Drag** the bike video you just imported from the **Project Library** to the **Timeline** at the bottom of the Video Editor window:
 
-<button onclick="toggle('gif1')">Show / Hide Animation </button>
-<div id="gif1">
-     <img src="images/ms-videoeditor/ve-slomo/add-bike.gif" style="width:720px;" alt="logo">
-      </div>
 
 6.  Now you’ll make a slow-motion video clip with the “**bike**” video:
     -    **Move the white cursor** to the point in the video just before the rider starts to jump (see video below).
     -    Let’s isolate a short clip to slow down. Start by right clicking and selecting the **Split button**.
     -   **Select** the second video in the timeline, and **move the white cursor** to the point in the video where the bike lands (see video below).
-    -   Click the **Split button**
-    
-        <img src="images/ms-videoeditor/ve-slomo/split.gif" style="width:720px;" alt="logo">
-    
-    -   **Click** on the **middle of the 3 video clips** in the timeline.
+    -   Click the **Split button** again. Now your clip should be isolted.
+    -   Next, **Click** on the **middle of the 3 video clips** in the timeline.
     -   To slow down the clip you just selected, press the **Speed** button above the timeline (see video below).
     -   Then **drag** the slider to **0.25** (see video below)
 

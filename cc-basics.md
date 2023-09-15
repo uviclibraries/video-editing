@@ -51,24 +51,20 @@ Pre-class Activity Preparation:
      -   To add text, click “**add text**”. Select the text style on the left hand side by dragging and dropping the desired text style onto the free black background, click into the text box, and change the text to something more appropriate like “Raisins”. Feel free to also choose a fun font from the menu on the left. 
      -   Challenge: Change the colour of the card to purple. You can do this by dragging and dropping the “**Stencil title**”
 
-<img src="images/adding-text.png"> 
-     
+<img src="images/adding-text.png">     
 11.  Let’s add a title to the video:
      -   Select the first clip from the storyboard pane and then click the “**Add Text**” option.
-     -   In the top-'left text box, replace “Title” with your chosen title, such as “Feeding Time”.
-     -   To change the location of the text, select your preferred text layout from the “**Layout**” menu in the bottom right.
+     -   In the left side, drag and drop desired style, replace “Title” with your chosen title, such as “Feeding Time”, by modifying the text in the right side pannel. 
+     -   To change the location of the text, click on the texbox on the screen and move it to the desired location on your video. 
      -   Select a fun font for your title from the menu on the right.
      -   The handles on the bottom show where the title will be displayed in your clip. Make sure that the leftmost handle is at the start of the clip and move the rightmost handle to roughly the 5 second location.
-     -   Click “**Done**” in the bottom right when you are satisfied with the style of your title.
-
-     <img src="images/ms-videoeditor/ve-basics/feeding-time.PNG" style="width:720px;" alt="adding title">
+     
+     <img src="images/feeding-time" style="width:720px;" alt="feeding time text">
 
      <button onclick="toggle('gif4')">Show / Hide Animation </button>
 <div id="gif4">
            <img src="images/ms-videoeditor/ve-basics/ve-titles.gif" style="width:720px;" alt="create titles animated">
       </div>
-
-     
 
 12.  Now let’s add credits for your video. Video Editor only lets you add credits in the form of the text that you previously added for the titles:
      -   Select the final clip from your storyboard pane and split it into several pieces as previously shown in step 8.

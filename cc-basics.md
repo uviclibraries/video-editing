@@ -96,7 +96,7 @@ Pre-class Activity Preparation:
      -  Next, select where the file will be saved and give it a memorable name. 
 <img src="images/saving.png">
 
-     <img src="images/ms-videoeditor/ve-basics/finish.PNG" style="width:720px;" alt="finish project">
+     <img src="images/saving.png" style="width:720px;" alt="finish project">
 
      <button onclick="toggle('gif7')">Show / Hide Animation </button>
 <div id="gif7">

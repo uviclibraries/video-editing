@@ -82,7 +82,6 @@ Pre-class Activity Preparation:
      -   Select a video clip from your credits in the storyboard pane by clicking on it. The audio settings will appear on the right hand side pannel.
      -   Drag the slider to adjust that clip’s volume. Do this for all your credits clips.
 <img src="images/audio1.png">
-     <img src="images/ms-videoeditor/ve-basics/volume.png" style="width:720px;" alt="volume">
 
        <button onclick="toggle('gif6')">Show / Hide Animation </button>
 <div id="gif6">

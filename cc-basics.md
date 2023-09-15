@@ -69,8 +69,8 @@ Pre-class Activity Preparation:
 12. Now let’s add credits for your video. 
      -   Select the final clip from your storyboard pane and split it into several pieces as previously shown in step 8.
      -   For each piece, add some “**Text**” as shown in step 11.
-     -   Change the text so that it is in the center and type a reasonable amount of your credits. Click “**Done**”.
-   Note: if it does not give you the add text option, find the Text option also in the left pannel to insert and the right pannel to edit text. <img src="images/text-edit.png">
+     -   Change the text so that it is in the center and type a reasonable amount of your credits.
+     -   Note: if it does not give you the add text option, find the Text option also in the left pannel to insert and the right pannel to edit text. <img src="images/text-edit.png">
 
      <img src="images/ms-videoeditor/ve-basics/credits1.PNG" style="width:720px;" alt="credits">
       <button onclick="toggle('gif5')">Show / Hide Animation </button>

@@ -42,11 +42,10 @@ In this exercise, you will create and edit a movie in Clipchamp, including using
 7.  Crop or zoom in on a video clip:
     -   **Click** on the **middle of the 3 video clips** in the timeline.
     -   To zoom in and to the right on this clip, press the **Motion** button above the timeline (see video below).
-    -   **Select** the **Zoom in Right** button on the right, and then **press** the **Done** button (see video below). 
-    
+    -   **Select** the **Zoom in Right** button on the right, and then **press** the **Done** button (see video below).
+
 
 8.  Congratulations, you're done! Feel free to add a title & credits to your video if you want. Your video should look something like this: [https://goo.gl/gkqx8b](https://goo.gl/gkqx8b){:target="_blank"}
-
 
 <script>  
 

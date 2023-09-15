@@ -64,8 +64,7 @@ Pre-class Activity Preparation:
 <button onclick="toggle('gif4')">Show / Hide Animation </button>
 <div id="gif4">
            <img src="images/ms-videoeditor/ve-basics/ve-titles.gif" style="width:720px;" alt="create titles animated">
-      </div>
-      
+      </div>      
 12. Now let’s add credits for your video. 
      -   Select the final clip from your storyboard pane and split it into several pieces as previously shown in step 8.
      -   For each piece, add some “**Text**” as shown in step 11.

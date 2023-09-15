@@ -71,8 +71,7 @@ In this exercise, you will create and edit a movie in Microsoft Video Editor, in
 
 <script>  
 
-    [NEXT STEP: Adding Audio and Free Music](cc-audio-music.html){: .btn .btn-blue }
-
+ 
     function toggle(input) {
         var x = document.getElementById(input);
         if (x.style.display === "none") {
@@ -82,3 +81,5 @@ In this exercise, you will create and edit a movie in Microsoft Video Editor, in
         }
     }
 </script>
+
+   [NEXT STEP: Adding Audio and Free Music](cc-audio-music.html){: .btn .btn-blue }

@@ -62,34 +62,18 @@ Pre-class Activity Preparation:
      
 <img src="images/feeding-time.png">
      
-<button onclick="toggle('gif4')">Show / Hide Animation </button>
-<div id="gif4">
-           <img src="images/ms-videoeditor/ve-basics/ve-titles.gif" style="width:720px;" alt="create titles animated">
-      </div>      
-12. Now let’s add credits for your video. 
+12. Now let’s add credits for your video.
      -   Select the final clip from your storyboard pane and split it into several pieces as previously shown in step 8.
      -   For each piece, add some “**Text**” as shown in step 11.
      -   Change the text so that it is in the center and type a reasonable amount of your credits.
      -   Note: if it does not give you the add text option, find the Text option also in the left pannel to insert and the right pannel to edit text. <img src="images/text-edit.png">
-
-     <img src="images/ms-videoeditor/ve-basics/credits1.PNG" style="width:720px;" alt="credits">
-     
-      <button onclick="toggle('gif5')">Show / Hide Animation </button>
-<div id="gif5">
-           <img src="images/ms-videoeditor/ve-basics/ve-credits.gif" style="width:720px;" alt="create credits animated">
-      </div>
       
-13. Next, let’s reduce the volume of the audio during the credits:
+14. Next, let’s reduce the volume of the audio during the credits:
      -   Select a video clip from your credits in the storyboard pane by clicking on it. The audio settings will appear on the right hand side pannel.
      -   Drag the slider to adjust that clip’s volume. Do this for all your credits clips.
 <img src="images/audio1.png">
 
-       <button onclick="toggle('gif6')">Show / Hide Animation </button>
-<div id="gif6">
-           <img src="images/ms-videoeditor/ve-basics/ve-volume.gif" style="width:720px;" alt="adjust volume animated">
-      </div>
-
-14.  Once you’re happy with your edited video you’ll need to export it in order to upload it to YouTube, or share it via Google Photos or some other sharing service:
+16.  Once you’re happy with your edited video you’ll need to export it in order to upload it to YouTube, or share it via Google Photos or some other sharing service:
      -  Click “**Export**”
        <img src="images/export.png" style="float:right;width:300px;height:300px;" alt=”exporting”>
      -  Select whichever quality you want from the drop-down menu (higher quality results in larger files).
@@ -97,13 +81,7 @@ Pre-class Activity Preparation:
 
      <img src="images/saving.png" style="width:400px;" alt="finish project">
 
-     <button onclick="toggle('gif7')">Show / Hide Animation </button>
-<div id="gif7">
-    
-           <img src="images/ms-videoeditor/ve-basics/ve-finish.gif" style="width:720px;" alt="finish project animated">
-      </div>
-
-15.  Congratulations, you’ve created and edited a video in Microsoft Clipchamp!
+17.  Congratulations, you’ve created and edited a video in Microsoft Clipchamp!
 
 
 <script>  

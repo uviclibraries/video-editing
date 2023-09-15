@@ -12,19 +12,18 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 In this exercise, you will create and edit a movie in Clipchamp, including using splitting and duplicating a video clip, making a slow-motion video clip, cropping a video clip, and importing audio to overlay your clip. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
 1.  Let’s start by downloading the Mountain biking video and save it to your computer: [https://bit.ly/3vrLJj0](https://bit.ly/3vrLJj0){:target="_blank"}. If the video starts playing you will have to right mouse click on the video & select “**Save Video As...**” and save it to the **Desktop** folder on your computer
+
 2.  Open Microsoft Video Editor if you have not already done. 
 
-    <img src="images/ms-videoeditor/ve-audio/new-project.png" style="float:right;width:180px;" alt="logo">
-
-3.  Open Microsoft Video Editor if you have not already done so.
+3.  Open Cipchamp if you have not already done so.
     -   Click on the **New Project** icon.
     -   When prompted, give your video project a name (“**test bike**” would be just fine).
     -   Click “**OK**”
 
-    <img src="images/ms-videoeditor/ve-slomo/add.png" style="float:right;width:180px;" alt="logo">
+      <img src="images/ms-videoeditor/cc-basics/create-a-new-video.png" style="float:right;width:280px;border:1px solid black;" alt="Create a New Video button">
 
-4.  In the “**Project Library**” pane, click the “**+ Add**” button and select “**From this PC**”
-    -   Select “**Desktop**” on the left navigation pane and then select “**bike.mp4**”
+4.  In the “**Project Library**” pane, click the “**+ Import media**” button and select “**Browse files**”
+    -   Select “**Downloads**” on the left navigation pane and then select “**bike.mp4**”
     -   Finally, click on the file and select  “**Open**” on the bottom right of the dialogue box.
 5.  **Drag** the bike video you just imported from the **Project Library** to the **Timeline** at the bottom of the Video Editor window:
 
@@ -33,15 +32,11 @@ In this exercise, you will create and edit a movie in Clipchamp, including using
      <img src="images/ms-videoeditor/ve-slomo/add-bike.gif" style="width:720px;" alt="logo">
       </div>
 
-
-
-
 6.  Now you’ll make a slow-motion video clip with the “**bike**” video:
-    -   Let’s isolate a short clip to slow down. Start by clicking on the **Split button**.
-    -   **Move the blue cursor** to the point in the video just before the rider starts to jump (see video below).
-    -   Click on the **Done** button (see video below).
-    -   **Select** the second video in the timeline, and **move the blue cursor** to the point in the video where the bike lands (see video below).
-    -   **Click** on the **Done** button (see video below).
+    -    **Move the white cursor** to the point in the video just before the rider starts to jump (see video below).
+    -    Let’s isolate a short clip to slow down. Start by right clicking and selecting the **Split button**.
+    -   **Select** the second video in the timeline, and **move the white cursor** to the point in the video where the bike lands (see video below).
+    -   Click the **Split button**
     
         <img src="images/ms-videoeditor/ve-slomo/split.gif" style="width:720px;" alt="logo">
     

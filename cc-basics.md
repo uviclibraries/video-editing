@@ -48,13 +48,14 @@ Pre-class Activity Preparation:
      -   Select the clip that we want to have a title card before (in this case, the second clip), and drag it approximately 10 seconds to the right.
      -   Select the “**Stock images**” icon on the left navigation bar, and then select the **free black" colour background, and drop it in the gap between the two video clips.<br>
     <img src="images/ms-videoeditor/cc-basics/background.png" style="width:720px;" alt="project with split clips">
-     -   To add text, click “**add text**”. Select the text style on the left hand side by dragging and dropping the desired text style onto the free black background, click into the text box, and change the text to something more appropriate like “Goats”. Feel free to also choose a fun font from the menu on the left. 
+     -   To add text, click “**add text**”. Select the text style on the left hand side by dragging and dropping the desired text style onto the free black background, click into the text box, and change the text to something more appropriate like “Raisins”. Feel free to also choose a fun font from the menu on the left. 
      -   Challenge: Change the colour of the card to purple. You can do this by dragging and dropping the “**Stencil title**”
+
 <img src="images/adding-text.png"> 
      
 11.  Let’s add a title to the video:
-     -   Select the first clip from the storyboard pane and then click the “**Text**” option.
-     -   In the top-right text box, replace “Title” with your chosen title, such as “Feeding Time”.
+     -   Select the first clip from the storyboard pane and then click the “**Add Text**” option.
+     -   In the top-'left text box, replace “Title” with your chosen title, such as “Feeding Time”.
      -   To change the location of the text, select your preferred text layout from the “**Layout**” menu in the bottom right.
      -   Select a fun font for your title from the menu on the right.
      -   The handles on the bottom show where the title will be displayed in your clip. Make sure that the leftmost handle is at the start of the clip and move the rightmost handle to roughly the 5 second location.

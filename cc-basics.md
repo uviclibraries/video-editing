@@ -119,4 +119,4 @@ Pre-class Activity Preparation:
     }
 </script>
 
-[NEXT STEP: Slow Motion and Cropping](cc-cropping-slo-mo.html){: .btn .btn-blue }
+[NEXT STEP: Slow Motion and Cropping](cc-slo-mo-cropping.html){: .btn .btn-blue }

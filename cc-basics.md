@@ -90,9 +90,11 @@ Pre-class Activity Preparation:
       </div>
 
 14.  Once you’re happy with your edited video you’ll need to export it in order to upload it to YouTube, or share it via Google Photos or some other sharing service:
-     -   Press the “**Finish video**” button in the top right.
-     -   Select whichever quality you want from the drop-down menu (higher quality results in larger files).
-     -   Click “**Export**”, select where the file will be saved and give it a memorable name. Click “**Export**” again.
+     -  Click “**Export**”
+       <img src="images/exporting.png">
+     -  Select whichever quality you want from the drop-down menu (higher quality results in larger files).
+     -  Next, select where the file will be saved and give it a memorable name. 
+<img src="images/saving.png">
 
      <img src="images/ms-videoeditor/ve-basics/finish.PNG" style="width:720px;" alt="finish project">
 
@@ -103,7 +105,7 @@ Pre-class Activity Preparation:
 
      
 
-15.  Congratulations, you’ve created and edited a video in Microsoft Video Editor! If you want to post your video to YouTube, just upload the file to your YouTube account.
+15.  Congratulations, you’ve created and edited a video in Microsoft Clipchamp!
 
 
 <script>  

@@ -26,7 +26,7 @@ In this exercise, you will create and edit a movie in Clipchamp, including using
     -   Select “**Downloads**” on the left navigation pane and then select “**bike.mp4**”
     -   Finally, click on the file and select  “**Open**” on the bottom right of the dialogue box.
 5.  **Drag** the bike video you just imported from the **Project Library** to the **Timeline** at the bottom of the Video Editor window:
-    <img src="images/drag-slo.png">
+    <img src="images/drag-slo.png" style="float:right;width:300px;height:300px;" alt=drag”>
     
 6.  Now you’ll make a slow-motion video clip with the “**bike**” video:
     -    **Move the white cursor** to the point in the video just before the rider starts to jump (see video below).

@@ -59,17 +59,19 @@ Pre-class Activity Preparation:
      -   Select a fun font for your title from the menu on the right.
      -   The handles on the bottom show where the title will be displayed in your clip. Make sure that the leftmost handle is at the start of the clip and move the rightmost handle to roughly the 5 second location. 
      
-<img src="images/feeding-time-text.png">
+<img src="images/feeding-time.png">
      
 <button onclick="toggle('gif4')">Show / Hide Animation </button>
 <div id="gif4">
            <img src="images/ms-videoeditor/ve-basics/ve-titles.gif" style="width:720px;" alt="create titles animated">
       </div>
       
-12. Now let’s add credits for your video. Video Editor only lets you add credits in the form of the text that you previously added for the titles:
+12. Now let’s add credits for your video. 
      -   Select the final clip from your storyboard pane and split it into several pieces as previously shown in step 8.
      -   For each piece, add some “**Text**” as shown in step 11.
      -   Change the text so that it is in the center and type a reasonable amount of your credits. Click “**Done**”.
+   Note: if it does not give you the add text option, find the Text option also in the left pannel to insert and the right pannel to edit text. <img src="images/text-edit.png">
+
      <img src="images/ms-videoeditor/ve-basics/credits1.PNG" style="width:720px;" alt="credits">
       <button onclick="toggle('gif5')">Show / Hide Animation </button>
 <div id="gif5">

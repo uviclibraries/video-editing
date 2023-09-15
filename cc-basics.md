@@ -103,7 +103,6 @@ Pre-class Activity Preparation:
            <img src="images/ms-videoeditor/ve-basics/ve-finish.gif" style="width:720px;" alt="finish project animated">
       </div>
 
-     
 
 15.  Congratulations, you’ve created and edited a video in Microsoft Clipchamp!
 

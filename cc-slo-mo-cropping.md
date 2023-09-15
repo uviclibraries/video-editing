@@ -6,7 +6,7 @@ parent: Workshop Activities Windows
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-<img src="images/ms-videoeditor/ve-slomo/logo.png" style="float:right;width:180px;" alt="logo">
+<img src="images/ms-videoeditor/cc-basics/logo.png" style="float:right;width:180px;" alt="ClipChamp logo">
 # Slow Motion and Cropping
 In this exercise, you will create and edit a movie in Microsoft Video Editor, including using splitting and duplicating a video clip, making a slow-motion video clip, cropping a video clip, and importing audio to overlay your clip. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 

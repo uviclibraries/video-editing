@@ -50,7 +50,6 @@ Pre-class Activity Preparation:
     <img src="images/ms-videoeditor/cc-basics/background.png" style="width:720px;" alt="project with split clips">
      -   To add text, click “**add text**”. Select the text style on the left hand side by dragging and dropping the desired text style onto the free black background, click into the text box, and change the text to something more appropriate like “Goats”. Feel free to also choose a fun font from the menu on the left. 
      -   Challenge: Change the colour of the card to purple. You can do this by dragging and dropping the “**Stencil title**”
-     -   
 <img src="images/adding-text.png" style="width:720px;" alt="adding text"> 
      
 11.  Let’s add a title to the video:

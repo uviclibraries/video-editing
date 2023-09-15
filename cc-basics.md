@@ -79,18 +79,15 @@ Pre-class Activity Preparation:
       </div>
       
 13. Next, let’s reduce the volume of the audio during the credits:
-     -   Select a video clip from your credits in the storyboard pane.
-     -   In the bottom right of the clip’s thumbnail in the storyboard pane, click the volume icon.
+     -   Select a video clip from your credits in the storyboard pane by clicking on it. The audio settings will appear on the right hand side pannel.
      -   Drag the slider to adjust that clip’s volume. Do this for all your credits clips.
-
+<img src="images/audio.png">
      <img src="images/ms-videoeditor/ve-basics/volume.png" style="width:720px;" alt="volume">
 
        <button onclick="toggle('gif6')">Show / Hide Animation </button>
 <div id="gif6">
            <img src="images/ms-videoeditor/ve-basics/ve-volume.gif" style="width:720px;" alt="adjust volume animated">
       </div>
-
-    
 
 14.  Once you’re happy with your edited video you’ll need to export it in order to upload it to YouTube, or share it via Google Photos or some other sharing service:
      -   Press the “**Finish video**” button in the top right.

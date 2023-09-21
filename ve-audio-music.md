@@ -3,6 +3,7 @@ layout: default
 title: 3 - Adding Audio and Music
 nav_order: 4
 parent: Workshop Activities Windows
+nav_exclude: true
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 

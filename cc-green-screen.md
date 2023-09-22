@@ -20,19 +20,9 @@ In this exercise, you will create and edit a movie in iMovie, including using gr
 - Then click on the large “**+**” sign with “**Create New**” underneath (#2).
 - Now select “**Movie**” (#3).
 
-<button onclick="toggle('gif1')">Show / Hide Animation </button>
-<div id="gif1">
-      <img src="images/imovie-green-03.gif">
-      </div>
-
 3. Next click on the “**Import Media**” button in the middle of the iMovie screen. <img src="images/imovie-green-04.png" style="float:right;width:100px" alt="importing icon"> 
 - Click on the “**Desktop**” on the left navigation pane and then hold down the “Command” key and select the “**chickens.mp4**” file, “**tropical-fish.mp4**” file, and the “**ocean-waves.mp3**” file. 
 - Finally, click on the blue “**Import Selected**” button on the bottom right of the dialogue box.
-
-<button onclick="toggle('gif2')">Show / Hide Animation </button>
-<div id="gif2">
-      <img src="images/imovie-green-05.gif">
-      </div>
 
 4. Add the video clips and audio clip to the timeline (see pic below for example):
 - Drag the “**tropical-fish.mp4**” video clip you just imported into the timeline at the bottom of the iMovie screen.
@@ -40,21 +30,11 @@ In this exercise, you will create and edit a movie in iMovie, including using gr
 - Lastly, drag the “**ocean waves**” audio below your background video clip.
 ![Image of all 3 files imported into timeline](images/imovie-green-14.png)  
 
-<button onclick="toggle('gif3')">Show / Hide Animation </button>
-<div id="gif3">
-      <img src="images/imovie-green-06.gif">
-      </div>
-
 5. Let’s make the green screen magic happen! <img src="images/imovie-green-07.png" style="float:right;width:250px" alt="Green blue screem and video overlay dropdown"> 
 - First, select the green screen clip in the timeline with the chicken.
 - Next click on the “**video overlay**” button just above the video preview window in the top right of the program (see #1 to the right).
 - Then click on the dropdown (see #2) and select, “**Green/Blue Screen**”
 - Your chickens should be standing on the coral under the ocean now when you preview the video!
-
-<button onclick="toggle('gif4')">Show / Hide Animation </button>
-<div id="gif4">
-      <img src="images/imovie-green-08.gif">
-      </div>
 
 6. Trim and modify audio levels in video and audio clips: <img src="images/imovie-green-09.png" style="float:right;width:250px" alt="audio under tropical fish">
 - Let’s trim the audio clip by selecting the audio clip and then grabbing the yellow handle on the right of the clip and dragging it even with the video clips.
@@ -62,20 +42,10 @@ In this exercise, you will create and edit a movie in iMovie, including using gr
 - There is audio in the tropical fish video, so we will remove that audio by selecting the tropical fish video clip, and then mousing over the audio “line” and dragging it to the bottom of the blue area.
 - If you want to make the background ocean waves audio louder or softer, simply select the green audio track, and then grab the horizontal line in the middle and move it up or down.
 
-<button onclick="toggle('gif5')">Show / Hide Animation </button>
-<div id="gif5">
-      <img src="images/imovie-green-10.gif">
-      </div>
-
 7. <img src="images/imovie-green-11.png" style="float:right;width:250px" alt="titles tab"> Let’s add a title to the video by selecting the “**Titles**” tab at the top of the iMovie window, and the drag and drop one of the titles at the beginning of the timeline. 
 - In the video preview window double click to edit the title text.
 
 8. Now add credits for your video by dragging and dropping a credit style “**title**” from under the “**Titles**” tab to the end of the video. Edit this same way you edited the title in step #7.
-
-<button onclick="toggle('gif6')">Show / Hide Animation </button>
-<div id="gif6">
-      <img src="images/imovie-green-12.gif">
-      </div>
 
 9. <img src="images/imovie-green-13.png" style="float:right;width:250px" alt="Exporting menu">Once you’re happy with your edited video you’ll need to export it in order to upload it to YouTube, or share it via Google Photos or some other sharing service:
 - Press the upload button in the very top right of the iMovie window (#1 to the right).

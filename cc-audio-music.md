@@ -16,15 +16,18 @@ In this exercise, you will add, remove, and have persistent audio in Clipchamp. 
 
     <img src="images/ms-videoeditor/cc-basics/create-a-new-video.png" style="float:right;width:280px;border:1px solid black;" alt="Create a New Video button">
 
-3.  Open ClipChampif you have not already done so.
+3.  Open ClipChamp if you have not already done so.
     -   Click on the **Create a New Video** icon.
     -   Beside the import media button, give your video project a name (“**test 2 video**” would be just fine).
     -   Click “**OK**”
-4.  The audio in the clip can be modified by **selecting** the **clip** and then **clicking** on the **Volume icon** and then moving the **slider** to the **percentage level** you want 
+      
+4.  The audio in the clip can be modified by **selecting** the **clip** and then **clicking** on the **Audio icon** (located on the right hand side bar) and then moving the **slider** to the **percentage level** you want 
 
-5.  Removing audio is useful if the audio is overpowered by background noise, or if you’re hoping to add your own audio or music overtop of your video or images. You do this by simply **clicking** on the **Volume icon** and then moving the **slider** to **0-percent**.
+5.  Removing audio is useful if the audio is overpowered by background noise, or if you’re hoping to add your own audio or music overtop of your video or images. You do this by simply **clicking** on the **Audio icon** and then moving the **slider** to **0-percent**.
+
 6.  By removing audio from certain clips, it is very simple to have your own commentary track over a video, or include some music. You can add a soundtrack overlayed to create interesting audio effects, as well as remove broken or undesired audio to better suit your needs. 
-7.  Add a music track from Microsoft Video Editor to your video (see video below).
+
+7.  Add a music track from Clipchamp to your video by clicking **Music and SFX** (located in the left side bar). DRag and drop the desired music
 
 8.  OPTIONAL: Find a music clip from one of the websites below that fits your tone and sound effects that enhance your sense of location, and **save** the **mp3** music or sound effect to your hard drive (so that you can import it into your video project). There are many Creative Commons or royalty-free music websites that aggregate and distribute music that is shared with no or low copyright limitations including:
     -   Free Sound - A collaborative database of CC-licensed sound. Freesound focusses on sound and sound effects, not music - [http://bit.ly/33deeCq ](http://bit.ly/33deeCq ){:target="_blank"}

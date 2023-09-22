@@ -35,21 +35,18 @@ In this exercise, you will create and edit a movie in Clipchamp, including using
 - Your chickens should be standing on the coral under the ocean now when you preview the video!
 
 6. Trim and modify audio levels in video and audio clips: <img src="images/imovie-green-09.png" style="float:right;width:250px" alt="audio under tropical fish">
-- Let’s trim the audio clip by selecting the audio clip and then grabbing the yellow handle on the right of the clip and dragging it even with the video clips.
+- Let’s trim the audio clip by selecting the audio clip and then grabbing the side handle on the right of the clip and dragging it even with the video clips.
 - There is no audio in the green screen video clip, so we don’t have to worry about it.
-- There is audio in the tropical fish video, so we will remove that audio by selecting the tropical fish video clip, and then mousing over the audio “line” and dragging it to the bottom of the blue area.
-- If you want to make the background ocean waves audio louder or softer, simply select the green audio track, and then grab the horizontal line in the middle and move it up or down.
+- There is audio in the tropical fish video, so we will mute that audio by selecting the tropical fish video clip, and then right clicking, selecting audio and muting the clip.
+- If you want to make the background ocean waves audio louder or softer, simply select the audio track, select audio (on the right hand side bar) and move it up or down.
 
-7. <img src="images/imovie-green-11.png" style="float:right;width:250px" alt="titles tab"> Let’s add a title to the video by selecting the “**Titles**” tab at the top of the iMovie window, and the drag and drop one of the titles at the beginning of the timeline. 
+7. Let’s add a title to the video by selecting the “**Text**” tab in the left hand side window, and the drag and drop one of the titles at the beginning of the timeline. 
 - In the video preview window double click to edit the title text.
 
 8. Now add credits for your video by dragging and dropping a credit style “**title**” from under the “**Titles**” tab to the end of the video. Edit this same way you edited the title in step #7.
 
-9. <img src="images/imovie-green-13.png" style="float:right;width:250px" alt="Exporting menu">Once you’re happy with your edited video you’ll need to export it in order to upload it to YouTube, or share it via Google Photos or some other sharing service:
-- Press the upload button in the very top right of the iMovie window (#1 to the right).
-- Next, select the “**File**” icon (#2 to the right).
-- Give your movie a descriptive name, and then press the “**Next**” button. Select the folder where you want to put your video and press the “**Save**” button.
-- It will take a few minutes for iMovie to export your video.
+9. Once you’re happy with your edited video you’ll need to export it in order to upload it to YouTube, or share it via Google Photos or some other sharing service:
+- Press the upload button in the very top right of the iMovie window
 
 10. Congratulations, you’ve created and edited a more advanced video in iMovie! Your video should look something [like this](https://goo.gl/yBjs7k){:target="_blank"} 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AmOVm-GxP1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

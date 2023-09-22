@@ -26,7 +26,7 @@ In this exercise, you will create and edit a movie in Clipchamp, including using
 - Drag the “**tropical-fish.mp4**” video clip you just imported into the timeline at the bottom of the iMovie screen.
 - Next, drag the “**green screen chickens**” video on top of your background video.
 - Lastly, drag the “**ocean waves**” audio below your background video clip.
-![Image of all 3 files imported into timeline](images/import-timeline.png)  
+![Image of all 3 files imported into timeline](images/timeline.png)  
 
 5. Let’s make the green screen magic happen! <img src="images/imovie-green-07.png" style="float:right;width:250px" alt="Green blue screem and video overlay dropdown"> 
 - First, select the green screen clip in the timeline with the chicken.

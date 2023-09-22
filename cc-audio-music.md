@@ -22,7 +22,7 @@ In this exercise, you will add, remove, and have persistent audio in Clipchamp. 
     -   Click “**OK**”
       
 4.  The audio in the clip can be modified by **selecting** the **clip** and then **clicking** on the **Audio icon** (located on the right hand side bar) and then moving the **slider** to the **percentage level** you want 
-
+<img src="images/audio1.png">      
 5.  Removing audio is useful if the audio is overpowered by background noise, or if you’re hoping to add your own audio or music overtop of your video or images. You do this by simply **clicking** on the **Audio icon** and then moving the **slider** to **0-percent**.
 
 6.  By removing audio from certain clips, it is very simple to have your own commentary track over a video, or include some music. You can add a soundtrack overlayed to create interesting audio effects, as well as remove broken or undesired audio to better suit your needs. 

@@ -22,16 +22,16 @@ In this exercise, you will create and edit a movie in Clipchamp, including using
 - Click on the “**Desktop**” on the left navigation pane and then hold down the “Command” key and select the “**chickens.mp4**” file, “**tropical-fish.mp4**” file, and the “**ocean-waves.mp3**” file. 
 - Finally, click on the blue “**open**” button on the bottom right of the dialogue box.
 
-4. Add the video clips and audio clip to the timeline (see pic below for example):
+4. Add the video clips and audio clip to the timeline (see pic below for example, it is important that the Green Screen Video is on the top of the timeline):
 - Drag the “**tropical-fish.mp4**” video clip you just imported into the timeline at the bottom of the iMovie screen.
 - Next, drag the “**green screen chickens**” video on top of your background video.
 - Lastly, drag the “**ocean waves**” audio below your background video clip.
 ![Image of all 3 files imported into timeline](images/timeline.png)  
 
-5. Let’s make the green screen magic happen! <img src="images/imovie-green-07.png" style="float:right;width:250px" alt="Green blue screem and video overlay dropdown"> 
+5. Let’s make the green screen magic happen! <img src="images/green-screen.png" style="float:right;width:250px" alt="Green blue screem and video overlay dropdown"> 
 - First, select the green screen clip in the timeline with the chicken.
-- Next click on the “**video overlay**” button just above the video preview window in the top right of the program (see #1 to the right).
-- Then click on the dropdown (see #2) and select, “**Green/Blue Screen**”
+- Next click on the “**Effects**” button just above the video preview window in the top right of the program.
+- Then click on the “**Green Screen**”
 - Your chickens should be standing on the coral under the ocean now when you preview the video!
 
 6. Trim and modify audio levels in video and audio clips: <img src="images/imovie-green-09.png" style="float:right;width:250px" alt="audio under tropical fish">

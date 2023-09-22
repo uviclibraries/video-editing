@@ -18,7 +18,7 @@ In this exercise, you will create and edit a movie in Clipchamp, including using
 
 2. Open Clipchamp.
 
-3. Next click on the “**Import Media**”. <img src="images/import.png" style="float:right;width:100px" alt="importing media icon"> 
+3. Next click on the “**Import Media**”. <img src="images/import.png" style="float:right;width:300px" alt="importing media icon"> 
 - Click on the “**Desktop**” on the left navigation pane and then hold down the “Command” key and select the “**chickens.mp4**” file, “**tropical-fish.mp4**” file, and the “**ocean-waves.mp3**” file. 
 - Finally, click on the blue “**open**” button on the bottom right of the dialogue box.
 

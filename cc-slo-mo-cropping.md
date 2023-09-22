@@ -16,7 +16,7 @@ In this exercise, you will create and edit a movie in Clipchamp, including using
 2.  Open Microsoft Video Editor if you have not already done. 
 
 3.  Open Cipchamp if you have not already done so.
-    -   Click on the **New Project** icon.
+    -   Click on the **Create a New Video** icon.
     -   When prompted, give your video project a name (“**test bike**” would be just fine).
     -   Click “**OK**”
 

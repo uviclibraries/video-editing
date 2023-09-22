@@ -1,7 +1,6 @@
 ---
 layout: default
 title: 1 - Video Editor Basics
-nav_order: 2
 nav_exclude: true
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---

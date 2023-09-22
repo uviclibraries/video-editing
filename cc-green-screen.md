@@ -16,17 +16,17 @@ In this exercise, you will create and edit a movie in Clipchamp, including using
 - Audio - [ocean waves mp3](https://bit.ly/3upBsCA){:target="_blank"}<br>
 **Note:** If the video starts playing in your browser you will have to right mouse click on the video and select “**Save Video As**…” & save to your Desktop.
 
-2. Open CLipchamp.
+2. Open Clipchamp.
 
-3. Next click on the “**Import Media**”. <img src="images/imovie-green-04.png" style="float:right;width:100px" alt="importing icon"> 
+3. Next click on the “**Import Media**”. <img src="images/import.png" style="float:right;width:100px" alt="importing media icon"> 
 - Click on the “**Desktop**” on the left navigation pane and then hold down the “Command” key and select the “**chickens.mp4**” file, “**tropical-fish.mp4**” file, and the “**ocean-waves.mp3**” file. 
-- Finally, click on the blue “**Import Selected**” button on the bottom right of the dialogue box.
+- Finally, click on the blue “**open**” button on the bottom right of the dialogue box.
 
 4. Add the video clips and audio clip to the timeline (see pic below for example):
 - Drag the “**tropical-fish.mp4**” video clip you just imported into the timeline at the bottom of the iMovie screen.
 - Next, drag the “**green screen chickens**” video on top of your background video.
 - Lastly, drag the “**ocean waves**” audio below your background video clip.
-![Image of all 3 files imported into timeline](images/imovie-green-14.png)  
+![Image of all 3 files imported into timeline](images/import-timeline.png)  
 
 5. Let’s make the green screen magic happen! <img src="images/imovie-green-07.png" style="float:right;width:250px" alt="Green blue screem and video overlay dropdown"> 
 - First, select the green screen clip in the timeline with the chicken.

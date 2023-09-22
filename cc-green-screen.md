@@ -8,7 +8,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 <img src="images/ms-videoeditor/cc-basics/logo.png" style="float:right;width:180px;" alt="ClipChamp logo"> 
 
 # Green Screen
-In this exercise, you will create and edit a movie in iMovie, including using green screen video and importing audio to overlay your clip. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
+In this exercise, you will create and edit a movie in Clipchamp, including using green screen video and importing audio to overlay your clip. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
 1. If you don’t have a green screen video that you want to edit, let’s start by downloading the audio and video files below and save them to your desktop: 
 - [Green screen chickens](https://bit.ly/34yuUHH){:target="_blank"}
@@ -16,12 +16,9 @@ In this exercise, you will create and edit a movie in iMovie, including using gr
 - Audio - [ocean waves mp3](https://bit.ly/3upBsCA){:target="_blank"}<br>
 **Note:** If the video starts playing in your browser you will have to right mouse click on the video and select “**Save Video As**…” & save to your Desktop.
 
-2. <img src="images/imovie-green-02.png" style="float:right;width:250px" alt="labels of projects, create new and movie tabs"> Open iMovie by clicking on the purple iMovie icon.
-- Make sure that the “**Projects**” tab on the top of the program is selected (labelled #1)
-- Then click on the large “**+**” sign with “**Create New**” underneath (#2).
-- Now select “**Movie**” (#3).
+2. Open CLipchamp.
 
-3. Next click on the “**Import Media**” button in the middle of the iMovie screen. <img src="images/imovie-green-04.png" style="float:right;width:100px" alt="importing icon"> 
+3. Next click on the “**Import Media**”. <img src="images/imovie-green-04.png" style="float:right;width:100px" alt="importing icon"> 
 - Click on the “**Desktop**” on the left navigation pane and then hold down the “Command” key and select the “**chickens.mp4**” file, “**tropical-fish.mp4**” file, and the “**ocean-waves.mp3**” file. 
 - Finally, click on the blue “**Import Selected**” button on the bottom right of the dialogue box.
 

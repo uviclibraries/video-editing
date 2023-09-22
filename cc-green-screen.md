@@ -6,6 +6,7 @@ parent: Workshop Activities Windows
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/ms-videoeditor/cc-basics/logo.png" style="float:right;width:180px;" alt="ClipChamp logo"> 
+
 # Green Screen
 In this exercise, you will create and edit a movie in iMovie, including using green screen video and importing audio to overlay your clip. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 

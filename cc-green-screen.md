@@ -46,7 +46,12 @@ In this exercise, you will create and edit a movie in Clipchamp, including using
 8. Now add credits for your video by dragging and dropping a credit style “**title**” from under the “**Titles**” tab to the end of the video. Edit this same way you edited the title in step #7.
 
 9. Once you’re happy with your edited video you’ll need to export it in order to upload it to YouTube, or share it via Google Photos or some other sharing service:
-- Press the upload button in the very top right of the iMovie window
+     -  Click “**Export** ”in the top right of the Clipchamp window
+       <img src="images/export.png" style="float:right;width:300px;height:300px;" alt=”exporting”>
+     -  Select whichever quality you want from the drop-down menu (higher quality results in larger files).
+     -  Next, select where the file will be saved and give it a memorable name. 
+
+     <img src="images/saving.png" style="width:400px;" alt="finish project">
 
 10. Congratulations, you’ve created and edited a more advanced video in iMovie! Your video should look something [like this](https://goo.gl/yBjs7k){:target="_blank"} 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AmOVm-GxP1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

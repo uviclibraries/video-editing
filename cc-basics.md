@@ -14,7 +14,7 @@ In this exercise, you will create and edit a movie using Microsoft ClipChamp. If
 Pre-class Activity Preparation:
 
 -   Make sure the Microsoft ClipChamp is installed on your computer by pressing the **Windows logo** button on your keyboard and then typing “**clipchamp**” (see the image on the right).
--   Open Microsoft ClipChanp by clicking on the “**ClipChamp**” icon.
+-   Open Microsoft ClipChamp by clicking on the “**ClipChamp**” icon.
 
 1.  If you don’t have a video that you want to edit, let’s start by downloading the following video, and saving it to your desktop: [http://bit.ly/dsc-goat-video](http://bit.ly/dsc-goat-video){:target="_blank"} It may take 1 or 2 minutes to download.
 

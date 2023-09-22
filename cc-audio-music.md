@@ -14,7 +14,7 @@ In this exercise, you will add, remove, and have persistent audio in a Microsoft
 1.  If you don’t have a video that you want to edit, let’s start by downloading the following video, and saving it to your desktop: [http://bit.ly/dsc-goat-video](http://bit.ly/dsc-goat-video){:target="_blank"} It may take 1 or 2 minutes to download.
 2.  If the video starts playing you will have to right mouse click on the video & select “**Save Video As...**” and save it to the **Desktop** folder on your computer.
 
-    <img src="images/ms-videoeditor/ve-audio/new-project.png" style="float:right;width:180px;" alt="logo">
+    <img src="images/ms-videoeditor/cc-basics/create-a-new-video.png" style="float:right;width:280px;border:1px solid black;" alt="Create a New Video button">
 
 3.  Open Microsoft Video Editor if you have not already done so.
     -   Click on the **New Project** icon.

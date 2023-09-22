@@ -9,15 +9,15 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 <img src="images/ms-videoeditor/cc-basics/logo.png" style="float:right;width:180px;" alt="ClipChamp logo">
 
 # Adding Audio and Free Music
-In this exercise, you will add, remove, and have persistent audio in a Microsoft Video Editor project. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
+In this exercise, you will add, remove, and have persistent audio in Clipchamp. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
 1.  If you don’t have a video that you want to edit, let’s start by downloading the following video, and saving it to your desktop: [http://bit.ly/dsc-goat-video](http://bit.ly/dsc-goat-video){:target="_blank"} It may take 1 or 2 minutes to download.
 2.  If the video starts playing you will have to right mouse click on the video & select “**Save Video As...**” and save it to the **Desktop** folder on your computer.
 
     <img src="images/ms-videoeditor/cc-basics/create-a-new-video.png" style="float:right;width:280px;border:1px solid black;" alt="Create a New Video button">
 
-3.  Open Microsoft Video Editor if you have not already done so.
-    -   Click on the **New Project** icon.
+3.  Open ClipChampif you have not already done so.
+    -   Click on the **Create a New Video** icon.
     -   When prompted, give your video project a name (“**test 2 video**” would be just fine).
     -   Click “**OK**”
 4.  The audio in the clip can be modified by **selecting** the **clip** and then **clicking** on the **Volume icon** and then moving the **slider** to the **percentage level** you want 

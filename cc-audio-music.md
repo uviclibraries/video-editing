@@ -36,8 +36,9 @@ In this exercise, you will add, remove, and have persistent audio in Clipchamp. 
     -   Free Music Archive - CC-licensed music grouped by genre - [http://bit.ly/2OgSUsS ](http://bit.ly/2OgSUsS ){:target="_blank"}
     -   ccMixter - CC-licensed music for film, video and games - [http://bit.ly/34hdOMq ](http://bit.ly/34hdOMq ){:target="_blank"}
     -   CCTrax - CC-licensed music grouped by genre - [http://bit.ly/2DbPjV8](http://bit.ly/2DbPjV8){:target="_blank"}
-9.  Once you’re happy with your edited video you’ll need to export it in order to upload it to YouTube, or share it via Google Photos or some other sharing service:
 
+9.  Once you’re happy with your edited video you’ll need to export it in order to upload it to YouTube, or share it via Google Photos or some other sharing service:
+    <img src="images/export.png" style="float:right;width:300px;height:300px;" alt=”exporting”>
 10.  Congratulations, you’ve created a persistent audio project in OpenShot Video Editor! If you want to post your video to YouTube, just upload the file to your YouTube account.
 
 

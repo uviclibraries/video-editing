@@ -18,7 +18,7 @@ In this exercise, you will add, remove, and have persistent audio in Clipchamp. 
 
 3.  Open ClipChampif you have not already done so.
     -   Click on the **Create a New Video** icon.
-    -   When prompted, give your video project a name (“**test 2 video**” would be just fine).
+    -   Beside the import media button, give your video project a name (“**test 2 video**” would be just fine).
     -   Click “**OK**”
 4.  The audio in the clip can be modified by **selecting** the **clip** and then **clicking** on the **Volume icon** and then moving the **slider** to the **percentage level** you want 
 

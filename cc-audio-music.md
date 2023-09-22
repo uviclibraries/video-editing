@@ -20,14 +20,7 @@ In this exercise, you will add, remove, and have persistent audio in a Microsoft
     -   Click on the **New Project** icon.
     -   When prompted, give your video project a name (“**test 2 video**” would be just fine).
     -   Click “**OK**”
-4.  The audio in the clip can be modified by **selecting** the **clip** and then **clicking** on the **Volume icon** and then moving the **slider** to the **percentage level** you want (see video clip below).
-
-<button onclick="toggle('gif1')">Show / Hide Animation </button>
-<div id="gif1">
-       <img src="images/ms-videoeditor/ve-audio/edit-audio.gif" style="width:720px;" alt="logo">
-      </div>
-
-
+4.  The audio in the clip can be modified by **selecting** the **clip** and then **clicking** on the **Volume icon** and then moving the **slider** to the **percentage level** you want 
 
 5.  Removing audio is useful if the audio is overpowered by background noise, or if you’re hoping to add your own audio or music overtop of your video or images. You do this by simply **clicking** on the **Volume icon** and then moving the **slider** to **0-percent**.
 6.  By removing audio from certain clips, it is very simple to have your own commentary track over a video, or include some music. You can add a soundtrack overlayed to create interesting audio effects, as well as remove broken or undesired audio to better suit your needs. 
@@ -46,13 +39,6 @@ In this exercise, you will add, remove, and have persistent audio in a Microsoft
     -   ccMixter - CC-licensed music for film, video and games - [http://bit.ly/34hdOMq ](http://bit.ly/34hdOMq ){:target="_blank"}
     -   CCTrax - CC-licensed music grouped by genre - [http://bit.ly/2DbPjV8](http://bit.ly/2DbPjV8){:target="_blank"}
 9.  Once you’re happy with your edited video you’ll need to export it in order to upload it to YouTube, or share it via Google Photos or some other sharing service:
-
-<button onclick="toggle('gif3')">Show / Hide Animation </button>
-<div id="gif3">
-      <img src="images/ms-videoeditor/ve-audio/finish.gif" style="width:720px;" alt="logo">
-      </div>
-    
-   
 
 10.  Congratulations, you’ve created a persistent audio project in OpenShot Video Editor! If you want to post your video to YouTube, just upload the file to your YouTube account.
 

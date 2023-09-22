@@ -28,6 +28,7 @@ In this exercise, you will add, remove, and have persistent audio in Clipchamp. 
 6.  By removing audio from certain clips, it is very simple to have your own commentary track over a video, or include some music. You can add a soundtrack overlayed to create interesting audio effects, as well as remove broken or undesired audio to better suit your needs. 
 
 7.  Add a music track from Clipchamp to your video by clicking **Music and SFX** (located in the left side bar). DRag and drop the desired music
+<img src="images/music-add.png">
 
 8.  OPTIONAL: Find a music clip from one of the websites below that fits your tone and sound effects that enhance your sense of location, and **save** the **mp3** music or sound effect to your hard drive (so that you can import it into your video project). There are many Creative Commons or royalty-free music websites that aggregate and distribute music that is shared with no or low copyright limitations including:
     -   Free Sound - A collaborative database of CC-licensed sound. Freesound focusses on sound and sound effects, not music - [http://bit.ly/33deeCq ](http://bit.ly/33deeCq ){:target="_blank"}

@@ -30,7 +30,7 @@ In this exercise, you will create and edit a movie in Clipchamp, including using
 
       <button onclick="toggle('gif1')">Show / Hide Animation </button>
 <div id="gif1">
-      <img src="images/cc-slow1.gif">
+      <img src="images/cc-audio4.gif">
       </div>
     
 6.  Now you’ll make a slow-motion video clip with the “**bike**” video:

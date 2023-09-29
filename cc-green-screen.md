@@ -26,7 +26,10 @@ In this exercise, you will create and edit a movie in Clipchamp, including using
 - Drag the “**tropical-fish.mp4**” video clip you just imported into the timeline at the bottom of the iMovie screen.
 - Next, drag the “**green screen chickens**” video on top of your background video.
 - Lastly, drag the “**ocean waves**” audio below your background video clip.
-![Image of all 3 files imported into timeline](images/timeline.png)  
+      <button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+      <img src="images/cc-green1.gif">
+      </div>
 
 5. Let’s make the green screen magic happen! <img src="images/green-screen.png" style="float:right;width:250px" alt="Green blue screem and video overlay dropdown"> 
 - First, select the green screen clip in the timeline with the chicken.
@@ -46,8 +49,8 @@ In this exercise, you will create and edit a movie in Clipchamp, including using
 8. Now add credits for your video by dragging and dropping a credit style “**title**” from under the “**Titles**” tab to the end of the video. Edit this same way you edited the title in step #7.
 
 9. Once you’re happy with your edited video you’ll need to export it in order to upload it to YouTube, or share it via Google Photos or some other sharing service:
-     -  Click “**Export** ”in the top right of the Clipchamp window
-       <img src="images/export.png" style="float:right;width:300px;height:300px;" alt=”exporting”>
+     -  Click “**Export** ”in the top right of the Clipchamp window. <br>
+       <img src="images/export.png">
      -  Select whichever quality you want from the drop-down menu (higher quality results in larger files).
      -  Next, select where the file will be saved and give it a memorable name. 
 

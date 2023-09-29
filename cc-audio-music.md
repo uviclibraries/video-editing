@@ -24,12 +24,19 @@ In this exercise, you will add, remove, and have persistent audio in Clipchamp. 
 4.  The audio in the clip can be modified by **selecting** the **clip** and then **clicking** on the **Audio icon** (located on the right hand side bar) and then moving the **slider** to the **percentage level** you want 
 <img src="images/audio1.png">      
 5.  Removing audio is useful if the audio is overpowered by background noise, or if you’re hoping to add your own audio or music overtop of your video or images. You do this by simply **clicking** on the **Audio icon** and then moving the **slider** to **0-percent**.
+      <button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+      <img src="images/cc-audio4.gif">
+      </div>
 
 6.  By removing audio from certain clips, it is very simple to have your own commentary track over a video, or include some music. You can add a soundtrack overlayed to create interesting audio effects, as well as remove broken or undesired audio to better suit your needs. 
 
 7.  Add a music track from Clipchamp to your video by clicking **Music and SFX** (located in the left side bar). DRag and drop the desired music
 <img src="images/music-add.png">
-
+      <button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+      <img src="images/cc-audio7.gif">
+      </div>
 8.  OPTIONAL: Find a music clip from one of the websites below that fits your tone and sound effects that enhance your sense of location, and **save** the **mp3** music or sound effect to your hard drive (so that you can import it into your video project). There are many Creative Commons or royalty-free music websites that aggregate and distribute music that is shared with no or low copyright limitations including:
     -   Free Sound - A collaborative database of CC-licensed sound. Freesound focusses on sound and sound effects, not music - [http://bit.ly/33deeCq ](http://bit.ly/33deeCq ){:target="_blank"}
     -   Archive.org - Non-profit digital library with collections of digitized free movies, music, images, websites and more - [http://bit.ly/2DeGY2M  ](http://bit.ly/2DeGY2M  ){:target="_blank"}

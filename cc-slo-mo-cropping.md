@@ -43,7 +43,12 @@ In this exercise, you will create and edit a movie in Clipchamp, including using
     -   To slow down the clip you just selected, press the **Speed** button on the right side. 
     -   Then **drag** the slider to **0.25**
         <img src="images/speed-slo.png" style="width:300px;" alt="speed">
-        
+
+          <button onclick="toggle('gif2')">Show / Hide Animation </button>
+<div id="gif2">
+      <img src="images/cc-slo2.gif">
+      </div>    
+      
 7.  Crop or zoom in on a video clip:
     -   **Click** on the **middle of the 3 video clips** in the timeline.
     -   To Crop, press the **crop symbol** button towards the right.

@@ -78,7 +78,7 @@ Pre-class Activity Preparation:
      -  Select whichever quality you want from the drop-down menu (higher quality results in larger files).
      -  Next, select where the file will be saved and give it a memorable name. 
 
-     <img src="images/saving.png" style="width:400px;" alt="finish project">
+<img src="images/saving.png" style="width:400px;" alt="finish project">
 
 15. Congratulations, you’ve created and edited a video in Microsoft Clipchamp!
 

@@ -34,6 +34,11 @@ Pre-class Activity Preparation:
 5.  Drag your mp4 from the Project Library pane down to the Storyboard pane. Putting the video clip on the timeline enables you to click the **Play** icon or scrub through your video in the top right pane by grabbing the white "cursor" and dragging it back and forth, similar to how one would navigate Youtube videos.
     <img src="images/ms-videoeditor/cc-basics/drag-to-time-line.png" style="width:720px;" alt="drag video into the time line">
     
+    <button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif1">
+      <img src="images/cc-step5.gif">
+      </div>
+      
 6.  First, play the 90-second video by pressing the play button below the video. (Note: pressing the spacebar will start and stop the video which is very handy while editing)
 
 7.  Trim 20 or 30 seconds off the end of the video by selecting the light green **handle** on the far right of the video in the storyboard pane and then dragging it a bit to the left. Make sure the leftmost handle is positioned at the start of the video, and position the rightmost slider at roughly the 1-minute mark.<br>

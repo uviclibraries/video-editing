@@ -56,10 +56,13 @@ Pre-class Activity Preparation:
 10.  **Optional** - Add a card between the two clips:
      -   Select the clip that we want to have a title card before (in this case, the second clip), and drag it approximately 10 seconds to the right.
      -   Select the “**Stock images**” icon on the left navigation bar, and then select the **free black" colour background, and drop it in the gap between the two video clips.<br>
-    <img src="images/ms-videoeditor/cc-basics/background.png" style="width:720px;" alt="project with split clips">
      -   To add text, click “**add text**”. Select the text style on the left hand side by dragging and dropping the desired text style onto the free black background, click into the text box, and change the text to something more appropriate like “Raisins”. Feel free to also choose a fun font from the menu on the left. 
      -   Challenge: Change the colour of the card to purple. You can do this by dragging and dropping the “**Stencil title**”
-<img src="images/adding-text.png">     
+       
+       <button onclick="toggle('gif1')">Show / Hide Animation </button>
+<div id="gif3">
+      <img src="images/cc-step10.gif">
+      </div>
 
 11.  Let’s add a title to the video: 
      -   Select the first clip from the storyboard pane and then click the “**Add Text**” option.

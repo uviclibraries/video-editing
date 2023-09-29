@@ -74,7 +74,7 @@ Pre-class Activity Preparation:
 14. Once you’re happy with your edited video you’ll need to export it in order to upload it to YouTube, or share it via Google Photos or some other sharing service:
 
      -  Click “**Export**”
-       <img src="images/export.png" style="float:right;width:300px;height:300px;" alt=”exporting”>
+ <img src="images/export.png" style="float:right;width:300px;height:300px;" alt=”exporting”>
      -  Select whichever quality you want from the drop-down menu (higher quality results in larger files).
      -  Next, select where the file will be saved and give it a memorable name. 
 

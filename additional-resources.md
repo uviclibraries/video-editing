@@ -6,7 +6,7 @@ nav_order: 10
 # Additional Resources & Acknowledgements
 ## Instructor Resources 
 
-- [Video Assignment suggestions](./docs/video-essays.pdf), including assignment rubrics & completed student videos (from the [University of Nottingham](https://www.nottingham.ac.uk/artsdigitalhub/resources/video.aspx)).
+- [Video Assignment suggestions](./docs/video-essays.pdf){:target="_blank"}, including assignment rubrics & completed student videos (from the [University of Nottingham](https://www.nottingham.ac.uk/artsdigitalhub/resources/video.aspx)).
 
 ## Acknowledgements
 

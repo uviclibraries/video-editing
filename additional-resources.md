@@ -4,8 +4,9 @@ title: Additional Resources
 nav_order: 10
 ---
 # Additional Resources & Acknowledgements
-## Video Editing 
-Coming soon
+## Instructor Resources 
+
+- [Video Assignment suggestions](./docs/video-essays.pdf), including assignment rubrics & completed student videos.
 
 ## Acknowledgements
 

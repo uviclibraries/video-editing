@@ -4,7 +4,11 @@ title: Pre-Workshop Activities
 nav_order: 2
 ---
 ## Pre-Workshop Videos & Activities
-This workshop is primarily hands-on practice with **iMovie** or the **Microsoft Video Editor** in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
+This workshop is primarily hands-on practice with **iMovie** or the **Microsoft Video Editor** in order to learn to use key features of the software.
+
+> **Please Note**: If you work at UVic and use a UVic Systems managed Windows computer you do not have ClipChamp installed on your computer, and currently it cannot be installed for licensing purposes. That said you can request a free personal Microsoft 365 account that allows you to use Microsoft's web-based programs (including ClipChamp). [Sign up for free here](https://www.microsoft.com/en-us/microsoft-365/free-office-online-for-the-web){:target="_blank"}!
+
+To participate fully please do the following **before the workshop**:
 
 **It should take you approximately 10 minutes to watch the recommended videos, and an extra 10 minutes to watch the optional videos.**<br>
 

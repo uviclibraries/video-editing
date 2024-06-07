@@ -76,10 +76,8 @@ Pre-class Activity Preparation:
       </div>
 
 12. Now let’s add credits for your video.
-     -   Select the final clip from your storyboard pane and split it into several pieces as previously shown in step 8.
-     -   For each piece, add some “**Text**” as shown in step 11.
-     -   Change the text so that it is in the center and type a reasonable amount of your credits.
-     -   Note: if it does not give you the add text option, find the Text option also in the left pannel to insert and the right pannel to edit text. <img src="images/text-edit.png">
+     -   After the final clip from your storyboard pane, add a "Credits" **card** and add text to the card.
+     <img src="images/text-edit.png">
 
 13.  Next, let’s reduce the volume of the audio during the credits
      -   Select a video clip from your credits in the storyboard pane by clicking on it. The audio settings will appear on the right hand side pannel.

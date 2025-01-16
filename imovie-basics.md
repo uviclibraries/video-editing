@@ -88,7 +88,7 @@ In this exercise, you will create and edit a movie using iMovie. If you have any
 
 
 <img src="images/imovie-basics-18.png" style="float:right;width:250px" alt="exporting menu"> 
-13. Once you’re happy with your edited video you’ll need to export it in order to upload it to YouTube, or share it via Google Photos or some other sharing service:
+13. Once you’re happy with your edited video if you want to share it with others you’ll need to export it to a video service like YouTube, Google Photos or some other sharing service:
 - Press the **upload button** in the very top right of the iMovie window (#1 to the right).
 - Next, select the “File” icon (#2 to the right).
 - Click on “**My Movie**” & give your movie a descriptive name, and then press the “**Next**” button. Select the folder where you want to put your video and press the “Save” button.

@@ -14,4 +14,4 @@ Please review the following links:
 
 <iframe src="https://drive.google.com/file/d/1womGen8PLkVEFMfL3fgtOa9jtCqq69z4/preview" width="560" height="315" allow="autoplay"></iframe>
 
-[NEXT STEP: MS Video Editor Basics](ve-basics.html){: .btn .btn-blue }
+[NEXT STEP: MS Clipchamp Basics](cc-basics.html){: .btn .btn-blue }

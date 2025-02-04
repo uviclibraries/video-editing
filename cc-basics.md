@@ -34,12 +34,12 @@ Pre-class Activity Preparation:
 5.  Drag your mp4 from the Project Library pane down to the Storyboard pane. Putting the video clip on the timeline enables you to click the **Play** icon or scrub through your video in the top right pane by grabbing the white "cursor" and dragging it back and forth, similar to how one would navigate Youtube videos.
 
     <button onclick="toggle('gif1')">Show / Hide Animation </button>
-<div id="gif1">
-      <img src="images/cc-step5.gif">
-      </div>
+    <div id="gif1">
+    <img src="images/cc-step5.gif">
+    </div>
 
 6.  First, play the 90-second video by pressing the play button below the video. (Note: pressing the spacebar will start and stop the video which is very handy while editing).
-7.   Trim 20 or 30 seconds off the end of the video by selecting the light green **handle** on the far right of the video in the storyboard pane and then dragging it a bit to the left. Make sure the leftmost handle is positioned at the start of the video, and position the rightmost slider at roughly the 1-minute mark.<br>
+7.  Trim 20 or 30 seconds off the end of the video by selecting the light green **handle** on the far right of the video in the storyboard pane and then dragging it a bit to the left. Make sure the leftmost handle is positioned at the start of the video, and position the rightmost slider at roughly the 1-minute mark.<br>
 
     <button onclick="toggle('gif2')">Show / Hide Animation </button>
 <div id="gif2">
@@ -58,8 +58,8 @@ Pre-class Activity Preparation:
      -   To add text, click “**add text**”. Select the text style on the left hand side by dragging and dropping the desired text style onto the free black background, click into the text box, and change the text to something more appropriate like “Raisins”. Feel free to also choose a fun font from the menu on the left. 
      -   Challenge: Change the colour of the card to purple. You can do this by dragging and dropping the “**Stencil title**”
        
-       <button onclick="toggle('gif1')">Show / Hide Animation </button>
-<div id="gif3">
+      <button onclick="toggle('gif3')">Show / Hide Animation </button>
+      <div id="gif3">
       <img src="images/cc-step10.gif">
       </div>
 

@@ -70,10 +70,10 @@ Pre-class Activity Preparation:
      -   Select a fun font for your title from the menu on the right.
      -   The handles on the bottom show where the title will be displayed in your clip. Make sure that the leftmost handle is at the start of the clip and move the rightmost handle to roughly the 5 second location.     
 
-    <button onclick="toggle('gif4')">Show / Hide Animation </button>
-<div id="gif4">
-      <img src="images/cc-step11.gif">
-      </div>
+     <button onclick="toggle('gif4')">Show / Hide Animation </button>
+     <div id="gif4">
+     <img src="images/cc-step11.gif">
+     </div>
 
 12. Now let’s add credits for your video.
      -   After the final clip from your storyboard pane, add a "Credits" **card** and add text to the card.

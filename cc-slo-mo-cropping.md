@@ -19,8 +19,8 @@ In this exercise, you will create and edit a movie in Clipchamp, including using
     -   Click on the **Create a New Video** icon.
     -   Beside the import media button, give your video project a name (“**test bike**” would be just fine).
     -   Click “**OK**”
-
-      <img src="images/ms-videoeditor/cc-basics/create-a-new-video.png" style="float:right;width:280px;border:1px solid black;" alt="Create a New Video button">
+    
+    <img src="images/create-new.png" style="float:right;width:200px" alt="Create a New Video button">
 
 4.  In the “**Project Library**” pane, click the “**+ Import media**” button and select “**Browse files**”
     -   Select “**Downloads**” on the left navigation pane and then select “**bike.mp4**”

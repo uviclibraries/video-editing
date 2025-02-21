@@ -25,7 +25,7 @@ Pre-class Activity Preparation:
     -   When asked, "What sort of videos bring you to Clipchamp?" select, **Education** for now (you can change this later if you'd like).
     -   When asked what level of education you are at, select **College or University**.
     -   Under Create new, click on the **Blank Video** button.
-    <img src="images/create-new.png" style="float:right;width:280px" alt="Create a New Video button">
+    <img src="images/create-new.png" style="float:right;width:200px" alt="Create a New Video button">
 
 4.  Add the goat video to your video project by:
     -   Click on the purple **Import Media** on the top left of the navigation pane and then select “**goats.mp4**” from where ever you saved it (probably in your Desktop or Downloads folder).

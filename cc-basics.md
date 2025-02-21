@@ -86,7 +86,7 @@ Extra: If you wish to add a background image, select “**Stock images**” icon
 <img src="images/audio1.png">      
 
 14. Once you’re happy with your edited video you’ll need to export it in order to upload it to YouTube, or share it via Google Photos or some other sharing service:
-     -  Click “**Export**”
+     -  Click “**Export**”<br>
  <img src="images/export.png">
      -  Select whichever quality you want from the drop-down menu (higher quality results in larger files).
      -  Next, select where the file will be saved and give it a memorable name. 

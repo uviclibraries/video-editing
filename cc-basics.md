@@ -61,7 +61,7 @@ Extra: If you wish to add a background image, select “**Stock images**” icon
     
       <button onclick="toggle('gif3')">Show / Hide Animation </button>
       <div id="gif3">
-      <img src="images/cc-3-new.gif">
+      <img src="images/3-new.gif">
       </div>
 
 11.  Let’s add a title to the video: 

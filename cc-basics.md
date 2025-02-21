@@ -54,14 +54,14 @@ Pre-class Activity Preparation:
 
 10.  **Optional** - Add a card between the two clips:
      -   Select the clip that we want to have a title card before (in this case, the second clip), and drag it approximately 10 seconds to the right.
-     -   By moving the clip to the right it will create a black background between clips/ 
+     -   To add a black background, click **graphics** and select black. If you want a different color you can select **other color** 
      -   To add text, click “**add text**”. Select the text style on the left hand side by dragging and dropping the desired text style onto the free black background, click into the text box, and change the text to something more appropriate like “Raisins”. Feel free to also choose a fun font from the menu on the left. 
 
 Extra: If you wish to add a background image, select “**Stock images**” icon on the left navigation bar, and then search and select the **drape" background, and drop it in the gap between the two video clips.<br>
     
       <button onclick="toggle('gif3')">Show / Hide Animation </button>
       <div id="gif3">
-      <img src="images/3-new.gif">
+      <img src="images/new-graphics.gif">
       </div>
 
 11.  Let’s add a title to the video: 

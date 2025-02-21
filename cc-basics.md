@@ -46,7 +46,7 @@ Pre-class Activity Preparation:
       <img src="images/cc-step2.gif">
       </div>
 
-8.  Next, let’s split the video at approximately the 15-second mark from the beginning. To do this, select the video in the storyboard pane roughly the 15-second location and click and then select the “**Split**” button. Now you have two clips!
+8.  Next, let’s split the video at approximately the 15-second mark from the beginning. To do this, select the video in the storyboard pane roughly the 15-second location and click and then select the “**Split**” button. Now you have two clips!<br>
     <img src="images/ms-videoeditor/cc-basics/split.png" style="width:720px;" alt="split clip">
 
 9.  The trimmed and split video should now look like the photo below.

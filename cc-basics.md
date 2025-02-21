@@ -59,8 +59,8 @@ Pre-class Activity Preparation:
 
 Extra: If you wish to add a background image, select “**Stock images**” icon on the left navigation bar, and then search and select the **drape" background, and drop it in the gap between the two video clips.<br>
     
-      <button onclick="toggle('gif5')">Show / Hide Animation </button>
-      <div id="gif5">
+    <button onclick="toggle('gif3')">Show / Hide Animation </button>
+<div id="gif3">
       <img src="images/new-graphics.gif">
       </div>
 

@@ -14,13 +14,11 @@ In this exercise, you will create and edit a movie in Clipchamp, including using
 1.  Let’s start by downloading the Mountain biking video and save it to your computer: [https://bit.ly/3vrLJj0](https://bit.ly/3vrLJj0){:target="_blank"}. If the video starts playing you will have to right mouse click on the video & select “**Save Video As...**” and save it to the **Desktop** folder on your computer
 
 2.  Open Microsoft Video Editor if you have not already done. 
-
+    <img src="images/create-new.png" style="float:right;width:200px" alt="Create a New Video button">
 3.  Open Cipchamp if you have not already done so.
     -   Click on the **Create a New Video** icon.
     -   Beside the import media button, give your video project a name (“**test bike**” would be just fine).
     -   Click “**OK**”
-    
-    <img src="images/create-new.png" style="float:right;width:200px" alt="Create a New Video button">
 
 4.  In the “**Project Library**” pane, click the “**+ Import media**” button and select “**Browse files**”
     -   Select “**Downloads**” on the left navigation pane and then select “**bike.mp4**”

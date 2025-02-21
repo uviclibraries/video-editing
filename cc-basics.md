@@ -24,7 +24,7 @@ Pre-class Activity Preparation:
     -   Sign in with your Microsoft credentials (if you have a Microsoft account) -OR- with a Google account -OR- You can use your email address to login.
     -   When asked, "What sort of videos bring you to Clipchamp?" select, **Education** for now (you can change this later if you'd like).
     -   When asked what level of education you are at, select **College or University**.
-    -   Click on the **Create a New Video** button.
+    -   Under Create new, click on the **Blank Video** button.
     <img src="images/ms-videoeditor/cc-basics/create-new.png" style="float:right;width:280px;border:1px solid black;" alt="Create a New Video button">
 
 4.  Add the goat video to your video project by:

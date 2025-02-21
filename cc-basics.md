@@ -77,7 +77,7 @@ Extra: If you wish to add a background image, select “**Stock images**” icon
      </div>
 
 12. Now let’s add credits for your video.
-     -   After the final clip from your storyboard pane, add a "Credits" **card** and add text to the card.
+     -   After the final clip from your storyboard pane, add another black background by going to **graphics** and selecting **black** and then add text to the card by selecting **text**.
      <img src="images/text-edit.png">
 
 13.  Next, let’s reduce the volume of the audio during the credits

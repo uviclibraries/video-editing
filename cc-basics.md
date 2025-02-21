@@ -87,11 +87,11 @@ Extra: If you wish to add a background image, select “**Stock images**” icon
 
 14. Once you’re happy with your edited video you’ll need to export it in order to upload it to YouTube, or share it via Google Photos or some other sharing service:
      -  Click “**Export**”<br>
- <img src="images/export.png">
+ <img src="images/export-new.png">
      -  Select whichever quality you want from the drop-down menu (higher quality results in larger files).
      -  Next, select where the file will be saved and give it a memorable name. 
 
-<img src="images/export-new.png" style="width:400px;" alt="finish project">
+<img src="images/save.png" style="width:400px;" alt="finish project">
 
 15. Congratulations, you’ve created and edited a video in Microsoft Clipchamp!
 

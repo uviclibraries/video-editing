@@ -60,5 +60,5 @@ In this exercise, you will add, remove, and have persistent audio in Clipchamp. 
     }
 </script>
 
-[Bonus Activity: Screen Recording](screen-recording.html){: .btn .btn-blue }<br>
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+<!-- [Bonus Activity: Screen Recording](cc-green-screen.html){: .btn .btn-blue }<br> -->
+[NEXT STEP: Green Screen](cc-green-screen.html){: .btn .btn-blue }

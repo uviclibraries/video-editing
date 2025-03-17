@@ -72,6 +72,6 @@ In this exercise, you will create and edit a movie in Clipchamp, including using
     }
 </script>
 
-[NEXT STEP: Screen Recording](screen-recording.html){: .btn .btn-blue }<br>
+[Bonus Activity: Screen Recording](screen-recording.html){: .btn .btn-blue }<br>
 -OR-<br>
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }

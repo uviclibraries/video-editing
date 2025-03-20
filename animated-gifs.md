@@ -20,7 +20,7 @@ Animated Gifs are short videos that loop continuously.
 7. Export file and name it goats
 9. Now we will open Keynote and select a theme
 10. Select **basic white** and make sure at the top right it says **wide (16:9)** (see photo)<br>
-<img src="images/16-9.png" style="width:400px;" alt="keynote templates"><br>
+<img src="images/16-9.png" style="width:500px;" alt="keynote templates"><br>
 11. We will add media by selecting the **media** button and click **choose** (not photos and videos so that you can go and find your exported file of the goats from IMovie).
 12. Once you find the goats.mp4 video click **insert**
 13. In the top menu bar, click file and then **export to animated gif** 

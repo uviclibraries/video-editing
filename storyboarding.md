@@ -107,4 +107,4 @@ Some useful links to help you:
     }
 </script>
 
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
+[NEXT STEP: Create an Animated Gif](animated-gif.html){: .btn .btn-blue }

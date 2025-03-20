@@ -107,4 +107,4 @@ Some useful links to help you:
     }
 </script>
 
-[NEXT STEP: Create an Animated Gif](animated-gif.html){: .btn .btn-blue }
+[NEXT STEP: Create an Animated Gif](animated-gifs.html){: .btn .btn-blue }

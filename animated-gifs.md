@@ -1,15 +1,17 @@
+---
+layout: default
+title: 4-Animated Gifs
+nav_order: 4
+parent: Bonus Activities
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
+---
 
 # Animated Gifs with IMovie
-
-### Learning outcomes:
-- Participants will be able to know and do the following by the end of this workshop:
-- Participants will be able to identify key elements that support multimedia principles of learning
-- Participants will be able to identify key tools that will help create clear concise GIFs
-- Participants will be able to understand the importance of time and how to start and end GIFs
-- Participants will be able to download and transpose the GIFs into files such as Google Docs and Webpages.
-- By the end of the workshop participants will be able to add new annotations, transitions, behaviours, animations, cursor effects. By the end of the workshop participants will be able to screen record and create a GIF that supports learning 
+Animated Gifs are short videos that loop continuously.
 
 ## Introduction to Animated Gifs with IMovie and Keynote
+1. Download the following video or make a screen recording using press (Shift + Command + 5) for MAC and (key+Alt+R) for Windows. Note there are also many other screen recording tools such as Camtasia, ScreenCastify etc
+2. 
 
 <script>  
 

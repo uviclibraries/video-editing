@@ -25,6 +25,9 @@ Animated Gifs are short videos that loop continuously.
 12. Once you find the goats.mp4 video click **insert**
 13. In the top menu bar, click file and then **export to animated gif** 
 
+Additonal Resources.
+[Making an animated Gif with a Green Screen Background](https://blogs.glowscotland.org.uk/fa/digilearnfalk/2023/05/19/make-your-own-animated-gif/){:target="_blank"}
+
 <script>  
 
     function toggle(input) {

@@ -9,7 +9,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 # Basics
 In this exercise, you will create and edit a movie using iMovie. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
-1. If you don’t have a video that you want to edit, let’s start by downloading [this video](images/rocket.mp4){:target="_blank"}, and saving it to your desktop. It may take 1 or 2 minutes to download. **Note**: If the video starts playing you will have to right mouse click on the video and select “**Save Video As**…” to save it to your computer’s desktop.
+1. If you don’t have a video that you want to edit, let’s start by downloading [this video](images/rocket2.mp4){:target="_blank"}, and saving it to your desktop. It may take 1 or 2 minutes to download. **Note**: If the video starts playing you will have to right mouse click on the video and select “**Save Video As**…” to save it to your computer’s desktop.
 <img src="images/imovie-basics-02.png" style="float:right;width:250px" alt="labels of project, create new and movie tabs"> 
 2. Open iMovie by clicking on the **iMovie icon** (see the purple icon on the right for what it should look like).
 - Make sure that the “**Projects**” tab on the top of the program is selected (labelled #1)

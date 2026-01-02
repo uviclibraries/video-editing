@@ -7,6 +7,7 @@ nav_order: 10
 ## Helpful Links
 
 - [Pexels Creative Commons licensed video clip library](https://www.pexels.com/videos/){:target="_blank"}
+- [Make your video look more professional by using these 10 different editing cuts](https://youtu.be/YtULPT1aBWM?si=X8KfgpTzvSKHXFAz){:target="_blank"}
 
 ## Tutorials for Working with Apple Log Footage (iPhone 15 Pro/Pro Max)
 

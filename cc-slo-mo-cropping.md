@@ -53,7 +53,7 @@ In this exercise, you will create and edit a movie in Clipchamp, including using
     -   Adjust the view of the video by moving the corners in. <br>
   <img src="images/crop.png" style="width:300px;" alt="Crop">
 
-8.  Congratulations, you're done! Feel free to add a title & credits to your video if you want. Your video should look something like this: [https://goo.gl/gkqx8b](https://goo.gl/gkqx8b){:target="_blank"}
+8.  Congratulations, you're done! Feel free to add a title & credits to your video if you want. [Your video should look something like this](https://www.youtube.com/watch?v=YE3F7FDTaRY){:target="_blank"}.
 
 <script>  
 

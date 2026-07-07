@@ -9,7 +9,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 # Cropping and Slo-mo
 In this exercise, you will create and edit a movie in iMovie, including using splitting and duplicating a video clip, making a slow-motion video clip, cropping a video clip, and importing audio to overlay your clip. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
-1. Let’s start by downloading the [Mountain biking video](https://bit.ly/3vrLJj0){:target="_blank"} and save it to your desktop.<br>
+1. Let’s start by downloading the [Mountain biking video](images/mountain-bike-jump.mov){:target="_blank"} and save it to your desktop.<br>
 **Note**: If the video starts playing in your browser you will have to right mouse click on the video and select “**Save Video As**…” & save to your Desktop.
 
 2. <img src="images/imovie-slow-02.png" style="float:right;width:250px" alt="labels of projects, create new and movie tabs"> Open iMovie by clicking the purple star-shaped icon. 

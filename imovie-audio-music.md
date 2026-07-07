@@ -9,7 +9,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 # Detaching Audio and Adding Music
 In this exercise, you will add, remove, and have persistent audio in an iMovie project. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
-1. If you don’t have a video that you want to edit, let’s start by downloading the following [Fainting Miniature Goat video](https://bit.ly/dsc-goat-video){:target="_blank"}, and saving it to your desktop. It may take 2 or 3 minutes to download.<br>
+1. If you don’t have a video that you want to edit, let’s start by downloading the following [Fainting Miniature Goat video](https://uviclibraries.github.io/video-editing/images/goat-girl-sm2.mp4){:target="_blank"}, and saving it to your desktop. It may take 2 or 3 minutes to download.<br>
 **Note:** If the video starts playing you will have to right mouse click on the video and select “**Save Video As**…” to save it to your computer’s desktop.
 
 2. <img src="images/imovie-audio-02.png" style="float:right;width:250px" alt="labels of projects, create new and movie tabs">Open iMovie by clicking on the iMovie icon (see the purple icon on the right for what it should look like).

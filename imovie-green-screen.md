@@ -12,7 +12,7 @@ In this exercise, you will create and edit a movie in iMovie, including using gr
 1. If you don’t have a green screen video that you want to edit, let’s start by downloading the audio and video files below and save them to your desktop: 
 - [Green screen chickens](images/green-screen-chickens.mp4){:target="_blank"}
 - [Background tropical fish](images/coral-reef.mp4){:target="_blank"}
-- Audio - [ocean waves mp3](#){:target="_blank"}<br>
+- Audio - [ocean waves mp3](images/ocean-waves.mp3){:target="_blank"}<br>
 **Note:** If the video starts playing in your browser you will have to right mouse click on the video and select “**Save Video As**…” & save to your Desktop.
 
 2. <img src="images/imovie-green-02.png" style="float:right;width:250px" alt="labels of projects, create new and movie tabs"> Open iMovie by clicking on the purple iMovie icon.

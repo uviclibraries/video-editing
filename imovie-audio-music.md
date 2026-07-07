@@ -76,11 +76,10 @@ Now select “**Movie**” (labelled #3).
 12. Congratulations, you’ve created a persistent audio project in iMovie! If you want to post your video to YouTube, just upload the file to your YouTube account.
 
 13. **Bonus Content**: Find music that fits your tone and sound effects that enhance your sense of location. There are many Creative Commons or royalty-free music websites that aggregate and distribute music that is shared with no or low copyright limitations including:
-- [Free Sound](http://bit.ly/33deeCq){:target="_blank"} - A collaborative database of CC-licensed sound. Freesound focusses on sound and sound effects, not music
-- [Archive.org](http://bit.ly/2DeGY2M){:target="_blank"}- Non-profit digital library with collections of digitized free movies, music, images, websites and more  
-- [Free Music Archive](http://bit.ly/2OgSUsS){:target="_blank"} - CC-licensed music grouped by genre 
-- [ccMixter](http://bit.ly/34hdOMq){:target="_blank"} - CC-licensed music for film, video and games 
-- [CCTrax](http://bit.ly/2DbPjV8){:target="_blank"} - CC-licensed music grouped by genre
+- [Free Sound](https://freesound.org/search/?s=Date+added+(newest+first)&g=1){:target="_blank"} - A collaborative database of CC-licensed sound. Freesound focusses on sound and sound effects, not music
+- [Archive.org](https://archive.org/details/opensource_audio){:target="_blank"}- Non-profit digital library with collections of digitized free movies, music, images, websites and more  
+- [Free Music Archive](https://freemusicarchive.org/curator/Creative_Commons/){:target="_blank"} - CC-licensed music grouped by genre 
+- [ccMixter](https://ccmixter.org/find-music){:target="_blank"} - CC-licensed music for film, video and games 
 
 <script>  
 

@@ -37,11 +37,10 @@ In this exercise, you will add, remove, and have persistent audio in Clipchamp. 
       <img src="images/cc-audio7.gif">
       </div>
 8.  OPTIONAL: Find a music clip from one of the websites below that fits your tone and sound effects that enhance your sense of location, and **save** the **mp3** music or sound effect to your hard drive (so that you can import it into your video project). There are many Creative Commons or royalty-free music websites that aggregate and distribute music that is shared with no or low copyright limitations including:
-    -   Free Sound - A collaborative database of CC-licensed sound. Freesound focusses on sound and sound effects, not music - [http://bit.ly/33deeCq ](http://bit.ly/33deeCq ){:target="_blank"}
-    -   Archive.org - Non-profit digital library with collections of digitized free movies, music, images, websites and more - [http://bit.ly/2DeGY2M  ](http://bit.ly/2DeGY2M  ){:target="_blank"}
-    -   Free Music Archive - CC-licensed music grouped by genre - [http://bit.ly/2OgSUsS ](http://bit.ly/2OgSUsS ){:target="_blank"}
-    -   ccMixter - CC-licensed music for film, video and games - [http://bit.ly/34hdOMq ](http://bit.ly/34hdOMq ){:target="_blank"}
-    -   CCTrax - CC-licensed music grouped by genre - [http://bit.ly/2DbPjV8](http://bit.ly/2DbPjV8){:target="_blank"}
+- [Free Sound](https://freesound.org/search/?s=Date+added+(newest+first)&g=1){:target="_blank"} - A collaborative database of CC-licensed sound. Freesound focusses on sound and sound effects, not music
+- [Archive.org](https://archive.org/details/opensource_audio){:target="_blank"}- Non-profit digital library with collections of digitized free movies, music, images, websites and more  
+- [Free Music Archive](https://freemusicarchive.org/curator/Creative_Commons/){:target="_blank"} - CC-licensed music grouped by genre 
+- [ccMixter](https://ccmixter.org/find-music){:target="_blank"} - CC-licensed music for film, video and games 
 
 9.  Once you’re happy with your edited video you’ll need to export it in order to upload it to YouTube, or share it via Google Photos or some other sharing service:
  <img src="images/export-new.png" style="width:300px;">

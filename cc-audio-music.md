@@ -11,7 +11,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 # Adding Audio and Free Music
 In this exercise, you will add, remove, and have persistent audio in Clipchamp. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
-1.  If you don’t have a video that you want to edit, let’s start by downloading the following video, and saving it to your desktop: [http://bit.ly/dsc-goat-video](http://bit.ly/dsc-goat-video){:target="_blank"} It may take 1 or 2 minutes to download.
+1. If you don’t have a video that you want to edit, let’s start by downloading [this video](images/goat-girl-sm2.mp4){:target="_blank"}, and saving it to your desktop. It may take 1 or 2 minutes to download. **Note**: If the video starts playing you will have to right mouse click on the video and select “**Save Video As**…” to save it to your computer’s desktop.
 2.  If the video starts playing you will have to right mouse click on the video & select “**Save Video As...**” and save it to the **Desktop** folder on your computer.
 
     <img src="images/create-new.png" style="float:right;width:200px" alt="Create a New Video button">

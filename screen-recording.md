@@ -15,7 +15,9 @@ Let’s create a short little screencast with Google Vids. You will need a Googl
 - After signing in, a pop-up with different options will appear. Click the option that says **Record**
 - <img src="images/screencastify-03.png" style="float:right;width:200px" alt="Google sign in picture"> 
 - Allow Google Vids access to your microphone and screen if prompted
-- Good job! You are now ready to record your first screencas
+- Good job! You are now ready to record your first screencast
+
+  <div style="clear: both;"></div>
 
 2. Record a screencast: 
 - At the top of the screen, click **Screen** to start the screen recording proces
@@ -24,6 +26,8 @@ Let’s create a short little screencast with Google Vids. You will need a Googl
 - Google Vids will count down from three seconds before it starts recording
 - <img src="images/googlevids-02.png" style="float:right;width:200px" alt="stop button">  
 - Do your demonstration, talking through what you are doing, and then press the red pause button at the bottom of the screen when you are done
+
+  <div style="clear: both;"></div>
 
 3. Download your video to a file on your hard drive: 
 - Click **File** in the top left corner <img src="images/screencastify-06b.png" style="float:right;width:200px" alt="export button">

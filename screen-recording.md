@@ -12,12 +12,12 @@ Let’s create a short little screencast with Google Vids. You will need a Googl
 - Open Google Chrome or Microsoft Edge
 - Navigate to Google Vids by clicking [this link](https://vids.new){:target="_blank"} 
 - You will be prompted to sign in to your Google account   
-- <img src="images/screencastify-02.png" style="float:right;width:200px" alt="Add to Chrome button"> After signing in, a pop-up with different options will appear. Click the option that says **Record**
-- Allow Google Vids access to your microphone and screen if prompted
+- After signing in, a pop-up with different options will appear. Click the option that says **Record**
 - <img src="images/screencastify-03.png" style="float:right;width:200px" alt="Google sign in picture"> 
+- Allow Google Vids access to your microphone and screen if prompted
 - Good job! You are now ready to record your first screencas
 
-2. Record a screencast: <img src="images/screencastify-04.png" style="float:right;width:250px" alt="Recording menu"> 
+2. Record a screencast: 
 - At the top of the screen, click **Screen** to start the screen recording proces
 - You will be prompted to choose what to share, such as a single browser tab, a window, or your entire screen
 - Select what you would like to record and click the blue **Share** button
@@ -25,7 +25,7 @@ Let’s create a short little screencast with Google Vids. You will need a Googl
 - <img src="images/googlevids-02.png" style="float:right;width:200px" alt="stop button">  
 - Do your demonstration, talking through what you are doing, and then press the red pause button at the bottom of the screen when you are done
 
-3. Download your video to a file on your hard drive: <img src="images/screencastify-06.png" style="float:right;width:250px" alt="export mp4 and download button"> 
+3. Download your video to a file on your hard drive: 
 - Click **File** in the top left corner <img src="images/screencastify-06b.png" style="float:right;width:200px" alt="export button">
 - Hover over the **Download** button and click **MP4 video**
 

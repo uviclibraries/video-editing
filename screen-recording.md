@@ -22,13 +22,18 @@ Let’s create a short little screencast with Google Vids. You will need a Googl
 - You will be prompted to choose what to share, such as a single browser tab, a window, or your entire screen
 - Select what you would like to record and click the blue **Share** button
 - Google Vids will count down from three seconds before it starts recording
-- <img src="images/googlevids-02.png" style="float:right;width:200px" alt="">  
+- <img src="images/" style="float:right;width:200px" alt="">  
 - Do your demonstration, talking through what you are doing, and then press the red pause button at the bottom of the screen when you are done
+
+    <button onclick="toggle('gif1')">Show/Hide Animation</button>
+    <div id="gif1">
+    <img src="images/googlevids-03.gif" style="width:700px;">
+    </div>
 
 3. Download your video to a file on your hard drive: 
 - Click **File** in the top left corner 
 - Hover over the **Download** button and click **MP4 video**
-- <img src="images/" style="float:right;width:200px" alt="">
+- <img src="images/googlevids-04" style="float:right;width:200px" alt="download mp4">
 
 4. At this point, if you can either edit your video - see the video editing workshop materials if you’d like to learn how to edit your screencast video. Or if you are happy with your video as it is, you can upload your MP4 video file to YouTube or to your OpenEd.ca WordPress website (the same way you would upload an image to your OpenEd Website). Here are instructions on how to upload your video to YouTube:
 - In another browser tab, open up [YouTube.com](https://www.youtube.com/){:target="_blank"}

@@ -11,8 +11,8 @@ In this exercise, you will create and edit a movie using iMovie. If you have any
 
 Step 1 
 {: .label .label-step}
-If you don’t have a video that you want to edit, let’s start by downloading [this video](images/goat-girl-sm2.mp4){:target="_blank"}, and saving it to your desktop. It may take 1 or 2 minutes to download. **Note**: If the video starts playing you will have to right mouse click on the video and select “**Save Video As**…” to save it to your computer’s desktop.
-<img src="images/imovie-basics-02.png" style="float:right;width:250px" alt="labels of project, create new and movie tabs"> 
+<img src="images/imovie-basics-02.png" style="float:right;width:250px" alt="labels of project, create new and movie tabs">
+If you don’t have a video that you want to edit, let’s start by downloading [this video](images/goat-girl-sm2.mp4){:target="_blank"}, and saving it to your desktop. It may take 1 or 2 minutes to download. **Note**: If the video starts playing you will have to right mouse click on the video and select “**Save Video As**…” to save it to your computer’s desktop. 
 {: .step}
 
 Step 2 
@@ -40,7 +40,7 @@ Next click on the “**Import Media**” button in the middle of the iMovie scre
 
 Step 4 
 {: .label .label-step}
-<img src="images/imovie-basics-06.png" style="float:right;width:250px" alt="video timeline"> Drag the video clip you just imported into the timeline at the bottom of the iMovie screen. 
+<img src="images/imovie-basics-06.png" style="float:right;width:250px" alt="video timeline">Drag the video clip you just imported into the timeline at the bottom of the iMovie screen. 
 <button onclick="toggle('gif3')">Show / Hide Animation </button>
 <div id="gif3">
       <img src="images/imovie-basics-07.gif">
@@ -49,8 +49,7 @@ Step 4
 
 Step 5 
 {: .label .label-step}
-First, play the 90-second video by pressing the play button below the video. (Note: pressing the spacebar will start and stop the video which is very handy while editing)
-<img src="images/imovie-basics-09.png" style="float:right;width:250px" alt="mouse pointer"> 
+<img src="images/imovie-basics-09.png" style="float:right;width:250px" alt="mouse pointer"> First, play the 90-second video by pressing the play button below the video. (Note: pressing the spacebar will start and stop the video which is very handy while editing)
 {: .step}
 
 Step 6 

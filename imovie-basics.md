@@ -13,6 +13,7 @@ Step 1
 {: .label .label-step}
 If you don’t have a video that you want to edit, let’s start by downloading [this video](images/goat-girl-sm2.mp4){:target="_blank"}, and saving it to your desktop. It may take 1 or 2 minutes to download. **Note**: If the video starts playing you will have to right mouse click on the video and select “**Save Video As**…” to save it to your computer’s desktop.
 <img src="images/imovie-basics-02.png" style="float:right;width:250px" alt="labels of project, create new and movie tabs"> 
+{: .step}
 
 Step 2 
 {: .label .label-step}
@@ -24,6 +25,7 @@ Open iMovie by clicking on the **iMovie icon** (see the purple icon on the right
       <div id="gif1">
             <img src="images/imovie-basics-03.gif">
       </div>
+{: .step}
 
 Step 3 
 {: .label .label-step}
@@ -34,6 +36,7 @@ Next click on the “**Import Media**” button in the middle of the iMovie scre
       <div id="gif2">
             <img src="images/imovie-basics-05.gif">
       </div>
+{: .step}
 
 Step 4 
 {: .label .label-step}
@@ -42,11 +45,13 @@ Step 4
 <div id="gif3">
       <img src="images/imovie-basics-07.gif">
       </div>
+{: .step}
 
 Step 5 
 {: .label .label-step}
 First, play the 90-second video by pressing the play button below the video. (Note: pressing the spacebar will start and stop the video which is very handy while editing)
 <img src="images/imovie-basics-09.png" style="float:right;width:250px" alt="mouse pointer"> 
+{: .step}
 
 Step 6 
 {: .label .label-step}
@@ -55,6 +60,7 @@ Trim 20 or 30 seconds off the end of the video by selecting the video in the tim
 <div id="gif4">
       <img src="images/imovie-basics-08.gif">
 </div>
+{: .step}
 
 Step 7 
 {: .label .label-step}
@@ -62,12 +68,14 @@ Step 7
 <button onclick="toggle('gif5')">Show / Hide Animation </button>
 <div id="gif5">
       <img src="images/imovie-basics-11.gif">
-      </div>
+</div>
+{: .step}
 
 Step 8 
 {: .label .label-step}
 The trimmed and split video should now look like the photo below and to the right.
 ![Image of video clip split](images/imovie-basics-12.png)
+{: .step}
 
 Step 9 
 {: .label .label-step}
@@ -77,7 +85,8 @@ Now let’s drag and drop a transition between the split videos.
 <button onclick="toggle('gif6')">Show / Hide Animation </button>
 <div id="gif6">
       <img src="images/imovie-basics-13.gif">
-      </div>
+</div>
+{: .step}
 
 Step 10 
 {: .label .label-step}
@@ -86,11 +95,13 @@ Step 10
 <button onclick="toggle('gif7')">Show / Hide Animation </button>
 <div id="gif7">
       <img src="images/imovie-basics-15.gif">
-      </div>
+</div>
+{: .step}
 
 Step 11
 {: .label .label-step}
 Now add credits for your video by dragging and dropping a credit style “**title**” from under the “**Titles**” tab to the end of the video. Edit this same way you edited the title in step #10.
+{: .step}
 
 Step 12
 {: .label .label-step}
@@ -100,8 +111,9 @@ Step 12
 <button onclick="toggle('gif8')">Show / Hide Animation </button>
 <div id="gif8">
       <img src="images/imovie-basics-17.gif">
-      </div>
+</div>
 <img src="images/imovie-basics-18.png" style="float:right;width:250px" alt="exporting menu"> 
+{: .step}
 
 Step 13 
 {: .label .label-step}
@@ -110,10 +122,12 @@ Once you’re happy with your edited video if you want to share it with others y
 - Next, select the “File” icon (#2 to the right).
 - Click on “**My Movie**” & give your movie a descriptive name, and then press the “**Next**” button. Select the folder where you want to put your video and press the “Save” button.
 - It will take a few minutes for iMovie to export your video.
+{: .step}
 
 Step 14
 {: .label .label-step}
 Congratulations, you’ve created and edited a video in iMovie! If you want to post your video to YouTube, just upload the file to your YouTube account.
+{: .step}
 
 <script>  
 

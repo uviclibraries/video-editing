@@ -15,18 +15,13 @@ In this exercise, you will create and edit a movie using iMovie. If you have any
 - Make sure that the “**Projects**” tab on the top of the program is selected (labelled #1)
 - Then click on the large “+” sign with “**Create New**” underneath (labelled #2).
 - Now select “**Movie**” (labelled #3).
-<button onclick="toggle('gif1')">Show / Hide Animation </button>
-<div id="gif1">
-      <img src="images/imovie-basics-03.gif">
-      </div>
+      <button onclick="toggle('gif1')">Show / Hide Animation </button>
+      <div id="gif1"><img src="images/imovie-basics-03.gif"></div>
 3. Next click on the “**Import Media**” button in the middle of the iMovie screen. <img src="images/imovie-basics-04.png" style="float:right;width:100px;height:100px;" alt="Import media icon"> 
 - Click on the “**Desktop**” on the left navigation pane and then select “**goats.mp4**” 
 - Finally, click on the blue “**Import Selected**” or “**Import All**” button on the bottom right of the dialog box.
-
-<button onclick="toggle('gif2')">Show / Hide Animation </button>
-<div id="gif2">
-      <img src="images/imovie-basics-05.gif">
-      </div>
+      <button onclick="toggle('gif2')">Show / Hide Animation </button>
+      <div id="gif2"><img src="images/imovie-basics-05.gif"></div>
 4. <img src="images/imovie-basics-06.png" style="float:right;width:250px" alt="video timeline"> Drag the video clip you just imported into the timeline at the bottom of the iMovie screen. 
 <button onclick="toggle('gif3')">Show / Hide Animation </button>
 <div id="gif3">
@@ -36,9 +31,7 @@ In this exercise, you will create and edit a movie using iMovie. If you have any
 <img src="images/imovie-basics-09.png" style="float:right;width:250px" alt="mouse pointer"> 
 6. Trim 20 or 30 seconds off the end of the video by selecting the video in the timeline and then moving the mouse pointer over the end of the video clip and then drag the handle to the left. The same can be done with the beginning of the video if you’d like.
 <button onclick="toggle('gif4')">Show / Hide Animation </button>
-<div id="gif4">
-      <img src="images/imovie-basics-08.gif">
-      </div>
+<div id="gif4"><img src="images/imovie-basics-08.gif"></div>
 7. <img src="images/imovie-basics-10.png" style="float:right;width:250px" alt="split clip button and menu"> Next, let’s split the video at approximately the 15-second mark from the beginning. To do this, select the video in the timeline, then right mouse click at about the 15-second mark, and finally select “**Split Clip**”
 <button onclick="toggle('gif5')">Show / Hide Animation </button>
 <div id="gif5">

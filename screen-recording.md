@@ -30,9 +30,9 @@ Let’s create a short little screencast with Google Vids. You will need a Googl
     <img src="images/googlevids-03.gif" style="width:700px;">
     </div>
 
-3. Download your video to a file on your hard drive: 
+3. Download your video to a file on your hard drive: <img src="images/googlevids-04.png" style="float:right;width:300px" alt="download mp4">
 - Click **File** in the top left corner 
-- Hover over the **Download** button and click **MP4 video** <img src="images/googlevids-04.png" style="float:right;width:300px" alt="download mp4">
+- Hover over the **Download** button and click **MP4 video** 
 
 4. At this point, if you can either edit your video - see the video editing workshop materials if you’d like to learn how to edit your screencast video. Or if you are happy with your video as it is, you can upload your MP4 video file to YouTube or to your OpenEd.ca WordPress website (the same way you would upload an image to your OpenEd Website). Here are instructions on how to upload your video to YouTube:
 - In another browser tab, open up [YouTube.com](https://www.youtube.com/){:target="_blank"}

@@ -23,7 +23,10 @@ Participants will be able to do the following by the end of this workshop:
 5. Create Title and Credits
 6. Mute or adjust audio volume in video clips
 7. Video Export and publishing options<br><br>
-**Advanced learning outcomes for participants who want to do more:**<br>
+
+## Advanced learning objectives
+For participants who want to learn more:
+
 8. Import audio
 9. Make a slow-motion video clip
 10. Crop a video clip

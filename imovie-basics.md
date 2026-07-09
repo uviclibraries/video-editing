@@ -9,11 +9,13 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 # Basics
 In this exercise, you will create and edit a movie using iMovie. If you have any questions or get stuck as you work through this, please ask your instructor for assistance.  Have fun!
 
-Step 1 {: .label .label-step}
+Step 1 
+{: .label .label-step}
 If you don’t have a video that you want to edit, let’s start by downloading [this video](images/goat-girl-sm2.mp4){:target="_blank"}, and saving it to your desktop. It may take 1 or 2 minutes to download. **Note**: If the video starts playing you will have to right mouse click on the video and select “**Save Video As**…” to save it to your computer’s desktop.
 <img src="images/imovie-basics-02.png" style="float:right;width:250px" alt="labels of project, create new and movie tabs"> 
 
-Step 2 {: .label .label-step}
+Step 2 
+{: .label .label-step}
 Open iMovie by clicking on the **iMovie icon** (see the purple icon on the right for what it should look like).
 - Make sure that the “**Projects**” tab on the top of the program is selected (labelled #1)
 - Then click on the large “+” sign with “**Create New**” underneath (labelled #2).
@@ -22,7 +24,10 @@ Open iMovie by clicking on the **iMovie icon** (see the purple icon on the right
       <div id="gif1">
             <img src="images/imovie-basics-03.gif">
       </div>
-3. Next click on the “**Import Media**” button in the middle of the iMovie screen. <img src="images/imovie-basics-04.png" style="float:right;width:100px;height:100px;" alt="Import media icon"> 
+
+Step 3 
+{: .label .label-step}
+Next click on the “**Import Media**” button in the middle of the iMovie screen. <img src="images/imovie-basics-04.png" style="float:right;width:100px;height:100px;" alt="Import media icon"> 
 - Click on the “**Desktop**” on the left navigation pane and then select “**goats.mp4**” 
 - Finally, click on the blue “**Import Selected**” or “**Import All**” button on the bottom right of the dialog box.
       <button onclick="toggle('gif2')">Show / Hide Animation </button>

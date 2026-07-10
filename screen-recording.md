@@ -23,7 +23,7 @@ Let’s create a short little screen recording with Google Vids. You will need a
 - You will be prompted to choose what to share, such as a single browser tab, a window, or your entire screen
 - Select the tab or window you chose to demonstrate and click the blue **Share** button
 - Google Vids will count down from three seconds before it starts recording
-- If you need to pause your recording, click the red pause button in the small recording window. When you are ready to continue, click the same button again to resume your recording <img src="images/" style="float:right;width:200px" alt="">  
+- If you need to pause your recording, click the red pause button in the small recording window. When you are ready to continue, click the same button again to resume your recording <img src="images/googlevids-02.png" style="float:right;width:200px" alt="pause button">  
 - When you are finished with your demonstration, click the pause button again to stop recording, then switch back to your Google Vids tab
 - You can preview your video to make sure everything was captured correctly, or click **Insert** to add the recording to your project timeline and begin editing
 
@@ -33,14 +33,16 @@ Let’s create a short little screen recording with Google Vids. You will need a
     <img src="images/googlevids-03.gif" style="width:700px;">
     </div> 
 
-3. Download your video to a file on your hard drive: <img src="images/googlevids-04.png" style="float:right;width:300px" alt="download mp4">
+3. Edit your recording:
+
+4. Download your video to a file on your hard drive: <img src="images/googlevids-04.png" style="float:right;width:300px" alt="download mp4">
 - Review your recording to make sure you are happy with the final result
 - Click **File** in the top-left corner of the Google Vids window
 - Hover over **Download** and select **MP4 video**
 - Depending on the length of your recording, it may take a few moments for Google Vids to generate and download the MP4 file
 - You can also export the video straight to YouTube and Google Drive
 
-4. At this point, if you can either edit your video - see the video editing workshop materials if you’d like to learn how to edit your screencast video. Or if you are happy with your video as it is, you can upload your MP4 video file to YouTube or to your OpenEd.ca WordPress website (the same way you would upload an image to your OpenEd Website). Here are instructions on how to upload your video to YouTube:
+5. At this point, if you can either edit your video - see the video editing workshop materials if you’d like to learn how to edit your screencast video. Or if you are happy with your video as it is, you can upload your MP4 video file to YouTube or to your OpenEd.ca WordPress website (the same way you would upload an image to your OpenEd Website). Here are instructions on how to upload your video to YouTube:
 - In another browser tab, open up [YouTube.com](https://www.youtube.com/){:target="_blank"}
 - <img src="images/screencastify-07.png" style="float:right;width:250px" alt="upload button">  Click on the upload button on the top right of the YouTube window (see screenshot to the right), and then click on Upload video
 - Next click on the Select files to upload button in the middle of the screen. 

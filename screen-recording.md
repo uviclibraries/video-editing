@@ -22,8 +22,8 @@ Let’s create a short little screen recording with Google Vids. You will need a
 - Go back to Google Vids and at the top of the screen, click **Screen** to start the screen recording process
 - You will be prompted to choose what to share, such as a single browser tab, a window, or your entire screen
 - Select the tab or window you chose to demonstrate and click the blue **Share** button
-- Google Vids will count down from three seconds before it starts recording
-- If you need to pause your recording, click the red pause button in the small recording window. When you are ready to continue, click the same button again to resume your recording <img src="images/googlevids-02.png" style="float:right;width:200px" alt="pause button">  
+- Google Vids will count down from three seconds before it starts recording <img src="images/googlevids-02.png" style="float:right;width:200px" alt="pause button">  
+- If you need to pause your recording, click the red pause button in the small recording window. When you are ready to continue, click the same button again to resume your recording 
 - When you are finished with your demonstration, click the pause button again to stop recording, then switch back to your Google Vids tab
 - You can preview your video to make sure everything was captured correctly, or click **Insert** to add the recording to your project timeline and begin editing
 
@@ -35,7 +35,8 @@ Let’s create a short little screen recording with Google Vids. You will need a
 
 3. Edit your recording:
 
-4. Download your video to a file on your hard drive: <img src="images/googlevids-04.png" style="float:right;width:300px" alt="download mp4">
+
+3. Download your video to a file on your hard drive: <img src="images/googlevids-04.png" style="float:right;width:300px" alt="download mp4">
 - Review your recording to make sure you are happy with the final result
 - Click **File** in the top-left corner of the Google Vids window
 - Hover over **Download** and select **MP4 video**

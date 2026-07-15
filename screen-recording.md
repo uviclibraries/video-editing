@@ -37,18 +37,12 @@ Let’s create a short little screen recording with Google Vids. You will need a
 Trim your video
 - Click on the video clip in the timeline
 - Drag either end of the clip inward to remove unwanted footage from the begining or end of the video
+  
 Split a video clip
 - Move the playhead pr click to the point where you want to split the video
 - In the bar at the top, click **Scene** and click **Split scene at playhead**
 - Alternativitely, you can use the shortcut Ctrl-Shift-S (Windows) or Cmnd-Shift-S (Mac)
-Add transitions
--
-Add background music
--
-Add text and graphics
--
-Crop your video
--
+  
 
 
 4. Download your video to a file on your hard drive: <img src="images/googlevids-04.png" style="float:right;width:300px" alt="download mp4">

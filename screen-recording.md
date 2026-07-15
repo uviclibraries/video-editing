@@ -67,7 +67,9 @@ Let’s create a short little screen recording with Google Vids. You will need a
    - Drag the edges or corners of the crop box to adjust what is visible in your video
 
 
-5. Download your video to a file on your hard drive: <img src="images/googlevids-04.png" style="float:right;width:300px" alt="download mp4">
+
+
+4. Download your video to a file on your hard drive: <img src="images/googlevids-04.png" style="float:right;width:300px" alt="download mp4">
 - Review your recording to make sure you are happy with the final result
 - Click **File** in the top-left corner of the Google Vids window
 - Hover over **Download** and select **MP4 video**

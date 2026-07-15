@@ -35,39 +35,39 @@ Let’s create a short little screen recording with Google Vids. You will need a
 
 3. Edit your recording:
     
-    Trim your video
+    **Trim your video**
    - Click on the video clip in the timeline
    - Drag either end of the clip inward to remove unwanted footage from the begining or end of your video
    
-     Split a video clip
-     - Move the playhead, or click on the point in the timeline where you want to split your video
-     - In the menu bar at the top, click **Scene**, then select **Split scene at playhead**
-     - Alternatively, you can use the keyboard shortcut **Ctrl + Shift + S** (Windows) or **Command + Shift + S** (Mac)
-     - Your video will now be split into two separate clips that can be edited independently
+   **Split a video clip**
+   - Move the playhead, or click on the point in the timeline where you want to split your video
+   - In the menu bar at the top, click **Scene**, then select **Split scene at playhead**
+   - Alternatively, you can use the keyboard shortcut **Ctrl + Shift + S** (Windows) or **Command + Shift + S** (Mac)
+   - Your video will now be split into two separate clips that can be edited independently
 
-    Add transitions
+    **Add transitions**
    - After splitting your clip, click the button located in between the two clips (**Add transition** button)
    - A pop-up with various transition types will appear
    - Select the transition you would like to use and choose the duration
 
-    Add background music
+    **Add background music**
    - Click **Insert** in the menu bar at the top and select **Upload**
    - Browse your computer and select the MP3 file you would like to add (You can also upload files from your drive)
    - Once uploaded, your music will be added to the timeline, where you can adjust its placement and length
 
-    Add text and graphics
+    **Add text and graphics**
    - Click **Insert** in the menu bar and select **Text**
    - A pop-up with various text options will appear
    - You can also add captions, shapes, images, icons, stickers, and other visual elements from the **Insert** menu
    - Drag and resize the elements to position them where you would like them to appear
 
-    Crop your video
+    **Crop your video**
    - Click on the video clip in the timeline, then click directly on the video preview
    - In the toolbar at the top of the screen, click the **Crop** icon
    - Drag the edges or corners of the crop box to adjust what is visible in your video
 
 
-4. Download your video to a file on your hard drive: <img src="images/googlevids-04.png" style="float:right;width:300px" alt="download mp4">
+5. Download your video to a file on your hard drive: <img src="images/googlevids-04.png" style="float:right;width:300px" alt="download mp4">
 - Review your recording to make sure you are happy with the final result
 - Click **File** in the top-left corner of the Google Vids window
 - Hover over **Download** and select **MP4 video**

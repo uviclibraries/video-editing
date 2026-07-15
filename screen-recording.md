@@ -5,7 +5,7 @@ nav_order: 1
 parent: Bonus Activities
 ---
 <img src="images/googlevids-01.png" style="float:right;width:220px" alt="Google Vids logo"> 
-# Screen Recording (Updates in progress) 
+# Screen Recording (UNDER CONSTRUCTION) 
 Let’s create a short little screen recording with Google Vids. You will need a Google account and the Google Chrome or Microsoft Edge web browser in order to complete this activity.  If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!  
 
 1. Using [Google Vids](https://vids.new){:target="_blank"} 
@@ -34,9 +34,24 @@ Let’s create a short little screen recording with Google Vids. You will need a
     </div> 
 
 3. Edit your recording:
+Trim your video
+- Click on the video clip in the timeline
+- Drag either end of the clip inward to remove unwanted footage from the begining or end of the video
+Split a video clip
+- Move the playhead pr click to the point where you want to split the video
+- In the bar at the top, click **Scene** and click **Split scene at playhead**
+- Alternativitely, you can use the shortcut Ctrl-Shift-S (Windows) or Cmnd-Shift-S (Mac)
+Add transitions
+-
+Add background music
+-
+Add text and graphics
+-
+Crop your video
+-
 
 
-3. Download your video to a file on your hard drive: <img src="images/googlevids-04.png" style="float:right;width:300px" alt="download mp4">
+4. Download your video to a file on your hard drive: <img src="images/googlevids-04.png" style="float:right;width:300px" alt="download mp4">
 - Review your recording to make sure you are happy with the final result
 - Click **File** in the top-left corner of the Google Vids window
 - Hover over **Download** and select **MP4 video**

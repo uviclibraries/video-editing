@@ -34,15 +34,35 @@ Let’s create a short little screen recording with Google Vids. You will need a
     </div> 
 
 3. Edit your recording:
+   
 Trim your video
 - Click on the video clip in the timeline
-- Drag either end of the clip inward to remove unwanted footage from the begining or end of the video
+- Drag either end of the clip inward to remove unwanted footage from the begining or end of your video
   
 Split a video clip
-- Move the playhead pr click to the point where you want to split the video
-- In the bar at the top, click **Scene** and click **Split scene at playhead**
-- Alternativitely, you can use the shortcut Ctrl-Shift-S (Windows) or Cmnd-Shift-S (Mac)
-  
+- Move the playhead, or click on the point in the timeline where you want to split your video
+- In the menu bar at the top, click **Scene**, then select **Split scene at playhead**
+- Alternatively, you can use the keyboard shortcut **Ctrl + Shift + S** (Windows) or **Command + Shift + S** (Mac)
+- Your video will now be split into two separate clips that can be edited independently
+
+Add transitions
+- After splitting your clip, click the button located in between the two clips (**Add transition** button)
+- A pop-up with various transition types will appear
+- Select the transition you would like to use and choose the duration
+
+Add background music
+- Click **Insert** in the menu bar at the top and select **Upload**
+- Browse your computer and select the MP3 file you would like to add (You can also upload files from your drive)
+- Once uploaded, your music will be added to the timeline, where you can adjust its placement and length
+
+Add text and graphics
+-  Click **Insert** at the top and select **Text**
+
+Crop your video
+- Click on the actual screen of your video
+- On the top toolbar, click the crop symbol
+- You can know drag the edges or corners of your video 
+
 
 
 4. Download your video to a file on your hard drive: <img src="images/googlevids-04.png" style="float:right;width:300px" alt="download mp4">

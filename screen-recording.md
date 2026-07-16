@@ -41,7 +41,7 @@ Let’s create a short little screen recording with Google Vids. You will need a
    
    **Split a video clip**
    - Move the playhead, or click on the point in the timeline where you want to split your video
-   - In the menu bar at the top, click **Scene**, then select **Split scene at playhead**
+   - In the menu bar at the top, click **Scene**, then select **Split scene at playhead** <img src="images/googlevids-06.png" style="float:right;width:300px" alt="split clip">
    - Alternatively, you can use the keyboard shortcut **Ctrl + Shift + S** (Windows) or **Command + Shift + S** (Mac)
    - Your video will now be split into two separate clips that can be edited independently
 

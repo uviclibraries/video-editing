@@ -58,7 +58,7 @@ Let’s create a short little screen recording with Google Vids. You will need a
 
     **Add background audio**
    - Click **Insert** in the menu bar at the top and select **Upload** 
-   - Browse your computer and select the MP3 file you would like to add (You can also upload files from your drive by clicking **Drive & Photos**) <img src="images/googlevids-08.png" style="float:right;width:250px" alt="upload">  
+   - Browse your computer and select the MP3 file you would like to add (You can also upload files from your drive by clicking **Drive & Photos**) <img src="images/googlevids-09.png" style="float:right;width:250px" alt="upload">  
    - Once uploaded, your audio will be added to the timeline, where you can adjust its placement and length
 
     **Add text and graphics**

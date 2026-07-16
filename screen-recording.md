@@ -56,14 +56,15 @@ Let’s create a short little screen recording with Google Vids. You will need a
     <img src="images/googlevids-07.gif" style="width:700px;">
     </div>
 
-    **Add background music**
-   - Click **Insert** in the menu bar at the top and select **Upload**
-   - Browse your computer and select the MP3 file you would like to add (You can also upload files from your drive)
-   - Once uploaded, your music will be added to the timeline, where you can adjust its placement and length
+    **Add background audio**
+   - Click **Insert** in the menu bar at the top and select **Upload** 
+   - Browse your computer and select the MP3 file you would like to add (You can also upload files from your drive by clicking **Drive & Photos**) <img src="images/googlevids-08.png" style="float:right;width:250px" alt="upload">  
+   - Once uploaded, your audio will be added to the timeline, where you can adjust its placement and length
 
     **Add text and graphics**
    - Click **Insert** in the menu bar and select **Text**
    - A pop-up with various text options will appear
+   - Select a text style that you like, then customize the font, size, colour, and formatting (such as bold or italic) to suit your video
    - You can also add captions, shapes, images, icons, stickers, and other visual elements from the **Insert** menu
    - Drag and resize the elements to position them where you would like them to appear
 

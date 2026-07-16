@@ -72,7 +72,10 @@ Let’s create a short little screen recording with Google Vids. You will need a
    - In the toolbar at the top of the screen, click the **Crop** icon
    - Drag the edges or corners of the crop box to adjust what is visible in your video
 
-
+    <button onclick="toggle('gif3')">Show/Hide Animation</button>
+    <div id="gif3">
+    <img src="images/googlevids-08.gif" style="width:700px;">
+    </div>
 
 
 3. Download your video to a file on your hard drive: <img src="images/googlevids-04.png" style="float:right;width:300px" alt="download mp4">

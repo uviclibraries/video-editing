@@ -42,7 +42,7 @@ Let’s create a short little screen recording with Google Vids. You will need a
    **Split a video clip**
    - Move the playhead, or click on the point in the timeline where you want to split your video
    - In the menu bar at the top, click **Scene**, then select **Split scene at playhead**
-   - <img src="images/googlevids-06.png" style="float:right;width:200px" alt="split clip">
+   - <img src="images/googlevids-06.png" style="float:right;width:300px" alt="split clip">
    - Alternatively, you can use the keyboard shortcut **Ctrl + Shift + S** (Windows) or **Command + Shift + S** (Mac)
    - Your video will now be split into two separate clips that can be edited independently
 
@@ -50,7 +50,7 @@ Let’s create a short little screen recording with Google Vids. You will need a
    - After splitting your clip, click the button located in between the two clips (**Add transition** button)
    - A pop-up with various transition types will appear
    - Select the transition you would like to use and choose the duration
-   - 
+     
     <button onclick="toggle('gif2')">Show/Hide Animation</button>
     <div id="gif2">
     <img src="images/googlevids-07.gif" style="width:700px;">

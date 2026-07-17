@@ -12,7 +12,8 @@ Let’s create a short little screen recording with Google Vids. You will need a
 - Open Google Chrome or Microsoft Edge
 - Navigate to Google Vids by clicking [this link](https://vids.new){:target="_blank"} 
 - You will be prompted to sign in to your Google account if you're not already signed in 
-- Once Google Vids has loaded, a pop-up window with several options will appear <img src="images/googlevids-05.png" style="float:right;width:400px" alt="options pop-up">
+- Once Google Vids has loaded, a pop-up window with several options will appear
+- <img src="images/googlevids-05.png" style="width:400px" alt="options pop-up">
 - Click the option labelled **Record** 
 - If prompted, allow Google Vids to access your microphone and screen 
 - Good job! You are now ready to record your first screen recording 

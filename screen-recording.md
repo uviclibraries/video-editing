@@ -89,9 +89,15 @@ Let’s create a short little screen recording with Google Vids. You will need a
 
 5. Optional: Upload your finished video to YouTube
 - Google Vids allows you to export your edited video directly to YouTube
-- In the **menu bar**, click **File**, then select **Export to YouTube**. <img src="images/googlevids-11.png" style="float:right;width:300px" alt="Export to YouTube">
+- In the **menu bar**, click **File**, then select **Export to YouTube**.
+
+<img src="images/googlevids-11.png" width="400" alt="Export to YouTube">
+  
 - Depending on the length of your video, it may take a few moments to export.
-- Once the export is complete, a pop-up will appear confirming that your video has been successfully exported. Click **Open YouTube** in the pop-up. <img src="images/googlevids-12.png" style="float:right;width:300px" alt="Export complete pop-up">
+- Once the export is complete, a pop-up will appear confirming that your video has been successfully exported. Click **Open YouTube** in the pop-up.
+
+<img src="images/googlevids-12.png" width="450" alt="Export complete pop-up">
+  
 - You will be taken directly to **YouTube Studio**, where you can edit your video's title, description, thumbnail, visibility settings, and other details before publishing it.
   
 <img src="images/googlevids-10.png" style="width:700px" alt="YouTube Studio">

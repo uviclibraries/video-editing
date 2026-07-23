@@ -85,17 +85,16 @@ Let’s create a short little screen recording with Google Vids. You will need a
 - Click **File** in the top-left corner of the Google Vids window
 - Hover over **Download** and select **MP4 video**
 - Depending on the length of your recording, it may take a few moments for Google Vids to generate and download the MP4 file
-- You can also export the video straight to YouTube and Google Drive
+- You can also export the video straight to your Google Drive
 
-5. At this point, if you can either edit your video - see the video editing workshop materials if you’d like to learn how to edit your screencast video. Or if you are happy with your video as it is, you can upload your MP4 video file to YouTube or to your OpenEd.ca WordPress website (the same way you would upload an image to your OpenEd Website). Here are instructions on how to upload your video to YouTube:
-- In another browser tab, open up [YouTube.com](https://www.youtube.com/){:target="_blank"}
-- <img src="images/screencastify-07.png" style="float:right;width:250px" alt="upload button">  Click on the upload button on the top right of the YouTube window (see screenshot to the right), and then click on Upload video
-- Next click on the Select files to upload button in the middle of the screen. 
-- <img src="images/screencastify-08.png" style="float:right;width:200px" alt="select files to upload icon"> Browse to your MP4 video file which should be on your Desktop, and select it, and then press the **Open** button.
-- While your file is uploading you should give your video and appropriate name and description. 
-- If you want to change the license for your video to a Creative Commons license, press the **Advanced settings** tab, and under License and rights ownership, select the **Creative Commons - Attribution** license.
-- Once you’re happy with the name and description of the file, press the blue **Done** button on the top right of the window.
-- Your video is now published and a URL that you can use to distribute your video is near the top of the web page.<br>
+5. Optional: Upload your finished video to YouTube
+- Google Vids allows you to export your edited video directly to YouTube
+- In the **menu bar**, click **File**, then select **Export to YouTube**. <img src="images/googlevids-11.png" style="float:right;width:300px" alt="Export to YouTube">
+- Depending on the length of your video, it may take a few moments to export.
+- Once the export is complete, a pop-up will appear confirming that your video has been successfully exported. Click **Open YouTube** in the pop-up. <img src="images/googlevids-12.png" style="float:right;width:300px" alt="Export complete pop-up">
+- You will be taken directly to **YouTube Studio**, where you can edit your video's title, description, thumbnail, visibility settings, and other details before publishing it.
+  
+<img src="images/googlevids-10.png" style="width:700px" alt="YouTube Studio">
 
 Great Job!<br>
 

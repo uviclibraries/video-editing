@@ -5,7 +5,7 @@ nav_order: 1
 parent: Bonus Activities
 ---
 <img src="images/googlevids-01.png" style="float:right;width:220px" alt="Google Vids logo"> 
-# Screen Recording 
+# Screen Recording  
 Let’s create a short little screen recording with Google Vids. You will need a Google account and the Google Chrome or Microsoft Edge web browser in order to complete this activity.  If you have any questions or get stuck as you work through this in-class exercise, please ask the instructor for assistance.  Have fun!  
 
 1. Using [Google Vids](https://vids.new){:target="_blank"} 
